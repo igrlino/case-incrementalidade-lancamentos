@@ -1,0 +1,10 @@
+# Case Spec II — entrega compartilhável
+.ipynb_checkpoints/
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.DS_Store
+.mypy_cache/
+.ruff_cache/
+data/processed/

@@ -1,0 +1,6 @@
+# Versões alinhadas ao ambiente em que o case foi rodado.
+pandas==2.3.3
+numpy==2.4.6
+scipy==1.17.1
+pyarrow>=18.0.0,<22
+ipykernel>=6.29.0

@@ -1,0 +1,83 @@
+[
+  {
+    "marca_std": "Eudora",
+    "subcategoria": "Condicionador",
+    "pesos": {
+      "Eudora|Óleo Corporal": 0.9582496189509181,
+      "O Boticário|Óleo Corporal": 0.04175038104908186
+    }
+  },
+  {
+    "marca_std": "Eudora",
+    "subcategoria": "Hidratante Corporal",
+    "pesos": {
+      "O Boticário|Colônia Infantil": 0.671108719058616,
+      "O Boticário|Hidratante Corporal": 0.19032264518396244,
+      "O Boticário|Sérum": 0.13856863575742132
+    }
+  },
+  {
+    "marca_std": "Eudora",
+    "subcategoria": "Máscara",
+    "pesos": {
+      "Eudora|Óleo Corporal": 0.30619082068362774,
+      "O Boticário|Condicionador": 0.23487292398586704,
+      "O Boticário|Hidratante Corporal": 0.2793602403230364,
+      "O Boticário|Sérum": 0.1651405962611628,
+      "O Boticário|Óleo Corporal": 0.011337304307615525
+    }
+  },
+  {
+    "marca_std": "Eudora",
+    "subcategoria": "Perfume Feminino",
+    "pesos": {
+      "O Boticário|Perfume Masculino": 0.6179666095443015,
+      "O Boticário|Óleo Corporal": 0.38203339045569845
+    }
+  },
+  {
+    "marca_std": "Eudora",
+    "subcategoria": "Perfume Masculino",
+    "pesos": {
+      "O Boticário|Colônia Infantil": 0.6138930653199456,
+      "O Boticário|Hidratante Corporal": 0.08529464776597523,
+      "O Boticário|Óleo Corporal": 0.30081228691407913
+    }
+  },
+  {
+    "marca_std": "Eudora",
+    "subcategoria": "Sabonete Líquido",
+    "pesos": {
+      "O Boticário|Condicionador": 0.3960496112383016,
+      "O Boticário|Shampoo": 0.6039503887616983
+    }
+  },
+  {
+    "marca_std": "Eudora",
+    "subcategoria": "Sérum",
+    "pesos": {
+      "Eudora|Óleo Corporal": 0.20980696048807268,
+      "O Boticário|Perfume Masculino": 0.04373238213575322,
+      "O Boticário|Óleo Corporal": 0.746460657376174
+    }
+  },
+  {
+    "marca_std": "O Boticário",
+    "subcategoria": "Máscara",
+    "pesos": {
+      "O Boticário|Colônia Infantil": 0.15415156949025402,
+      "O Boticário|Condicionador": 0.845848430509746
+    }
+  },
+  {
+    "marca_std": "O Boticário",
+    "subcategoria": "Sabonete Líquido",
+    "pesos": {
+      "Eudora|Óleo Corporal": 0.023899607531782788,
+      "O Boticário|Condicionador": 0.21706511407228643,
+      "O Boticário|Perfume Masculino": 0.1350147600421313,
+      "O Boticário|Shampoo": 0.572276745843982,
+      "O Boticário|Óleo Corporal": 0.05174377250981745
+    }
+  }
+]

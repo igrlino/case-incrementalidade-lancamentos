@@ -1,0 +1,151 @@
+cod_sku,nome_produto,marca,categoria,subcategoria,faixa_preco,preco_regular,margem_bruta_pct,cod_ciclo_phase_in,cod_ciclo_phase_out
+SKU_001,O Boticário Hidratante Corporal 1,O Boticário,Corpo e Banho,Hidratante Corporal,P6,240.98,0.54,202512.0,202606.0
+SKU_002,O Boticário Colônia Infantil 2,O Boticário,Perfumaria,Colônia Infantil,P5,154.72,0.66,202411.0,
+SKU_003,Eudora Colônia Infantil 3,Eudora,Perfumaria,Colônia Infantil,P3,70.45,0.54,202601.0,
+SKU_004,O Boticário Máscara 4,O Boticário,Cabelos,Máscara,P6,261.08,0.51,202401.0,202504.0
+SKU_005,O Boticário Hidratante Corporal 5,O Boticário,Corpo e Banho,Hidratante Corporal,P1,29.92,0.69,202206.0,
+SKU_006,Eudora Condicionador 6,Eudora,Cabelos,Condicionador,P3,68.12,0.55,202508.0,
+SKU_007,Eudora Perfume Masculino 7,Eudora,Perfumaria,Perfume Masculino,P3,94.64,0.65,202412.0,202511.0
+SKU_008,Eudora Perfume Masculino 8,Eudora,Perfumaria,Perfume Masculino,P3,63.25,0.73,202501.0,
+SKU_009,O Boticário Sabonete Líquido 9,O Boticário,Corpo e Banho,Sabonete Líquido,P3,65.75,0.68,202411.0,
+SKU_010,Eudora Perfume Feminino 10,Eudora,Perfumaria,Perfume Feminino,P1,"31,34",0.71,202210.0,
+SKU_011,Eudora Sabonete Líquido 11,Eudora,Corpo e Banho,Sabonete Líquido,P5,200.39,0.48,202511.0,202606.0
+SKU_012,O Boticário Perfume Masculino 12,O Boticário,Perfumaria,Perfume Masculino,P6,306.47,0.55,202409.0,
+SKU_013,O Boticário Óleo Corporal 13,O Boticário,Corpo e Banho,Óleo Corporal,P2,44.97,0.52,202410.0,
+SKU_014,O Boticário Máscara 14,O Boticário,Cabelos,Máscara,P1,23.61,0.63,202206.0,202507.0
+SKU_015,Eudora Perfume Feminino 15,Eudora,Perfumaria,Perfume Feminino,P5,152.39,0.62,202503.0,
+SKU_016,eudora Colônia Infantil 16,eudora,Perfumaria,Colônia Infantil,P4,139.79,0.66,202405.0,
+SKU_017,O Boticário Óleo Corporal 17,O Boticário,Corpo e Banho,Óleo Corporal,P5,156.19,0.5,202505.0,202512.0
+SKU_018,Eudora Perfume Masculino 18,Eudora,Perfumaria,Perfume Masculino,P2,48.94,0.68,202501.0,
+SKU_019,Eudora Perfume Feminino 19,Eudora,Perfumaria,Perfume Feminino,P3,75.4,0.61,202511.0,202605.0
+SKU_020,O Boticário Perfume Feminino 20,O Boticário,Perfumaria,Perfume Feminino,P2,48.87,0.52,202212.0,
+SKU_021,O Boticário Hidratante Corporal 21,O Boticário,Corpo e Banho,Hidratante Corporal,P6,319.92,0.71,202206.0,
+SKU_022,O Boticário Perfume Masculino 22,O Boticário,Perfumaria,Perfume Masculino,P2,45.1,0.75,202305.0,
+SKU_023,Eudora Óleo Corporal 23,Eudora,Corpo e Banho,Óleo Corporal,P2,40.56,0.54,2022/04,
+SKU_024,O Boticário Condicionador 24,O Boticário,Cabelos,Condicionador,P5,146.53,0.53,202503.0,202512.0
+SKU_025,O Boticário Óleo Corporal 25,O Boticário,Corpo e Banho,Óleo Corporal,P5,146.66,0.66,202501.0,
+SKU_026,Eudora Perfume Masculino 26,Eudora,Perfumaria,Perfume Masculino,P2,52.12,0.56,202309.0,
+SKU_027,O Boticário Hidratante Corporal 27,O Boticário,Corpo e Banho,Hidratante Corporal,P5,155.71,0.55,202311.0,
+SKU_028,Eudora Óleo Corporal 28,Eudora,Corpo e Banho,Óleo Corporal,P5,208.89,0.7,202410.0,202605.0
+SKU_029,O Boticário Perfume Masculino 29,O Boticário,Perfumaria,Perfume Masculino,P1,31.14,0.52,202307.0,
+SKU_030,Eudora Sérum 30,Eudora,Cabelos,Sérum,P1,21.38,0.59,202306.0,202410.0
+SKU_031,Eudora Sabonete Líquido 31,Eudora,Corpo e Banho,Sabonete Líquido,P5,141.67,0.5,202509.0,
+SKU_032,O Boticário Perfume Masculino 32,O Boticário,Perfumaria,Perfume Masculino,P1,24.62,0.72,202203.0,
+SKU_033,O Boticário Sabonete Líquido 33,O Boticário,Corpo e Banho,Sabonete Líquido,P2,56.75,0.74,202212.0,
+SKU_034,O Boticário Sérum 34,O Boticário,Cabelos,Sérum,P3,66.41,0.67,202401.0,
+SKU_035,Eudora Máscara 35,Eudora,Cabelos,Máscara,P2,41.35,0.66,202402.0,
+SKU_036,Eudora Óleo Corporal 36,Eudora,Corpo e Banho,Óleo Corporal,P6,317.95,0.62,202202.0,202312.0
+SKU_037,O Boticário Shampoo 37,O Boticário,Cabelos,Shampoo,P5,170.98,0.68,202309.0,
+SKU_038,O Boticário Perfume Masculino 38,O Boticário,Perfumaria,Perfume Masculino,P6,258.53,0.62,202411.0,
+SKU_039,Eudora Shampoo 39,Eudora,Cabelos,Shampoo,P5,162.66,0.71,202511.0,
+SKU_040,O Boticário Sabonete Líquido 40,O Boticário,Corpo e Banho,Sabonete Líquido,P2,46.09,0.73,202508.0,
+SKU_041,Eudora Shampoo 41,Eudora,Cabelos,Shampoo,P3,68.15,0.69,202503.0,
+SKU_042,O Boticário Condicionador 42,O Boticário,Cabelos,Condicionador,P3,78.53,0.65,202310.0,202604.0
+SKU_043,O Boticário Perfume Feminino 43,O Boticário,Perfumaria,Perfume Feminino,P2,59.61,0.65,202205.0,
+SKU_044,Eudora Sérum 44,Eudora,Cabelos,Sérum,P2,39.54,0.67,202601.0,
+SKU_045,Eudora Óleo Corporal 45,Eudora,Corpo e Banho,Óleo Corporal,P1,28.36,0.73,202208.0,
+SKU_046,Eudora Sabonete Líquido 46,Eudora,Corpo e Banho,Sabonete Líquido,P5,197.24,0.72,202404.0,
+SKU_047,Eudora Sérum 47,Eudora,Cabelos,Sérum,P2,56.16,0.55,202410.0,
+SKU_048,Eudora Perfume Masculino 48,Eudora,Perfumaria,Perfume Masculino,P3,91.36,0.5,202210.0,202401.0
+SKU_049,Eudora Sabonete Líquido 49,Eudora,Corpo e Banho,Sabonete Líquido,P1,23.1,0.59,202502.0,
+SKU_050,Eudora Sabonete Líquido 50,Eudora,Corpo e Banho,Sabonete Líquido,P1,34.14,0.56,202401.0,
+SKU_051,O Boticário Óleo Corporal 51,O Boticário,Corpo e Banho,Óleo Corporal,P4,105.65,0.6,202202.0,
+SKU_052,O Boticário Condicionador 52,O Boticário,Cabelos,Condicionador,P4,122.04,0.66,202206.0,
+SKU_053,Eudora Perfume Masculino 53,Eudora,Perfumaria,Perfume Masculino,P3,68.2,0.57,202601.0,
+SKU_054,O Boticário Perfume Masculino 54,O Boticário,Perfumaria,Perfume Masculino,P6,269.8,0.75,202311.0,202407.0
+SKU_055,O Boticário Perfume Feminino 55,O Boticário,Perfumaria,Perfume Feminino,P5,151.51,0.51,202507.0,202602.0
+SKU_056,O Boticário Óleo Corporal 56,O Boticário,Corpo e Banho,Óleo Corporal,P2,59.15,0.51,202202.0,
+SKU_057,O Boticário Hidratante Corporal 57,O Boticário,Corpo e Banho,Hidratante Corporal,P5,188.65,0.65,202207.0,
+SKU_058,Eudora Hidratante Corporal 58,Eudora,Corpo e Banho,Hidratante Corporal,P5,170.56,0.58,202409.0,
+SKU_059,Eudora Shampoo 59,Eudora,Cabelos,Shampoo,P3,82.61,0.7,202510.0,202604.0
+SKU_060,Eudora Sabonete Líquido 60,Eudora,Corpo e Banho,Sabonete Líquido,P4,132.33,0.64,202309.0,
+SKU_061,Eudora Perfume Masculino 61,Eudora,Perfumaria,Perfume Masculino,P3,61.98,0.71,202212.0,
+SKU_062,Eudora Óleo Corporal 62,Eudora,Corpo e Banho,Óleo Corporal,P5,141.7,0.74,202206.0,202502.0
+SKU_063,Eudora Óleo Corporal 63,Eudora,Corpo e Banho,Óleo Corporal,P4,130.89,0.51,202303.0,
+SKU_064,Eudora Óleo Corporal 64,Eudora,Corpo e Banho,Óleo Corporal,P4,139.85,0.63,202311.0,
+SKU_065,O Boticário Perfume Masculino 65,O Boticário,Perfumaria,Perfume Masculino,P6,269.41,0.69,202212.0,202512.0
+SKU_066,o boticário Sabonete Líquido 66,o boticário,Corpo e Banho,Sabonete Líquido,P2,43.11,0.58,202308.0,202507.0
+SKU_067,O Boticário Sabonete Líquido 67,O Boticário,Corpo e Banho,Sabonete Líquido,P6,305.66,0.61,202201.0,
+SKU_068,Eudora Perfume Masculino 68,Eudora,Perfumaria,Perfume Masculino,P1,32.33,0.59,202205.0,
+SKU_069,O Boticário Shampoo 69,O Boticário,Cabelos,Shampoo,P1,28.37,0.59,202503.0,
+SKU_070,Eudora Máscara 70,Eudora,Cabelos,Máscara,P3,80.33,0.5,202512.0,202606.0
+SKU_071,O Boticário Perfume Feminino 71,O Boticário,Perfumaria,Perfume Feminino,P2,36.06,0.6,202503.0,
+SKU_072,O Boticário Sérum 72,O Boticário,Cabelos,Sérum,P6,236.44,0.55,202505.0,
+SKU_073,O Boticário Colônia Infantil 73,O Boticário,Perfumaria,Colônia Infantil,P3,89.11,0.5,202211.0,
+SKU_074,Eudora Shampoo 74,Eudora,Cabelos,Shampoo,P6,"244,15",0.59,202306.0,
+SKU_075,Eudora Sabonete Líquido 75,Eudora,Corpo e Banho,Sabonete Líquido,P1,21.37,0.74,202501.0,
+SKU_076,O Boticário Shampoo 76,O Boticário,Cabelos,Shampoo,P4,118.83,0.6,202306.0,202506.0
+SKU_077,Eudora Máscara 77,Eudora,Cabelos,Máscara,P3,71.92,0.51,202211.0,
+SKU_078,Eudora Hidratante Corporal 78,Eudora,Corpo e Banho,Hidratante Corporal,P1,24.72,0.57,202402.0,
+SKU_079,O Boticário Sérum 79,O Boticário,Cabelos,Sérum,P2,48.44,0.65,202408.0,
+SKU_080,Eudora Sérum 80,Eudora,Cabelos,Sérum,P1,20.43,0.65,202304.0,
+SKU_081,Eudora Perfume Feminino 81,Eudora,Perfumaria,Perfume Feminino,P1,29.72,0.52,202510.0,
+SKU_082,Eudora Condicionador 82,Eudora,Cabelos,Condicionador,P5,150.98,0.53,202503.0,
+SKU_083,Eudora Máscara 83,Eudora,Cabelos,Máscara,P1,24.24,0.56,202502.0,
+SKU_084,Eudora Máscara 84,Eudora,Cabelos,Máscara,P5,193.64,0.58,202309.0,
+SKU_085,Eudora Shampoo 85,Eudora,Cabelos,Shampoo,P6,262.55,0.73,202401.0,
+SKU_086,O Boticário Shampoo 86,O Boticário,Cabelos,Shampoo,P5,207.61,0.57,202207.0,
+SKU_087,Eudora Hidratante Corporal 87,Eudora,Corpo e Banho,Hidratante Corporal,P6,316.73,0.5,202305.0,
+SKU_088,Eudora Óleo Corporal 88,Eudora,Corpo e Banho,Óleo Corporal,P3,82.31,0.72,2024/08,
+SKU_089,O Boticário Sabonete Líquido 89,O Boticário,Corpo e Banho,Sabonete Líquido,P6,220.85,0.74,202601.0,
+SKU_090,Eudora Perfume Feminino 90,Eudora,Perfumaria,Perfume Feminino,P1,24.4,0.58,202210.0,202506.0
+SKU_091,Eudora Colônia Infantil 91,Eudora,Perfumaria,Colônia Infantil,P5,188.14,0.61,202502.0,202603.0
+SKU_092,O Boticário Máscara 92,O Boticário,Cabelos,Máscara,P1,26.63,0.57,202502.0,
+SKU_093,Eudora Condicionador 93,Eudora,Cabelos,Condicionador,P4,100.69,0.58,202311.0,
+SKU_094,Eudora Sabonete Líquido 94,Eudora,Corpo e Banho,Sabonete Líquido,P1,28.49,0.67,202512.0,
+SKU_095,Eudora Condicionador 95,Eudora,Cabelos,Condicionador,P2,51.28,0.65,202508.0,
+SKU_096,O Boticário Colônia Infantil 96,O Boticário,Perfumaria,Colônia Infantil,P3,87.81,0.49,202312.0,
+SKU_097,O Boticário Sabonete Líquido 97,O Boticário,Corpo e Banho,Sabonete Líquido,P2,39.17,0.63,202312.0,
+SKU_098,Eudora Máscara 98,Eudora,Cabelos,Máscara,P1,27.02,0.5,202601.0,
+SKU_099,O Boticário Sabonete Líquido 99,O Boticário,Corpo e Banho,Sabonete Líquido,P4,96.61,0.62,202406.0,
+SKU_100,O Boticário Sabonete Líquido 100,O Boticário,Corpo e Banho,Sabonete Líquido,P6,236.49,0.49,202412.0,
+SKU_101,Eudora Máscara 101,Eudora,Cabelos,Máscara,P1,22.1,0.74,202308.0,
+SKU_102,Eudora Hidratante Corporal 102,Eudora,Corpo e Banho,Hidratante Corporal,P4,112.32,0.74,202509.0,
+SKU_103,Eudora Shampoo 103,Eudora,Cabelos,Shampoo,P5,169.16,0.74,202203.0,
+SKU_104,Eudora Shampoo 104,Eudora,Cabelos,Shampoo,P5,203.22,0.65,202204.0,
+SKU_105,O Boticário Shampoo 105,O Boticário,Cabelos,Shampoo,P6,280.7,0.74,202204.0,
+SKU_106,O Boticário Colônia Infantil 106,O Boticário,Perfumaria,Colônia Infantil,P5,155.9,0.71,202310.0,
+SKU_107,Eudora Perfume Feminino 107,Eudora,Perfumaria,Perfume Feminino,P2,38.64,0.71,202209.0,202406.0
+SKU_108,Eudora Colônia Infantil 108,Eudora,Perfumaria,Colônia Infantil,P5,148.84,0.5,202405.0,
+SKU_109,Eudora Hidratante Corporal 109,Eudora,Corpo e Banho,Hidratante Corporal,P4,124.31,0.49,202407.0,
+SKU_110,O Boticário Shampoo 110,O Boticário,Cabelos,Shampoo,P3,81.68,0.5,202306.0,
+SKU_111,Eudora Óleo Corporal 111,Eudora,Corpo e Banho,Óleo Corporal,P4,118.24,0.6,202509.0,202604.0
+SKU_112,Eudora Sérum 112,Eudora,Cabelos,Sérum,P6,221.36,0.6,202507.0,
+SKU_113,O Boticário Perfume Feminino 113,O Boticário,Perfumaria,Perfume Feminino,P4,100.25,0.68,202209.0,
+SKU_114,Eudora Perfume Masculino 114,Eudora,Perfumaria,Perfume Masculino,P6,313.58,0.59,202511.0,202606.0
+SKU_115,Eudora Perfume Feminino 115,Eudora,Perfumaria,Perfume Feminino,P2,56.33,0.57,202412.0,
+SKU_116,O Boticário Óleo Corporal 116,O Boticário,Corpo e Banho,Óleo Corporal,P5,205.11,0.7,202306.0,202408.0
+SKU_117,O Boticário Perfume Feminino 117,O Boticário,Perfumaria,Perfume Feminino,P5,186.36,0.5,202512.0,
+SKU_118,Eudora Perfume Masculino 118,Eudora,Perfumaria,Perfume Masculino,P4,111.0,0.58,202511.0,
+SKU_119,O Boticário Perfume Feminino 119,O Boticário,Perfumaria,Perfume Feminino,P6,219.89,0.6,202404.0,
+SKU_120,Eudora Perfume Masculino 120,Eudora,Perfumaria,Perfume Masculino,P1,24.25,0.66,202408.0,
+SKU_121,O Boticário Perfume Feminino 121,O Boticário,Perfumaria,Perfume Feminino,P3,93.14,0.69,202601.0,
+SKU_122,Eudora Perfume Feminino 122,Eudora,Perfumaria,Perfume Feminino,P5,189.55,0.62,202507.0,
+SKU_123,O Boticário Perfume Masculino 123,O Boticário,Perfumaria,Perfume Masculino,P4,136.53,0.71,202501.0,
+SKU_124,Eudora Shampoo 124,Eudora,Cabelos,Shampoo,P2,55.23,0.65,202509.0,
+SKU_125,Eudora Perfume Masculino 125,Eudora,Perfumaria,Perfume Masculino,P5,146.43,0.72,202512.0,
+SKU_126,O Boticário Colônia Infantil 126,O Boticário,Perfumaria,Colônia Infantil,P3,72.94,0.74,202506.0,
+SKU_127,O Boticário Hidratante Corporal 127,O Boticário,Corpo e Banho,Hidratante Corporal,P2,58.83,0.65,202406.0,
+SKU_128,Eudora Óleo Corporal 128,Eudora,Corpo e Banho,Óleo Corporal,P6,245.46,0.6,2024/07,
+SKU_129,Eudora Perfume Masculino 129,Eudora,Perfumaria,Perfume Masculino,P4,97.65,0.58,202307.0,202604.0
+SKU_130,o boticário Sérum 130,o boticário,Cabelos,Sérum,P4,136.0,0.63,202301.0,
+SKU_131,O Boticário Shampoo 131,O Boticário,Cabelos,Shampoo,P1,23.72,0.6,202405.0,
+SKU_132,Eudora Sérum 132,Eudora,Cabelos,Sérum,P6,276.17,0.69,202506.0,
+SKU_133,Eudora Condicionador 133,Eudora,Cabelos,Condicionador,P1,28.74,0.52,202311.0,
+SKU_134,Eudora Hidratante Corporal 134,Eudora,Corpo e Banho,Hidratante Corporal,P5,166.99,0.69,202209.0,
+SKU_135,Eudora Hidratante Corporal 135,Eudora,Corpo e Banho,Hidratante Corporal,P5,165.97,0.58,202212.0,
+SKU_136,O Boticário Perfume Feminino 136,O Boticário,Perfumaria,Perfume Feminino,P3,89.71,0.51,202411.0,
+SKU_137,Eudora Hidratante Corporal 137,Eudora,Corpo e Banho,Hidratante Corporal,P2,39.89,0.7,202504.0,
+SKU_138,O Boticário Máscara 138,O Boticário,Cabelos,Máscara,P4,122.87,0.68,202405.0,202506.0
+SKU_139,Eudora Perfume Masculino 139,Eudora,Perfumaria,Perfume Masculino,P4,129.86,0.69,202409.0,
+SKU_140,O Boticário Perfume Masculino 140,O Boticário,Perfumaria,Perfume Masculino,P6,263.38,0.58,202207.0,
+SKU_141,Eudora Perfume Masculino 141,Eudora,Perfumaria,Perfume Masculino,P5,151.17,0.6,202303.0,
+SKU_142,O Boticário Máscara 142,O Boticário,Cabelos,Máscara,P4,139.76,0.58,202202.0,
+SKU_143,O Boticário Condicionador 143,O Boticário,Cabelos,Condicionador,P1,24.3,0.7,202509.0,
+SKU_144,Eudora Perfume Feminino 144,Eudora,Perfumaria,Perfume Feminino,P2,56.04,0.63,202511.0,
+SKU_145,O Boticário Perfume Feminino 145,O Boticário,Perfumaria,Perfume Feminino,P4,124.11,0.65,202205.0,202506.0
+SKU_146,O Boticário Colônia Infantil 146,O Boticário,Perfumaria,Colônia Infantil,P3,75.59,0.65,202304.0,
+SKU_147,O Boticário Sabonete Líquido 147,O Boticário,Corpo e Banho,Sabonete Líquido,P5,178.54,0.69,202409.0,
+SKU_148,O Boticário Máscara 148,O Boticário,Cabelos,Máscara,P3,87.81,0.57,202511.0,
+SKU_149,O Boticário Condicionador 149,O Boticário,Cabelos,Condicionador,P3,79.56,0.7,202212.0,
+SKU_150,O Boticário Perfume Feminino 150,O Boticário,Perfumaria,Perfume Feminino,P6,"295,6",0.6,202307.0,202602.0
