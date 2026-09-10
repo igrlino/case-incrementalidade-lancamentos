@@ -1,18 +1,21 @@
 {
-  "gmv_direto_projetos": 14495403.31,
-  "mb_direto_projetos": 9084490.58,
+  "celula": "marca × subcategoria × faixa_preco",
+  "gmv_direto_projetos": 9868636.999999998,
+  "mb_direto_projetos": 6181066.55,
   "midia_total": 19300000.0,
-  "gmv_incremental_soma_estimavel": 7121147.266103551,
-  "mb_incremental_soma_estimavel": 4256727.509527543,
-  "midia_projetos_estimaveis": 13100000.0,
-  "payback_parcial_estimavel": -8843272.490472458,
-  "n_gate": {
-    "ABAIXO_HURDLE": 16,
-    "INCONCLUSIVO_IDENTIFICACAO": 7,
-    "VALUE_CREATOR": 2
+  "gmv_incremental_soma_estimavel": 2356716.6433696533,
+  "mb_incremental_soma_estimavel": 1570202.9640634535,
+  "midia_projetos_estimaveis": 8200000.0,
+  "payback_parcial_estimavel": -6629797.0359365465,
+  "n_selo": {
+    "Não dá para medir: sem produto antigo na faixa": 12,
+    "Não paga a mídia": 5,
+    "Ano 1 incompleto": 5,
+    "Não dá para medir: sem histórico antes do lançamento": 2,
+    "Não dá para medir: SKU nasceu depois da janela da célula": 1
   },
-  "n_celulas_sc_ok": 9,
-  "n_celulas_nao_identificadas": 3,
+  "n_celulas_sc_ok": 10,
+  "n_celulas_nao_identificadas": 14,
   "n_pares_similares_usaveis": 15,
   "n_pares_similares_total": 285,
   "n_ciclo_nulo_apos_mapa": 0,
@@ -20,129 +23,129 @@
   "event_study_gap": [
     {
       "event_time": -8,
-      "observado": 66454.4625,
-      "sintetico": 67862.74124702446,
-      "gap": -1408.2787470244557
+      "observado": 30265.953333333335,
+      "sintetico": 30163.034388703752,
+      "gap": 102.91894462957822
     },
     {
       "event_time": -7,
-      "observado": 54248.74555555555,
-      "sintetico": 52756.49519189807,
-      "gap": 1492.2503636574831
+      "observado": 28300.911,
+      "sintetico": 29179.116676261056,
+      "gap": -878.20567626105
     },
     {
       "event_time": -6,
-      "observado": 57102.391111111116,
-      "sintetico": 55961.03735655883,
-      "gap": 1141.3537545522809
+      "observado": 25803.714,
+      "sintetico": 27058.173613794923,
+      "gap": -1254.4596137949225
     },
     {
       "event_time": -5,
-      "observado": 61168.65666666667,
-      "sintetico": 62960.847311558566,
-      "gap": -1792.1906448918894
+      "observado": 30222.268,
+      "sintetico": 30190.741190220113,
+      "gap": 31.526809779888936
     },
     {
       "event_time": -4,
-      "observado": 81864.2611111111,
-      "sintetico": 79782.18615965491,
-      "gap": 2082.074951456196
+      "observado": 25524.412,
+      "sintetico": 24140.455426553923,
+      "gap": 1383.9565734460782
     },
     {
       "event_time": -3,
-      "observado": 80497.61777777778,
-      "sintetico": 78890.73339902305,
-      "gap": 1606.8843787547269
+      "observado": 35217.175,
+      "sintetico": 33678.8528636511,
+      "gap": 1538.3221363489083
     },
     {
       "event_time": -2,
-      "observado": 80120.36222222222,
-      "sintetico": 79363.93056811705,
-      "gap": 756.4316541051762
+      "observado": 28409.069,
+      "sintetico": 28203.428480857692,
+      "gap": 205.64051914230987
     },
     {
       "event_time": -1,
-      "observado": 55518.38222222222,
-      "sintetico": 52137.95847017045,
-      "gap": 3380.4237520517718
+      "observado": 28148.852000000003,
+      "sintetico": 28269.66143070527,
+      "gap": -120.80943070526914
     },
     {
       "event_time": 0,
-      "observado": 56461.433333333334,
-      "sintetico": 55909.93795835463,
-      "gap": 551.4953749786923
+      "observado": 24740.791999999998,
+      "sintetico": 23771.278512721525,
+      "gap": 969.5134872784738
     },
     {
       "event_time": 1,
-      "observado": 47758.334444444445,
-      "sintetico": 43947.03806321803,
-      "gap": 3811.296381226419
+      "observado": 17801.922,
+      "sintetico": 16901.743016770604,
+      "gap": 900.1789832293973
     },
     {
       "event_time": 2,
-      "observado": 63841.35666666666,
-      "sintetico": 58211.77543540453,
-      "gap": 5629.581231262138
+      "observado": 21516.512,
+      "sintetico": 21689.498117838644,
+      "gap": -172.9861178386469
     },
     {
       "event_time": 3,
-      "observado": 61409.518888888895,
-      "sintetico": 58818.731026410445,
-      "gap": 2590.7878624784385
+      "observado": 25061.416,
+      "sintetico": 25500.742021323727,
+      "gap": -439.32602132372904
     },
     {
       "event_time": 4,
-      "observado": 49360.14666666667,
-      "sintetico": 49676.29279277489,
-      "gap": -316.1461261082255
+      "observado": 29317.328,
+      "sintetico": 29287.274592404323,
+      "gap": 30.053407595680074
     },
     {
       "event_time": 5,
-      "observado": 53886.30777777778,
-      "sintetico": 53148.21841900015,
-      "gap": 738.0893587776268
+      "observado": 32214.273999999998,
+      "sintetico": 30780.094244255954,
+      "gap": 1434.1797557440516
     },
     {
       "event_time": 6,
-      "observado": 63602.288888888885,
-      "sintetico": 61894.134702509735,
-      "gap": 1708.1541863791579
+      "observado": 35510.573333333334,
+      "sintetico": 31462.52309550305,
+      "gap": 4048.0502378302804
     },
     {
       "event_time": 7,
-      "observado": 66097.1211111111,
-      "sintetico": 62674.481452535685,
-      "gap": 3422.639658575421
+      "observado": 30025.691111111108,
+      "sintetico": 26460.405177967823,
+      "gap": 3565.2859331432887
     },
     {
       "event_time": 8,
-      "observado": 69881.84111111112,
-      "sintetico": 65709.01952905604,
-      "gap": 4172.821582055077
+      "observado": 18889.306666666667,
+      "sintetico": 21194.96443106887,
+      "gap": -2305.6577644022027
     },
     {
       "event_time": 9,
-      "observado": 66007.8488888889,
-      "sintetico": 61575.24902614814,
-      "gap": 4432.599862740747
+      "observado": 21575.79375,
+      "sintetico": 21598.31509359304,
+      "gap": -22.52134359303932
     },
     {
       "event_time": 10,
-      "observado": 36239.369999999995,
-      "sintetico": 34294.09743504744,
-      "gap": 1945.2725649525585
+      "observado": 17118.49875,
+      "sintetico": 15739.573512297497,
+      "gap": 1378.9252377025034
     },
     {
       "event_time": 11,
-      "observado": 46091.764444444445,
-      "sintetico": 43250.36994289259,
-      "gap": 2841.3945015518534
+      "observado": 19123.31428571429,
+      "sintetico": 18247.08170750937,
+      "gap": 876.232578204918
     },
     {
       "event_time": 12,
-      "observado": 47368.56555555556,
-      "sintetico": 42776.19656070994,
-      "gap": 4592.3689948456085
+      "observado": 26403.004285714287,
+      "sintetico": 25684.506697005352,
+      "gap": 718.497588708936
     }
   ]
 }

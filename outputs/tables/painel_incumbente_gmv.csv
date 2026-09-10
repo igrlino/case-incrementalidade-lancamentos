@@ -1,818 +1,1875 @@
-marca_std,subcategoria,ciclo_idx,cod_ciclo,valor
-Eudora,Condicionador,0,202401,34700.83
-Eudora,Condicionador,1,202402,34160.01
-Eudora,Condicionador,2,202403,40966.53
-Eudora,Condicionador,3,202404,41394.88
-Eudora,Condicionador,4,202405,40199.51
-Eudora,Condicionador,5,202406,54294.82
-Eudora,Condicionador,6,202407,31437.77
-Eudora,Condicionador,7,202408,54002.94
-Eudora,Condicionador,8,202409,30948.15
-Eudora,Condicionador,9,202410,37024.09
-Eudora,Condicionador,10,202411,36405.85
-Eudora,Condicionador,11,202412,29330.97
-Eudora,Condicionador,12,202413,31209.06
-Eudora,Condicionador,13,202414,25221.11
-Eudora,Condicionador,14,202415,47704.35
-Eudora,Condicionador,15,202416,36330.09
-Eudora,Condicionador,16,202417,66106.15
-Eudora,Condicionador,17,202501,20991.56
-Eudora,Condicionador,18,202502,21986.78
-Eudora,Condicionador,19,202503,29042.09
-Eudora,Condicionador,20,202504,35362.14
-Eudora,Condicionador,21,202505,39204.58
-Eudora,Condicionador,22,202506,45416.98
-Eudora,Condicionador,23,202507,22454.95
-Eudora,Condicionador,24,202508,39836.729999999996
-Eudora,Condicionador,25,202509,24601.52
-Eudora,Condicionador,26,202510,23057.42
-Eudora,Condicionador,27,202511,34563.99
-Eudora,Condicionador,28,202512,18007.28
-Eudora,Condicionador,29,202513,22784.37
-Eudora,Condicionador,30,202514,28311.26
-Eudora,Condicionador,31,202515,53099.119999999995
-Eudora,Condicionador,32,202516,30467.92
-Eudora,Condicionador,33,202517,48460.74
-Eudora,Condicionador,34,202601,18003.84
-Eudora,Condicionador,35,202602,13550.15
-Eudora,Condicionador,36,202603,26055.32
-Eudora,Condicionador,37,202604,27074.579999999998
-Eudora,Condicionador,38,202605,28147.93
-Eudora,Condicionador,39,202606,49881.68
-Eudora,Condicionador,40,202607,20328.15
-Eudora,Condicionador,41,202608,34770.69
-Eudora,Condicionador,42,202609,25609.65
-Eudora,Hidratante Corporal,0,202401,182238.74
-Eudora,Hidratante Corporal,1,202402,188676.27000000002
-Eudora,Hidratante Corporal,2,202403,184848.22
-Eudora,Hidratante Corporal,3,202404,236138.97
-Eudora,Hidratante Corporal,4,202405,220533.92
-Eudora,Hidratante Corporal,5,202406,292105.42
-Eudora,Hidratante Corporal,6,202407,160745.07
-Eudora,Hidratante Corporal,7,202408,289144.28
-Eudora,Hidratante Corporal,8,202409,147376.07
-Eudora,Hidratante Corporal,9,202410,178306.32
-Eudora,Hidratante Corporal,10,202411,219543.47
-Eudora,Hidratante Corporal,11,202412,117306.21
-Eudora,Hidratante Corporal,12,202413,171302.58000000002
-Eudora,Hidratante Corporal,13,202414,132402.63
-Eudora,Hidratante Corporal,14,202415,234397.02000000002
-Eudora,Hidratante Corporal,15,202416,202983.77000000002
-Eudora,Hidratante Corporal,16,202417,328528.7
-Eudora,Hidratante Corporal,17,202501,105249.94
-Eudora,Hidratante Corporal,18,202502,127178.19
-Eudora,Hidratante Corporal,19,202503,128657.23000000001
-Eudora,Hidratante Corporal,20,202504,164586.91
-Eudora,Hidratante Corporal,21,202505,213039.28
-Eudora,Hidratante Corporal,22,202506,230390.85
-Eudora,Hidratante Corporal,23,202507,111413.77
-Eudora,Hidratante Corporal,24,202508,203467.22
-Eudora,Hidratante Corporal,25,202509,105411.24
-Eudora,Hidratante Corporal,26,202510,114946.58
-Eudora,Hidratante Corporal,27,202511,180764.48
-Eudora,Hidratante Corporal,28,202512,88634.34
-Eudora,Hidratante Corporal,29,202513,111066.69
-Eudora,Hidratante Corporal,30,202514,157557.38
-Eudora,Hidratante Corporal,31,202515,208355.98
-Eudora,Hidratante Corporal,32,202516,170999.85
-Eudora,Hidratante Corporal,33,202517,253885.72
-Eudora,Hidratante Corporal,34,202601,79834.06
-Eudora,Hidratante Corporal,35,202602,85230.17
-Eudora,Hidratante Corporal,36,202603,113353.88
-Eudora,Hidratante Corporal,37,202604,102467.32
-Eudora,Hidratante Corporal,38,202605,134578.9
-Eudora,Hidratante Corporal,39,202606,215485.59
-Eudora,Hidratante Corporal,40,202607,121360.18000000001
-Eudora,Hidratante Corporal,41,202608,196998.99000000002
-Eudora,Hidratante Corporal,42,202609,114703.11
-Eudora,Máscara,0,202401,64778.79
-Eudora,Máscara,1,202402,70249.23
-Eudora,Máscara,2,202403,86849.06999999999
-Eudora,Máscara,3,202404,109957.73
-Eudora,Máscara,4,202405,111397.08
-Eudora,Máscara,5,202406,137620.01
-Eudora,Máscara,6,202407,53726.88
-Eudora,Máscara,7,202408,128236.05
-Eudora,Máscara,8,202409,55277.25
-Eudora,Máscara,9,202410,82449.29
-Eudora,Máscara,10,202411,87999.36
-Eudora,Máscara,11,202412,62901.369999999995
-Eudora,Máscara,12,202413,73623.3
-Eudora,Máscara,13,202414,60469.85
-Eudora,Máscara,14,202415,114898.43
-Eudora,Máscara,15,202416,80765.59999999999
-Eudora,Máscara,16,202417,150412.3
-Eudora,Máscara,17,202501,48276.06
-Eudora,Máscara,18,202502,51548.9
-Eudora,Máscara,19,202503,47638.25
-Eudora,Máscara,20,202504,66829.13
-Eudora,Máscara,21,202505,76570.37
-Eudora,Máscara,22,202506,91640.64
-Eudora,Máscara,23,202507,39071.82
-Eudora,Máscara,24,202508,75812.95999999999
-Eudora,Máscara,25,202509,50375.74
-Eudora,Máscara,26,202510,51298.44
-Eudora,Máscara,27,202511,78751.55
-Eudora,Máscara,28,202512,41609.1
-Eudora,Máscara,29,202513,56067.49
-Eudora,Máscara,30,202514,64607.64
-Eudora,Máscara,31,202515,98680.77
-Eudora,Máscara,32,202516,70737.51
-Eudora,Máscara,33,202517,96372.79
-Eudora,Máscara,34,202601,29687.829999999998
-Eudora,Máscara,35,202602,40634.31
-Eudora,Máscara,36,202603,59577.869999999995
-Eudora,Máscara,37,202604,46051.26
-Eudora,Máscara,38,202605,58016.729999999996
-Eudora,Máscara,39,202606,99516.78
-Eudora,Máscara,40,202607,44014.96
-Eudora,Máscara,41,202608,84122.86
-Eudora,Máscara,42,202609,46225.52
-Eudora,Perfume Feminino,0,202401,21265.56
-Eudora,Perfume Feminino,1,202402,24227.36
-Eudora,Perfume Feminino,2,202403,29570.71
-Eudora,Perfume Feminino,3,202404,37437.29
-Eudora,Perfume Feminino,4,202405,33958.71
-Eudora,Perfume Feminino,5,202406,41864.32
-Eudora,Perfume Feminino,6,202407,12853.68
-Eudora,Perfume Feminino,7,202408,22464.739999999998
-Eudora,Perfume Feminino,8,202409,12107.8
-Eudora,Perfume Feminino,9,202410,16662.9
-Eudora,Perfume Feminino,10,202411,18344.02
-Eudora,Perfume Feminino,11,202412,10452.789999999999
-Eudora,Perfume Feminino,12,202413,13947.35
-Eudora,Perfume Feminino,13,202414,12307.96
-Eudora,Perfume Feminino,14,202415,21057.9
-Eudora,Perfume Feminino,15,202416,18264.7
-Eudora,Perfume Feminino,16,202417,28083.6
-Eudora,Perfume Feminino,17,202501,8162.68
-Eudora,Perfume Feminino,18,202502,8224.15
-Eudora,Perfume Feminino,19,202503,11790.4
-Eudora,Perfume Feminino,20,202504,11509.64
-Eudora,Perfume Feminino,21,202505,15479.75
-Eudora,Perfume Feminino,22,202506,17098.85
-Eudora,Perfume Feminino,23,202507,3974.37
-Eudora,Perfume Feminino,24,202508,5546.49
-Eudora,Perfume Feminino,25,202509,4546.46
-Eudora,Perfume Feminino,26,202510,7175.78
-Eudora,Perfume Feminino,27,202511,9007.09
-Eudora,Perfume Feminino,28,202512,4064.0
-Eudora,Perfume Feminino,29,202513,4941.88
-Eudora,Perfume Feminino,30,202514,7374.87
-Eudora,Perfume Feminino,31,202515,9766.78
-Eudora,Perfume Feminino,32,202516,6713.25
-Eudora,Perfume Feminino,33,202517,11561.74
-Eudora,Perfume Feminino,34,202601,4594.28
-Eudora,Perfume Feminino,35,202602,4990.85
-Eudora,Perfume Feminino,36,202603,7095.32
-Eudora,Perfume Feminino,37,202604,6450.48
-Eudora,Perfume Feminino,38,202605,6006.19
-Eudora,Perfume Feminino,39,202606,10364.4
-Eudora,Perfume Feminino,40,202607,5840.849999999999
-Eudora,Perfume Feminino,41,202608,8380.46
-Eudora,Perfume Feminino,42,202609,6833.4
-Eudora,Perfume Masculino,0,202401,109794.91
-Eudora,Perfume Masculino,1,202402,97979.55
-Eudora,Perfume Masculino,2,202403,115811.0
-Eudora,Perfume Masculino,3,202404,142449.98
-Eudora,Perfume Masculino,4,202405,138789.74
-Eudora,Perfume Masculino,5,202406,183829.41
-Eudora,Perfume Masculino,6,202407,95200.22
-Eudora,Perfume Masculino,7,202408,162837.41999999998
-Eudora,Perfume Masculino,8,202409,85323.3
-Eudora,Perfume Masculino,9,202410,118632.15
-Eudora,Perfume Masculino,10,202411,145009.88
-Eudora,Perfume Masculino,11,202412,75263.59
-Eudora,Perfume Masculino,12,202413,102218.11
-Eudora,Perfume Masculino,13,202414,85395.76
-Eudora,Perfume Masculino,14,202415,137184.61
-Eudora,Perfume Masculino,15,202416,118545.8
-Eudora,Perfume Masculino,16,202417,204940.32
-Eudora,Perfume Masculino,17,202501,60705.07
-Eudora,Perfume Masculino,18,202502,73550.54
-Eudora,Perfume Masculino,19,202503,72873.76
-Eudora,Perfume Masculino,20,202504,95495.28
-Eudora,Perfume Masculino,21,202505,112744.97
-Eudora,Perfume Masculino,22,202506,127636.89
-Eudora,Perfume Masculino,23,202507,53464.21
-Eudora,Perfume Masculino,24,202508,116523.92
-Eudora,Perfume Masculino,25,202509,66139.77
-Eudora,Perfume Masculino,26,202510,72686.3
-Eudora,Perfume Masculino,27,202511,106960.67
-Eudora,Perfume Masculino,28,202512,59116.2
-Eudora,Perfume Masculino,29,202513,83498.0
-Eudora,Perfume Masculino,30,202514,88781.45
-Eudora,Perfume Masculino,31,202515,134926.77
-Eudora,Perfume Masculino,32,202516,100421.99
-Eudora,Perfume Masculino,33,202517,148623.55
-Eudora,Perfume Masculino,34,202601,53528.17
-Eudora,Perfume Masculino,35,202602,51557.6
-Eudora,Perfume Masculino,36,202603,72779.46
-Eudora,Perfume Masculino,37,202604,62426.26
-Eudora,Perfume Masculino,38,202605,64000.14
-Eudora,Perfume Masculino,39,202606,105199.18
-Eudora,Perfume Masculino,40,202607,50658.5
-Eudora,Perfume Masculino,41,202608,77630.33
-Eudora,Perfume Masculino,42,202609,58609.28
-Eudora,Sabonete Líquido,0,202401,25307.56
-Eudora,Sabonete Líquido,1,202402,34851.35
-Eudora,Sabonete Líquido,2,202403,39066.39
-Eudora,Sabonete Líquido,3,202404,48734.130000000005
-Eudora,Sabonete Líquido,4,202405,43584.87
-Eudora,Sabonete Líquido,5,202406,57086.85
-Eudora,Sabonete Líquido,6,202407,36775.48
-Eudora,Sabonete Líquido,7,202408,56098.340000000004
-Eudora,Sabonete Líquido,8,202409,24788.07
-Eudora,Sabonete Líquido,9,202410,42006.85
-Eudora,Sabonete Líquido,10,202411,43581.3
-Eudora,Sabonete Líquido,11,202412,24756.780000000002
-Eudora,Sabonete Líquido,12,202413,36851.64
-Eudora,Sabonete Líquido,13,202414,29009.09
-Eudora,Sabonete Líquido,14,202415,54164.71
-Eudora,Sabonete Líquido,15,202416,40593.04
-Eudora,Sabonete Líquido,16,202417,68654.32
-Eudora,Sabonete Líquido,17,202501,25995.86
-Eudora,Sabonete Líquido,18,202502,22907.02
-Eudora,Sabonete Líquido,19,202503,25583.690000000002
-Eudora,Sabonete Líquido,20,202504,32069.23
-Eudora,Sabonete Líquido,21,202505,35965.55
-Eudora,Sabonete Líquido,22,202506,49537.12
-Eudora,Sabonete Líquido,23,202507,14905.84
-Eudora,Sabonete Líquido,24,202508,33514.22
-Eudora,Sabonete Líquido,25,202509,23732.08
-Eudora,Sabonete Líquido,26,202510,21406.84
-Eudora,Sabonete Líquido,27,202511,38186.340000000004
-Eudora,Sabonete Líquido,28,202512,16345.59
-Eudora,Sabonete Líquido,29,202513,30164.57
-Eudora,Sabonete Líquido,30,202514,30752.74
-Eudora,Sabonete Líquido,31,202515,44833.46
-Eudora,Sabonete Líquido,32,202516,31375.600000000002
-Eudora,Sabonete Líquido,33,202517,44552.130000000005
-Eudora,Sabonete Líquido,34,202601,17094.08
-Eudora,Sabonete Líquido,35,202602,17380.24
-Eudora,Sabonete Líquido,36,202603,30214.36
-Eudora,Sabonete Líquido,37,202604,23168.97
-Eudora,Sabonete Líquido,38,202605,33246.78
-Eudora,Sabonete Líquido,39,202606,50212.79
-Eudora,Sabonete Líquido,40,202607,24691.02
-Eudora,Sabonete Líquido,41,202608,39016.6
-Eudora,Sabonete Líquido,42,202609,21991.15
-Eudora,Shampoo,0,202401,132324.45
-Eudora,Shampoo,1,202402,158515.2
-Eudora,Shampoo,2,202403,197323.93
-Eudora,Shampoo,3,202404,242162.13
-Eudora,Shampoo,4,202405,204468.11
-Eudora,Shampoo,5,202406,290826.27
-Eudora,Shampoo,6,202407,143081.81
-Eudora,Shampoo,7,202408,271715.3
-Eudora,Shampoo,8,202409,149264.23
-Eudora,Shampoo,9,202410,150574.94
-Eudora,Shampoo,10,202411,176697.33
-Eudora,Shampoo,11,202412,117264.36
-Eudora,Shampoo,12,202413,155440.42
-Eudora,Shampoo,13,202414,156869.94
-Eudora,Shampoo,14,202415,236826.91
-Eudora,Shampoo,15,202416,200465.86
-Eudora,Shampoo,16,202417,322282.17
-Eudora,Shampoo,17,202501,99419.47
-Eudora,Shampoo,18,202502,102409.57
-Eudora,Shampoo,19,202503,109112.03
-Eudora,Shampoo,20,202504,159318.35
-Eudora,Shampoo,21,202505,165806.77
-Eudora,Shampoo,22,202506,205197.79
-Eudora,Shampoo,23,202507,83790.51
-Eudora,Shampoo,24,202508,158679.85
-Eudora,Shampoo,25,202509,101183.49
-Eudora,Shampoo,26,202510,121403.27
-Eudora,Shampoo,27,202511,162782.13
-Eudora,Shampoo,28,202512,90701.4
-Eudora,Shampoo,29,202513,142043.82
-Eudora,Shampoo,30,202514,147852.72
-Eudora,Shampoo,31,202515,221510.98
-Eudora,Shampoo,32,202516,154329.61
-Eudora,Shampoo,33,202517,258737.48
-Eudora,Shampoo,34,202601,84064.29
-Eudora,Shampoo,35,202602,89679.55
-Eudora,Shampoo,36,202603,107144.87
-Eudora,Shampoo,37,202604,95668.0
-Eudora,Shampoo,38,202605,135106.55
-Eudora,Shampoo,39,202606,194351.8
-Eudora,Shampoo,40,202607,116362.85
-Eudora,Shampoo,41,202608,197042.47
-Eudora,Shampoo,42,202609,102986.68000000001
-Eudora,Sérum,0,202401,8121.41
-Eudora,Sérum,1,202402,9935.75
-Eudora,Sérum,2,202403,14904.21
-Eudora,Sérum,3,202404,15102.98
-Eudora,Sérum,4,202405,15417.199999999999
-Eudora,Sérum,5,202406,18021.99
-Eudora,Sérum,6,202407,10110.289999999999
-Eudora,Sérum,7,202408,15672.14
-Eudora,Sérum,8,202409,8547.289999999999
-Eudora,Sérum,9,202410,10726.28
-Eudora,Sérum,10,202411,6478.38
-Eudora,Sérum,11,202412,3879.5099999999998
-Eudora,Sérum,12,202413,5288.33
-Eudora,Sérum,13,202414,5400.66
-Eudora,Sérum,14,202415,8953.22
-Eudora,Sérum,15,202416,6320.59
-Eudora,Sérum,16,202417,9745.59
-Eudora,Sérum,17,202501,3172.64
-Eudora,Sérum,18,202502,2919.47
-Eudora,Sérum,19,202503,3163.0
-Eudora,Sérum,20,202504,5236.07
-Eudora,Sérum,21,202505,4842.54
-Eudora,Sérum,22,202506,5593.44
-Eudora,Sérum,23,202507,3123.56
-Eudora,Sérum,24,202508,5478.53
-Eudora,Sérum,25,202509,3544.44
-Eudora,Sérum,26,202510,3669.37
-Eudora,Sérum,27,202511,4830.11
-Eudora,Sérum,28,202512,3338.92
-Eudora,Sérum,29,202513,3691.77
-Eudora,Sérum,30,202514,4770.04
-Eudora,Sérum,31,202515,7761.17
-Eudora,Sérum,32,202516,4921.05
-Eudora,Sérum,33,202517,7426.18
-Eudora,Sérum,34,202601,2610.43
-Eudora,Sérum,35,202602,2241.09
-Eudora,Sérum,36,202603,3275.35
-Eudora,Sérum,37,202604,3428.36
-Eudora,Sérum,38,202605,4135.14
-Eudora,Sérum,39,202606,7028.99
-Eudora,Sérum,40,202607,2943.45
-Eudora,Sérum,41,202608,5488.6
-Eudora,Sérum,42,202609,3141.04
-Eudora,Óleo Corporal,0,202401,101429.11
-Eudora,Óleo Corporal,1,202402,123342.34
-Eudora,Óleo Corporal,2,202403,147755.66
-Eudora,Óleo Corporal,3,202404,156066.28
-Eudora,Óleo Corporal,4,202405,159798.77
-Eudora,Óleo Corporal,5,202406,212043.96
-Eudora,Óleo Corporal,6,202407,109913.63
-Eudora,Óleo Corporal,7,202408,198537.91999999998
-Eudora,Óleo Corporal,8,202409,105584.64
-Eudora,Óleo Corporal,9,202410,136161.59
-Eudora,Óleo Corporal,10,202411,151954.74
-Eudora,Óleo Corporal,11,202412,100301.05
-Eudora,Óleo Corporal,12,202413,123778.20999999999
-Eudora,Óleo Corporal,13,202414,102796.81
-Eudora,Óleo Corporal,14,202415,182041.51
-Eudora,Óleo Corporal,15,202416,147823.25
-Eudora,Óleo Corporal,16,202417,252577.84
-Eudora,Óleo Corporal,17,202501,79988.69
-Eudora,Óleo Corporal,18,202502,79960.39
-Eudora,Óleo Corporal,19,202503,61738.45
-Eudora,Óleo Corporal,20,202504,85168.92
-Eudora,Óleo Corporal,21,202505,104663.72
-Eudora,Óleo Corporal,22,202506,111602.49
-Eudora,Óleo Corporal,23,202507,45682.43
-Eudora,Óleo Corporal,24,202508,97570.85
-Eudora,Óleo Corporal,25,202509,62920.61
-Eudora,Óleo Corporal,26,202510,67358.79
-Eudora,Óleo Corporal,27,202511,88809.75
-Eudora,Óleo Corporal,28,202512,43307.7
-Eudora,Óleo Corporal,29,202513,68345.99
-Eudora,Óleo Corporal,30,202514,81239.36
-Eudora,Óleo Corporal,31,202515,113352.6
-Eudora,Óleo Corporal,32,202516,96270.18
-Eudora,Óleo Corporal,33,202517,125114.55
-Eudora,Óleo Corporal,34,202601,49319.34
-Eudora,Óleo Corporal,35,202602,43955.409999999996
-Eudora,Óleo Corporal,36,202603,58721.45
-Eudora,Óleo Corporal,37,202604,51120.09
-Eudora,Óleo Corporal,38,202605,78318.03
-Eudora,Óleo Corporal,39,202606,110546.20999999999
-Eudora,Óleo Corporal,40,202607,49097.32
-Eudora,Óleo Corporal,41,202608,102295.76
-Eudora,Óleo Corporal,42,202609,60561.83
-O Boticário,Colônia Infantil,0,202401,97262.94
-O Boticário,Colônia Infantil,1,202402,109108.8
-O Boticário,Colônia Infantil,2,202403,118216.0
-O Boticário,Colônia Infantil,3,202404,139956.16
-O Boticário,Colônia Infantil,4,202405,147877.34
-O Boticário,Colônia Infantil,5,202406,189308.67
-O Boticário,Colônia Infantil,6,202407,95161.23
-O Boticário,Colônia Infantil,7,202408,163193.11000000002
-O Boticário,Colônia Infantil,8,202409,81650.19
-O Boticário,Colônia Infantil,9,202410,111895.63
-O Boticário,Colônia Infantil,10,202411,127345.01
-O Boticário,Colônia Infantil,11,202412,77239.45
-O Boticário,Colônia Infantil,12,202413,107395.54000000001
-O Boticário,Colônia Infantil,13,202414,91398.46
-O Boticário,Colônia Infantil,14,202415,148996.96
-O Boticário,Colônia Infantil,15,202416,131911.4
-O Boticário,Colônia Infantil,16,202417,200009.36000000002
-O Boticário,Colônia Infantil,17,202501,56787.16
-O Boticário,Colônia Infantil,18,202502,77136.34
-O Boticário,Colônia Infantil,19,202503,75448.24
-O Boticário,Colônia Infantil,20,202504,115057.92
-O Boticário,Colônia Infantil,21,202505,118040.24
-O Boticário,Colônia Infantil,22,202506,123945.8
-O Boticário,Colônia Infantil,23,202507,54223.21
-O Boticário,Colônia Infantil,24,202508,111238.54000000001
-O Boticário,Colônia Infantil,25,202509,67043.01
-O Boticário,Colônia Infantil,26,202510,81623.25
-O Boticário,Colônia Infantil,27,202511,112038.0
-O Boticário,Colônia Infantil,28,202512,64427.14
-O Boticário,Colônia Infantil,29,202513,82360.54
-O Boticário,Colônia Infantil,30,202514,97968.32
-O Boticário,Colônia Infantil,31,202515,143799.06
-O Boticário,Colônia Infantil,32,202516,105710.29000000001
-O Boticário,Colônia Infantil,33,202517,155330.25
-O Boticário,Colônia Infantil,34,202601,58151.06
-O Boticário,Colônia Infantil,35,202602,56599.51
-O Boticário,Colônia Infantil,36,202603,73002.86
-O Boticário,Colônia Infantil,37,202604,61211.98
-O Boticário,Colônia Infantil,38,202605,87732.96
-O Boticário,Colônia Infantil,39,202606,127406.15
-O Boticário,Colônia Infantil,40,202607,70980.17
-O Boticário,Colônia Infantil,41,202608,128028.23
-O Boticário,Colônia Infantil,42,202609,60911.44
-O Boticário,Condicionador,0,202401,54952.380000000005
-O Boticário,Condicionador,1,202402,60054.18
-O Boticário,Condicionador,2,202403,85990.51
-O Boticário,Condicionador,3,202404,94039.35
-O Boticário,Condicionador,4,202405,102079.36
-O Boticário,Condicionador,5,202406,130256.1
-O Boticário,Condicionador,6,202407,65486.41
-O Boticário,Condicionador,7,202408,119593.45
-O Boticário,Condicionador,8,202409,58307.08
-O Boticário,Condicionador,9,202410,76775.18000000001
-O Boticário,Condicionador,10,202411,92309.77
-O Boticário,Condicionador,11,202412,52731.81
-O Boticário,Condicionador,12,202413,68590.97
-O Boticário,Condicionador,13,202414,72510.05
-O Boticário,Condicionador,14,202415,110816.67
-O Boticário,Condicionador,15,202416,85499.25
-O Boticário,Condicionador,16,202417,139661.91
-O Boticário,Condicionador,17,202501,47696.81
-O Boticário,Condicionador,18,202502,43558.92
-O Boticário,Condicionador,19,202503,39030.45
-O Boticário,Condicionador,20,202504,68999.89
-O Boticário,Condicionador,21,202505,81097.34
-O Boticário,Condicionador,22,202506,92381.88
-O Boticário,Condicionador,23,202507,44789.92
-O Boticário,Condicionador,24,202508,77114.41
-O Boticário,Condicionador,25,202509,51943.520000000004
-O Boticário,Condicionador,26,202510,52117.700000000004
-O Boticário,Condicionador,27,202511,75455.32
-O Boticário,Condicionador,28,202512,37066.12
-O Boticário,Condicionador,29,202513,54519.74
-O Boticário,Condicionador,30,202514,60134.54
-O Boticário,Condicionador,31,202515,104343.58
-O Boticário,Condicionador,32,202516,76467.87
-O Boticário,Condicionador,33,202517,108795.73
-O Boticário,Condicionador,34,202601,33580.88
-O Boticário,Condicionador,35,202602,40380.270000000004
-O Boticário,Condicionador,36,202603,51750.26
-O Boticário,Condicionador,37,202604,45529.46
-O Boticário,Condicionador,38,202605,41957.74
-O Boticário,Condicionador,39,202606,68703.74
-O Boticário,Condicionador,40,202607,39174.73
-O Boticário,Condicionador,41,202608,60152.67
-O Boticário,Condicionador,42,202609,32042.2
-O Boticário,Hidratante Corporal,0,202401,164526.82
-O Boticário,Hidratante Corporal,1,202402,176765.23
-O Boticário,Hidratante Corporal,2,202403,227579.84
-O Boticário,Hidratante Corporal,3,202404,265754.21
-O Boticário,Hidratante Corporal,4,202405,229420.85
-O Boticário,Hidratante Corporal,5,202406,363640.41000000003
-O Boticário,Hidratante Corporal,6,202407,158681.45
-O Boticário,Hidratante Corporal,7,202408,310416.38
-O Boticário,Hidratante Corporal,8,202409,157355.09
-O Boticário,Hidratante Corporal,9,202410,206946.61000000002
-O Boticário,Hidratante Corporal,10,202411,203780.63
-O Boticário,Hidratante Corporal,11,202412,131367.17
-O Boticário,Hidratante Corporal,12,202413,187716.04
-O Boticário,Hidratante Corporal,13,202414,149724.13
-O Boticário,Hidratante Corporal,14,202415,270237.04
-O Boticário,Hidratante Corporal,15,202416,213269.15
-O Boticário,Hidratante Corporal,16,202417,332652.61
-O Boticário,Hidratante Corporal,17,202501,114957.26
-O Boticário,Hidratante Corporal,18,202502,129637.09
-O Boticário,Hidratante Corporal,19,202503,109479.66
-O Boticário,Hidratante Corporal,20,202504,181013.4
-O Boticário,Hidratante Corporal,21,202505,220020.74
-O Boticário,Hidratante Corporal,22,202506,213932.06
-O Boticário,Hidratante Corporal,23,202507,101677.45
-O Boticário,Hidratante Corporal,24,202508,190236.62
-O Boticário,Hidratante Corporal,25,202509,142138.78
-O Boticário,Hidratante Corporal,26,202510,131369.31
-O Boticário,Hidratante Corporal,27,202511,178702.79
-O Boticário,Hidratante Corporal,28,202512,97036.2
-O Boticário,Hidratante Corporal,29,202513,139179.17
-O Boticário,Hidratante Corporal,30,202514,180347.56
-O Boticário,Hidratante Corporal,31,202515,237337.5
-O Boticário,Hidratante Corporal,32,202516,161764.44
-O Boticário,Hidratante Corporal,33,202517,260158.95
-O Boticário,Hidratante Corporal,34,202601,107124.18000000001
-O Boticário,Hidratante Corporal,35,202602,106365.45
-O Boticário,Hidratante Corporal,36,202603,120218.25
-O Boticário,Hidratante Corporal,37,202604,110191.67
-O Boticário,Hidratante Corporal,38,202605,149378.02
-O Boticário,Hidratante Corporal,39,202606,225233.81
-O Boticário,Hidratante Corporal,40,202607,121643.04000000001
-O Boticário,Hidratante Corporal,41,202608,224132.49
-O Boticário,Hidratante Corporal,42,202609,137257.03
-O Boticário,Máscara,0,202401,32476.379999999997
-O Boticário,Máscara,1,202402,41053.409999999996
-O Boticário,Máscara,2,202403,48430.69
-O Boticário,Máscara,3,202404,56351.39
-O Boticário,Máscara,4,202405,60435.93
-O Boticário,Máscara,5,202406,71830.97
-O Boticário,Máscara,6,202407,38106.93
-O Boticário,Máscara,7,202408,66242.81999999999
-O Boticário,Máscara,8,202409,35189.54
-O Boticário,Máscara,9,202410,48252.63
-O Boticário,Máscara,10,202411,47803.64
-O Boticário,Máscara,11,202412,26944.84
-O Boticário,Máscara,12,202413,41795.1
-O Boticário,Máscara,13,202414,50604.31
-O Boticário,Máscara,14,202415,68728.06999999999
-O Boticário,Máscara,15,202416,52318.96
-O Boticário,Máscara,16,202417,84432.11
-O Boticário,Máscara,17,202501,28101.239999999998
-O Boticário,Máscara,18,202502,24002.43
-O Boticário,Máscara,19,202503,34542.27
-O Boticário,Máscara,20,202504,44870.1
-O Boticário,Máscara,21,202505,45453.119999999995
-O Boticário,Máscara,22,202506,47738.49
-O Boticário,Máscara,23,202507,18516.309999999998
-O Boticário,Máscara,24,202508,39343.88
-O Boticário,Máscara,25,202509,24180.17
-O Boticário,Máscara,26,202510,26004.73
-O Boticário,Máscara,27,202511,36267.46
-O Boticário,Máscara,28,202512,14778.06
-O Boticário,Máscara,29,202513,30600.559999999998
-O Boticário,Máscara,30,202514,38202.76
-O Boticário,Máscara,31,202515,54917.939999999995
-O Boticário,Máscara,32,202516,35419.79
-O Boticário,Máscara,33,202517,60077.04
-O Boticário,Máscara,34,202601,16791.23
-O Boticário,Máscara,35,202602,19509.97
-O Boticário,Máscara,36,202603,17655.14
-O Boticário,Máscara,37,202604,25301.079999999998
-O Boticário,Máscara,38,202605,27408.14
-O Boticário,Máscara,39,202606,44357.439999999995
-O Boticário,Máscara,40,202607,28213.239999999998
-O Boticário,Máscara,41,202608,47008.0
-O Boticário,Máscara,42,202609,22447.07
-O Boticário,Perfume Feminino,0,202401,149823.77
-O Boticário,Perfume Feminino,1,202402,151702.66
-O Boticário,Perfume Feminino,2,202403,179111.75
-O Boticário,Perfume Feminino,3,202404,214091.42
-O Boticário,Perfume Feminino,4,202405,211609.2
-O Boticário,Perfume Feminino,5,202406,285943.48
-O Boticário,Perfume Feminino,6,202407,146185.58
-O Boticário,Perfume Feminino,7,202408,250884.26
-O Boticário,Perfume Feminino,8,202409,129117.86
-O Boticário,Perfume Feminino,9,202410,177267.42
-O Boticário,Perfume Feminino,10,202411,207201.64
-O Boticário,Perfume Feminino,11,202412,112147.79000000001
-O Boticário,Perfume Feminino,12,202413,173764.51
-O Boticário,Perfume Feminino,13,202414,148149.19
-O Boticário,Perfume Feminino,14,202415,267512.28
-O Boticário,Perfume Feminino,15,202416,182754.88
-O Boticário,Perfume Feminino,16,202417,300589.56
-O Boticário,Perfume Feminino,17,202501,114799.13
-O Boticário,Perfume Feminino,18,202502,124625.81
-O Boticário,Perfume Feminino,19,202503,109031.41
-O Boticário,Perfume Feminino,20,202504,162806.39
-O Boticário,Perfume Feminino,21,202505,171024.12
-O Boticário,Perfume Feminino,22,202506,216785.32
-O Boticário,Perfume Feminino,23,202507,78861.23
-O Boticário,Perfume Feminino,24,202508,139768.19
-O Boticário,Perfume Feminino,25,202509,80056.69
-O Boticário,Perfume Feminino,26,202510,96981.66
-O Boticário,Perfume Feminino,27,202511,151041.38
-O Boticário,Perfume Feminino,28,202512,80573.43000000001
-O Boticário,Perfume Feminino,29,202513,85337.68000000001
-O Boticário,Perfume Feminino,30,202514,124392.79000000001
-O Boticário,Perfume Feminino,31,202515,189376.96
-O Boticário,Perfume Feminino,32,202516,126318.96
-O Boticário,Perfume Feminino,33,202517,209971.83000000002
-O Boticário,Perfume Feminino,34,202601,69567.62
-O Boticário,Perfume Feminino,35,202602,71815.49
-O Boticário,Perfume Feminino,36,202603,40987.17
-O Boticário,Perfume Feminino,37,202604,39087.18
-O Boticário,Perfume Feminino,38,202605,46592.63
-O Boticário,Perfume Feminino,39,202606,74497.66
-O Boticário,Perfume Feminino,40,202607,33985.16
-O Boticário,Perfume Feminino,41,202608,67033.95
-O Boticário,Perfume Feminino,42,202609,34772.73
-O Boticário,Perfume Masculino,0,202401,188763.61000000002
-O Boticário,Perfume Masculino,1,202402,228587.1
-O Boticário,Perfume Masculino,2,202403,307067.76
-O Boticário,Perfume Masculino,3,202404,311279.78
-O Boticário,Perfume Masculino,4,202405,318644.45
-O Boticário,Perfume Masculino,5,202406,438902.95
-O Boticário,Perfume Masculino,6,202407,207528.29
-O Boticário,Perfume Masculino,7,202408,251545.07
-O Boticário,Perfume Masculino,8,202409,137009.69
-O Boticário,Perfume Masculino,9,202410,192938.92
-O Boticário,Perfume Masculino,10,202411,184585.4
-O Boticário,Perfume Masculino,11,202412,122551.14
-O Boticário,Perfume Masculino,12,202413,163026.67
-O Boticário,Perfume Masculino,13,202414,131807.08
-O Boticário,Perfume Masculino,14,202415,256985.26
-O Boticário,Perfume Masculino,15,202416,183299.72
-O Boticário,Perfume Masculino,16,202417,335399.77
-O Boticário,Perfume Masculino,17,202501,124770.95
-O Boticário,Perfume Masculino,18,202502,133450.56
-O Boticário,Perfume Masculino,19,202503,129898.7
-O Boticário,Perfume Masculino,20,202504,172094.29
-O Boticário,Perfume Masculino,21,202505,177455.55
-O Boticário,Perfume Masculino,22,202506,206032.44
-O Boticário,Perfume Masculino,23,202507,89462.19
-O Boticário,Perfume Masculino,24,202508,181424.0
-O Boticário,Perfume Masculino,25,202509,104815.2
-O Boticário,Perfume Masculino,26,202510,112509.44
-O Boticário,Perfume Masculino,27,202511,148170.7
-O Boticário,Perfume Masculino,28,202512,102531.96
-O Boticário,Perfume Masculino,29,202513,76658.52
-O Boticário,Perfume Masculino,30,202514,89382.6
-O Boticário,Perfume Masculino,31,202515,117433.01
-O Boticário,Perfume Masculino,32,202516,93497.07
-O Boticário,Perfume Masculino,33,202517,142550.96
-O Boticário,Perfume Masculino,34,202601,52711.52
-O Boticário,Perfume Masculino,35,202602,53357.4
-O Boticário,Perfume Masculino,36,202603,66800.42
-O Boticário,Perfume Masculino,37,202604,65580.86
-O Boticário,Perfume Masculino,38,202605,69669.39
-O Boticário,Perfume Masculino,39,202606,122679.27
-O Boticário,Perfume Masculino,40,202607,59869.56
-O Boticário,Perfume Masculino,41,202608,124359.19
-O Boticário,Perfume Masculino,42,202609,66329.87
-O Boticário,Sabonete Líquido,0,202401,90665.04000000001
-O Boticário,Sabonete Líquido,1,202402,105370.07
-O Boticário,Sabonete Líquido,2,202403,167911.91
-O Boticário,Sabonete Líquido,3,202404,179617.95
-O Boticário,Sabonete Líquido,4,202405,164766.73
-O Boticário,Sabonete Líquido,5,202406,204854.85
-O Boticário,Sabonete Líquido,6,202407,120002.37000000001
-O Boticário,Sabonete Líquido,7,202408,185193.14
-O Boticário,Sabonete Líquido,8,202409,89211.97
-O Boticário,Sabonete Líquido,9,202410,105117.15000000001
-O Boticário,Sabonete Líquido,10,202411,135753.08000000002
-O Boticário,Sabonete Líquido,11,202412,91214.04000000001
-O Boticário,Sabonete Líquido,12,202413,121718.8
-O Boticário,Sabonete Líquido,13,202414,98379.68000000001
-O Boticário,Sabonete Líquido,14,202415,156471.46
-O Boticário,Sabonete Líquido,15,202416,135106.56
-O Boticário,Sabonete Líquido,16,202417,214637.82
-O Boticário,Sabonete Líquido,17,202501,72708.8
-O Boticário,Sabonete Líquido,18,202502,82425.83
-O Boticário,Sabonete Líquido,19,202503,78036.43000000001
-O Boticário,Sabonete Líquido,20,202504,107556.43000000001
-O Boticário,Sabonete Líquido,21,202505,123164.74
-O Boticário,Sabonete Líquido,22,202506,138208.24
-O Boticário,Sabonete Líquido,23,202507,54307.68
-O Boticário,Sabonete Líquido,24,202508,108665.89
-O Boticário,Sabonete Líquido,25,202509,67362.28
-O Boticário,Sabonete Líquido,26,202510,85910.59
-O Boticário,Sabonete Líquido,27,202511,98156.27
-O Boticário,Sabonete Líquido,28,202512,52496.380000000005
-O Boticário,Sabonete Líquido,29,202513,70118.59
-O Boticário,Sabonete Líquido,30,202514,111411.40000000001
-O Boticário,Sabonete Líquido,31,202515,155364.28
-O Boticário,Sabonete Líquido,32,202516,102068.08
-O Boticário,Sabonete Líquido,33,202517,143189.1
-O Boticário,Sabonete Líquido,34,202601,53279.28
-O Boticário,Sabonete Líquido,35,202602,53668.450000000004
-O Boticário,Sabonete Líquido,36,202603,62128.19
-O Boticário,Sabonete Líquido,37,202604,60896.23
-O Boticário,Sabonete Líquido,38,202605,75982.5
-O Boticário,Sabonete Líquido,39,202606,157528.37
-O Boticário,Sabonete Líquido,40,202607,79624.44
-O Boticário,Sabonete Líquido,41,202608,143984.04
-O Boticário,Sabonete Líquido,42,202609,61368.47
-O Boticário,Shampoo,0,202401,167607.62
-O Boticário,Shampoo,1,202402,235776.96
-O Boticário,Shampoo,2,202403,281274.01
-O Boticário,Shampoo,3,202404,305319.24
-O Boticário,Shampoo,4,202405,283993.55
-O Boticário,Shampoo,5,202406,412907.31
-O Boticário,Shampoo,6,202407,230091.22
-O Boticário,Shampoo,7,202408,358022.3
-O Boticário,Shampoo,8,202409,165414.98
-O Boticário,Shampoo,9,202410,234281.86000000002
-O Boticário,Shampoo,10,202411,277930.11
-O Boticário,Shampoo,11,202412,169674.67
-O Boticário,Shampoo,12,202413,234246.3
-O Boticário,Shampoo,13,202414,206673.46
-O Boticário,Shampoo,14,202415,312060.7
-O Boticário,Shampoo,15,202416,266536.92
-O Boticário,Shampoo,16,202417,434131.44
-O Boticário,Shampoo,17,202501,135494.16
-O Boticário,Shampoo,18,202502,155876.06
-O Boticário,Shampoo,19,202503,153564.85
-O Boticário,Shampoo,20,202504,232120.67
-O Boticário,Shampoo,21,202505,243803.16
-O Boticário,Shampoo,22,202506,286827.19
-O Boticário,Shampoo,23,202507,83779.75
-O Boticário,Shampoo,24,202508,194618.55
-O Boticário,Shampoo,25,202509,107656.48
-O Boticário,Shampoo,26,202510,143792.1
-O Boticário,Shampoo,27,202511,216210.6
-O Boticário,Shampoo,28,202512,95066.43
-O Boticário,Shampoo,29,202513,150004.12
-O Boticário,Shampoo,30,202514,175170.55000000002
-O Boticário,Shampoo,31,202515,281011.61
-O Boticário,Shampoo,32,202516,194939.46
-O Boticário,Shampoo,33,202517,273465.39
-O Boticário,Shampoo,34,202601,97865.54000000001
-O Boticário,Shampoo,35,202602,110544.43000000001
-O Boticário,Shampoo,36,202603,126426.7
-O Boticário,Shampoo,37,202604,118840.77
-O Boticário,Shampoo,38,202605,149555.27
-O Boticário,Shampoo,39,202606,259181.16
-O Boticário,Shampoo,40,202607,115750.58
-O Boticário,Shampoo,41,202608,204785.44
-O Boticário,Shampoo,42,202609,154143.36
-O Boticário,Sérum,0,202401,38937.27
-O Boticário,Sérum,1,202402,42020.99
-O Boticário,Sérum,2,202403,42117.1
-O Boticário,Sérum,3,202404,47188.38
-O Boticário,Sérum,4,202405,55283.88
-O Boticário,Sérum,5,202406,66407.74
-O Boticário,Sérum,6,202407,29121.7
-O Boticário,Sérum,7,202408,61350.409999999996
-O Boticário,Sérum,8,202409,24307.85
-O Boticário,Sérum,9,202410,31744.75
-O Boticário,Sérum,10,202411,53494.19
-O Boticário,Sérum,11,202412,27633.13
-O Boticário,Sérum,12,202413,26288.89
-O Boticário,Sérum,13,202414,26410.82
-O Boticário,Sérum,14,202415,57089.56
-O Boticário,Sérum,15,202416,38961.27
-O Boticário,Sérum,16,202417,62972.76
-O Boticário,Sérum,17,202501,20999.07
-O Boticário,Sérum,18,202502,24721.26
-O Boticário,Sérum,19,202503,26860.85
-O Boticário,Sérum,20,202504,32700.25
-O Boticário,Sérum,21,202505,36982.08
-O Boticário,Sérum,22,202506,43440.9
-O Boticário,Sérum,23,202507,20426.41
-O Boticário,Sérum,24,202508,32796.08
-O Boticário,Sérum,25,202509,24682.61
-O Boticário,Sérum,26,202510,21062.75
-O Boticário,Sérum,27,202511,37424.81
-O Boticário,Sérum,28,202512,21851.83
-O Boticário,Sérum,29,202513,24533.72
-O Boticário,Sérum,30,202514,33105.22
-O Boticário,Sérum,31,202515,42644.0
-O Boticário,Sérum,32,202516,31008.03
-O Boticário,Sérum,33,202517,40960.52
-O Boticário,Sérum,34,202601,17975.69
-O Boticário,Sérum,35,202602,23169.73
-O Boticário,Sérum,36,202603,24447.85
-O Boticário,Sérum,37,202604,19167.51
-O Boticário,Sérum,38,202605,31959.41
-O Boticário,Sérum,39,202606,38951.59
-O Boticário,Sérum,40,202607,19237.77
-O Boticário,Sérum,41,202608,41879.659999999996
-O Boticário,Sérum,42,202609,21632.45
-O Boticário,Óleo Corporal,0,202401,93086.7
-O Boticário,Óleo Corporal,1,202402,89469.02
-O Boticário,Óleo Corporal,2,202403,118280.03
-O Boticário,Óleo Corporal,3,202404,127081.62000000001
-O Boticário,Óleo Corporal,4,202405,138097.07
-O Boticário,Óleo Corporal,5,202406,175178.59
-O Boticário,Óleo Corporal,6,202407,79925.98
-O Boticário,Óleo Corporal,7,202408,140078.87
-O Boticário,Óleo Corporal,8,202409,39407.68
-O Boticário,Óleo Corporal,9,202410,47719.55
-O Boticário,Óleo Corporal,10,202411,50903.11
-O Boticário,Óleo Corporal,11,202412,31229.4
-O Boticário,Óleo Corporal,12,202413,42706.08
-O Boticário,Óleo Corporal,13,202414,44632.85
-O Boticário,Óleo Corporal,14,202415,64843.49
-O Boticário,Óleo Corporal,15,202416,55605.46
-O Boticário,Óleo Corporal,16,202417,79715.71
-O Boticário,Óleo Corporal,17,202501,26933.21
-O Boticário,Óleo Corporal,18,202502,30926.34
-O Boticário,Óleo Corporal,19,202503,30533.5
-O Boticário,Óleo Corporal,20,202504,37294.27
-O Boticário,Óleo Corporal,21,202505,46835.24
-O Boticário,Óleo Corporal,22,202506,59364.51
-O Boticário,Óleo Corporal,23,202507,23495.16
-O Boticário,Óleo Corporal,24,202508,57103.54
-O Boticário,Óleo Corporal,25,202509,25943.010000000002
-O Boticário,Óleo Corporal,26,202510,26524.68
-O Boticário,Óleo Corporal,27,202511,46664.49
-O Boticário,Óleo Corporal,28,202512,22072.87
-O Boticário,Óleo Corporal,29,202513,30389.38
-O Boticário,Óleo Corporal,30,202514,40153.340000000004
-O Boticário,Óleo Corporal,31,202515,57617.91
-O Boticário,Óleo Corporal,32,202516,42311.15
-O Boticário,Óleo Corporal,33,202517,64416.9
-O Boticário,Óleo Corporal,34,202601,24969.46
-O Boticário,Óleo Corporal,35,202602,22508.51
-O Boticário,Óleo Corporal,36,202603,30505.91
-O Boticário,Óleo Corporal,37,202604,29959.31
-O Boticário,Óleo Corporal,38,202605,39516.95
-O Boticário,Óleo Corporal,39,202606,54592.5
-O Boticário,Óleo Corporal,40,202607,27492.59
-O Boticário,Óleo Corporal,41,202608,46388.95
-O Boticário,Óleo Corporal,42,202609,31158.9
+marca_std,subcategoria,faixa_preco,ciclo_idx,cod_ciclo,valor
+Eudora,Condicionador,P1,0,202401,7699.139999999999
+Eudora,Condicionador,P1,1,202402,6564.46
+Eudora,Condicionador,P1,2,202403,10359.22
+Eudora,Condicionador,P1,3,202404,9813.77
+Eudora,Condicionador,P1,4,202405,8911.09
+Eudora,Condicionador,P1,5,202406,13912.19
+Eudora,Condicionador,P1,6,202407,7003.49
+Eudora,Condicionador,P1,7,202408,14128.81
+Eudora,Condicionador,P1,8,202409,5770.82
+Eudora,Condicionador,P1,9,202410,9193.0
+Eudora,Condicionador,P1,10,202411,7819.79
+Eudora,Condicionador,P1,11,202412,5636.29
+Eudora,Condicionador,P1,12,202413,8430.71
+Eudora,Condicionador,P1,13,202414,5661.26
+Eudora,Condicionador,P1,14,202415,11711.16
+Eudora,Condicionador,P1,15,202416,9431.63
+Eudora,Condicionador,P1,16,202417,14746.14
+Eudora,Condicionador,P1,17,202501,5221.18
+Eudora,Condicionador,P1,18,202502,4970.86
+Eudora,Condicionador,P1,19,202503,5171.7
+Eudora,Condicionador,P1,20,202504,8236.95
+Eudora,Condicionador,P1,21,202505,9421.03
+Eudora,Condicionador,P1,22,202506,11164.43
+Eudora,Condicionador,P1,23,202507,3978.12
+Eudora,Condicionador,P1,24,202508,8649.83
+Eudora,Condicionador,P1,25,202509,5256.3099999999995
+Eudora,Condicionador,P1,26,202510,5538.15
+Eudora,Condicionador,P1,27,202511,7953.55
+Eudora,Condicionador,P1,28,202512,3453.6099999999997
+Eudora,Condicionador,P1,29,202513,5839.03
+Eudora,Condicionador,P1,30,202514,7018.639999999999
+Eudora,Condicionador,P1,31,202515,9696.449999999999
+Eudora,Condicionador,P1,32,202516,8700.41
+Eudora,Condicionador,P1,33,202517,9821.949999999999
+Eudora,Condicionador,P1,34,202601,3221.18
+Eudora,Condicionador,P1,35,202602,3762.7599999999998
+Eudora,Condicionador,P1,36,202603,5591.92
+Eudora,Condicionador,P1,37,202604,5617.16
+Eudora,Condicionador,P1,38,202605,6653.179999999999
+Eudora,Condicionador,P1,39,202606,11203.17
+Eudora,Condicionador,P1,40,202607,5099.8099999999995
+Eudora,Condicionador,P1,41,202608,9109.18
+Eudora,Condicionador,P1,42,202609,6178.4
+Eudora,Condicionador,P4,0,202401,27001.69
+Eudora,Condicionador,P4,1,202402,27595.55
+Eudora,Condicionador,P4,2,202403,30607.31
+Eudora,Condicionador,P4,3,202404,31581.11
+Eudora,Condicionador,P4,4,202405,31288.42
+Eudora,Condicionador,P4,5,202406,40382.63
+Eudora,Condicionador,P4,6,202407,24434.28
+Eudora,Condicionador,P4,7,202408,39874.13
+Eudora,Condicionador,P4,8,202409,25177.33
+Eudora,Condicionador,P4,9,202410,27831.09
+Eudora,Condicionador,P4,10,202411,28586.06
+Eudora,Condicionador,P4,11,202412,23694.68
+Eudora,Condicionador,P4,12,202413,22778.35
+Eudora,Condicionador,P4,13,202414,19559.85
+Eudora,Condicionador,P4,14,202415,35993.19
+Eudora,Condicionador,P4,15,202416,26898.46
+Eudora,Condicionador,P4,16,202417,51360.01
+Eudora,Condicionador,P4,17,202501,15770.38
+Eudora,Condicionador,P4,18,202502,17015.92
+Eudora,Condicionador,P4,19,202503,23870.39
+Eudora,Condicionador,P4,20,202504,27125.19
+Eudora,Condicionador,P4,21,202505,29783.55
+Eudora,Condicionador,P4,22,202506,34252.55
+Eudora,Condicionador,P4,23,202507,18476.83
+Eudora,Condicionador,P4,24,202508,31186.9
+Eudora,Condicionador,P4,25,202509,19345.21
+Eudora,Condicionador,P4,26,202510,17519.27
+Eudora,Condicionador,P4,27,202511,26610.44
+Eudora,Condicionador,P4,28,202512,14553.67
+Eudora,Condicionador,P4,29,202513,16945.34
+Eudora,Condicionador,P4,30,202514,21292.62
+Eudora,Condicionador,P4,31,202515,43402.67
+Eudora,Condicionador,P4,32,202516,21767.51
+Eudora,Condicionador,P4,33,202517,38638.79
+Eudora,Condicionador,P4,34,202601,14782.66
+Eudora,Condicionador,P4,35,202602,9787.39
+Eudora,Condicionador,P4,36,202603,20463.399999999998
+Eudora,Condicionador,P4,37,202604,21457.42
+Eudora,Condicionador,P4,38,202605,21494.75
+Eudora,Condicionador,P4,39,202606,38678.51
+Eudora,Condicionador,P4,40,202607,15228.34
+Eudora,Condicionador,P4,41,202608,25661.51
+Eudora,Condicionador,P4,42,202609,19431.25
+Eudora,Hidratante Corporal,P5,0,202401,100603.81
+Eudora,Hidratante Corporal,P5,1,202402,98485.35
+Eudora,Hidratante Corporal,P5,2,202403,97369.91
+Eudora,Hidratante Corporal,P5,3,202404,140071.4
+Eudora,Hidratante Corporal,P5,4,202405,110654.23
+Eudora,Hidratante Corporal,P5,5,202406,165161.54
+Eudora,Hidratante Corporal,P5,6,202407,77743.6
+Eudora,Hidratante Corporal,P5,7,202408,148972.6
+Eudora,Hidratante Corporal,P5,8,202409,77959.99
+Eudora,Hidratante Corporal,P5,9,202410,101000.0
+Eudora,Hidratante Corporal,P5,10,202411,119803.92
+Eudora,Hidratante Corporal,P5,11,202412,59702.25
+Eudora,Hidratante Corporal,P5,12,202413,84204.09
+Eudora,Hidratante Corporal,P5,13,202414,76783.24
+Eudora,Hidratante Corporal,P5,14,202415,132030.63
+Eudora,Hidratante Corporal,P5,15,202416,105151.91
+Eudora,Hidratante Corporal,P5,16,202417,164984.37
+Eudora,Hidratante Corporal,P5,17,202501,56867.28
+Eudora,Hidratante Corporal,P5,18,202502,56925.44
+Eudora,Hidratante Corporal,P5,19,202503,67554.89
+Eudora,Hidratante Corporal,P5,20,202504,87823.05
+Eudora,Hidratante Corporal,P5,21,202505,105328.48
+Eudora,Hidratante Corporal,P5,22,202506,115264.06
+Eudora,Hidratante Corporal,P5,23,202507,50190.42
+Eudora,Hidratante Corporal,P5,24,202508,87490.94
+Eudora,Hidratante Corporal,P5,25,202509,61768.770000000004
+Eudora,Hidratante Corporal,P5,26,202510,62704.43
+Eudora,Hidratante Corporal,P5,27,202511,89290.3
+Eudora,Hidratante Corporal,P5,28,202512,44527.94
+Eudora,Hidratante Corporal,P5,29,202513,69833.88
+Eudora,Hidratante Corporal,P5,30,202514,69241.12
+Eudora,Hidratante Corporal,P5,31,202515,111348.41
+Eudora,Hidratante Corporal,P5,32,202516,86188.23
+Eudora,Hidratante Corporal,P5,33,202517,130823.95
+Eudora,Hidratante Corporal,P5,34,202601,44312.72
+Eudora,Hidratante Corporal,P5,35,202602,41477.53
+Eudora,Hidratante Corporal,P5,36,202603,61490.090000000004
+Eudora,Hidratante Corporal,P5,37,202604,50050.01
+Eudora,Hidratante Corporal,P5,38,202605,70153.25
+Eudora,Hidratante Corporal,P5,39,202606,96986.17
+Eudora,Hidratante Corporal,P5,40,202607,66543.61
+Eudora,Hidratante Corporal,P5,41,202608,103952.53
+Eudora,Hidratante Corporal,P5,42,202609,56967.86
+Eudora,Hidratante Corporal,P6,0,202401,81634.93000000001
+Eudora,Hidratante Corporal,P6,1,202402,90190.92
+Eudora,Hidratante Corporal,P6,2,202403,87478.31
+Eudora,Hidratante Corporal,P6,3,202404,96067.57
+Eudora,Hidratante Corporal,P6,4,202405,109879.69
+Eudora,Hidratante Corporal,P6,5,202406,126943.88
+Eudora,Hidratante Corporal,P6,6,202407,83001.47
+Eudora,Hidratante Corporal,P6,7,202408,140171.68
+Eudora,Hidratante Corporal,P6,8,202409,69416.08
+Eudora,Hidratante Corporal,P6,9,202410,77306.32
+Eudora,Hidratante Corporal,P6,10,202411,99739.55
+Eudora,Hidratante Corporal,P6,11,202412,57603.96
+Eudora,Hidratante Corporal,P6,12,202413,87098.49
+Eudora,Hidratante Corporal,P6,13,202414,55619.39
+Eudora,Hidratante Corporal,P6,14,202415,102366.39
+Eudora,Hidratante Corporal,P6,15,202416,97831.86
+Eudora,Hidratante Corporal,P6,16,202417,163544.33000000002
+Eudora,Hidratante Corporal,P6,17,202501,48382.66
+Eudora,Hidratante Corporal,P6,18,202502,70252.75
+Eudora,Hidratante Corporal,P6,19,202503,61102.340000000004
+Eudora,Hidratante Corporal,P6,20,202504,76763.86
+Eudora,Hidratante Corporal,P6,21,202505,107710.8
+Eudora,Hidratante Corporal,P6,22,202506,115126.79000000001
+Eudora,Hidratante Corporal,P6,23,202507,61223.350000000006
+Eudora,Hidratante Corporal,P6,24,202508,115976.28
+Eudora,Hidratante Corporal,P6,25,202509,43642.47
+Eudora,Hidratante Corporal,P6,26,202510,52242.15
+Eudora,Hidratante Corporal,P6,27,202511,91474.18000000001
+Eudora,Hidratante Corporal,P6,28,202512,44106.4
+Eudora,Hidratante Corporal,P6,29,202513,41232.81
+Eudora,Hidratante Corporal,P6,30,202514,88316.26000000001
+Eudora,Hidratante Corporal,P6,31,202515,97007.57
+Eudora,Hidratante Corporal,P6,32,202516,84811.62000000001
+Eudora,Hidratante Corporal,P6,33,202517,123061.77
+Eudora,Hidratante Corporal,P6,34,202601,35521.340000000004
+Eudora,Hidratante Corporal,P6,35,202602,43752.64
+Eudora,Hidratante Corporal,P6,36,202603,51863.79
+Eudora,Hidratante Corporal,P6,37,202604,52417.310000000005
+Eudora,Hidratante Corporal,P6,38,202605,64425.65
+Eudora,Hidratante Corporal,P6,39,202606,118499.42
+Eudora,Hidratante Corporal,P6,40,202607,54816.57
+Eudora,Hidratante Corporal,P6,41,202608,93046.46
+Eudora,Hidratante Corporal,P6,42,202609,57735.25
+Eudora,Máscara,P1,0,202401,5252.79
+Eudora,Máscara,P1,1,202402,5932.25
+Eudora,Máscara,P1,2,202403,6016.63
+Eudora,Máscara,P1,3,202404,8347.6
+Eudora,Máscara,P1,4,202405,9418.52
+Eudora,Máscara,P1,5,202406,10896.300000000001
+Eudora,Máscara,P1,6,202407,6351.6
+Eudora,Máscara,P1,7,202408,8897.76
+Eudora,Máscara,P1,8,202409,4517.2
+Eudora,Máscara,P1,9,202410,6995.4
+Eudora,Máscara,P1,10,202411,5883.77
+Eudora,Máscara,P1,11,202412,3111.73
+Eudora,Máscara,P1,12,202413,5996.27
+Eudora,Máscara,P1,13,202414,5076.41
+Eudora,Máscara,P1,14,202415,8421.02
+Eudora,Máscara,P1,15,202416,7070.360000000001
+Eudora,Máscara,P1,16,202417,13886.89
+Eudora,Máscara,P1,17,202501,3967.87
+Eudora,Máscara,P1,18,202502,3312.25
+Eudora,Máscara,P1,19,202503,3475.2200000000003
+Eudora,Máscara,P1,20,202504,5555.55
+Eudora,Máscara,P1,21,202505,7032.05
+Eudora,Máscara,P1,22,202506,7160.0
+Eudora,Máscara,P1,23,202507,2479.12
+Eudora,Máscara,P1,24,202508,5184.88
+Eudora,Máscara,P1,25,202509,4133.93
+Eudora,Máscara,P1,26,202510,3833.2000000000003
+Eudora,Máscara,P1,27,202511,5566.43
+Eudora,Máscara,P1,28,202512,4226.44
+Eudora,Máscara,P1,29,202513,4871.17
+Eudora,Máscara,P1,30,202514,5166.94
+Eudora,Máscara,P1,31,202515,7182.9800000000005
+Eudora,Máscara,P1,32,202516,5353.43
+Eudora,Máscara,P1,33,202517,8054.72
+Eudora,Máscara,P1,34,202601,2966.4500000000003
+Eudora,Máscara,P1,35,202602,2483.27
+Eudora,Máscara,P1,36,202603,3971.09
+Eudora,Máscara,P1,37,202604,2891.96
+Eudora,Máscara,P1,38,202605,4900.89
+Eudora,Máscara,P1,39,202606,7297.56
+Eudora,Máscara,P1,40,202607,3516.84
+Eudora,Máscara,P1,41,202608,5721.400000000001
+Eudora,Máscara,P1,42,202609,3511.4900000000002
+Eudora,Máscara,P3,0,202401,17315.68
+Eudora,Máscara,P3,1,202402,20654.3
+Eudora,Máscara,P3,2,202403,25785.15
+Eudora,Máscara,P3,3,202404,27416.81
+Eudora,Máscara,P3,4,202405,29591.09
+Eudora,Máscara,P3,5,202406,35363.99
+Eudora,Máscara,P3,6,202407,17443.81
+Eudora,Máscara,P3,7,202408,34130.72
+Eudora,Máscara,P3,8,202409,11170.22
+Eudora,Máscara,P3,9,202410,23183.68
+Eudora,Máscara,P3,10,202411,26674.8
+Eudora,Máscara,P3,11,202412,15162.61
+Eudora,Máscara,P3,12,202413,18966.03
+Eudora,Máscara,P3,13,202414,18549.97
+Eudora,Máscara,P3,14,202415,25870.99
+Eudora,Máscara,P3,15,202416,20575.63
+Eudora,Máscara,P3,16,202417,36212.85
+Eudora,Máscara,P3,17,202501,14105.79
+Eudora,Máscara,P3,18,202502,12012.99
+Eudora,Máscara,P3,19,202503,10802.41
+Eudora,Máscara,P3,20,202504,22439.83
+Eudora,Máscara,P3,21,202505,15698.37
+Eudora,Máscara,P3,22,202506,18925.29
+Eudora,Máscara,P3,23,202507,9506.5
+Eudora,Máscara,P3,24,202508,16482.0
+Eudora,Máscara,P3,25,202509,13431.8
+Eudora,Máscara,P3,26,202510,11803.6
+Eudora,Máscara,P3,27,202511,19932.16
+Eudora,Máscara,P3,28,202512,9520.66
+Eudora,Máscara,P3,29,202513,14929.75
+Eudora,Máscara,P3,30,202514,17259.5
+Eudora,Máscara,P3,31,202515,27789.420000000002
+Eudora,Máscara,P3,32,202516,14886.14
+Eudora,Máscara,P3,33,202517,22073.45
+Eudora,Máscara,P3,34,202601,7274.75
+Eudora,Máscara,P3,35,202602,9178.25
+Eudora,Máscara,P3,36,202603,11428.5
+Eudora,Máscara,P3,37,202604,14028.18
+Eudora,Máscara,P3,38,202605,14945.89
+Eudora,Máscara,P3,39,202606,24875.82
+Eudora,Máscara,P3,40,202607,10371.16
+Eudora,Máscara,P3,41,202608,23897.25
+Eudora,Máscara,P3,42,202609,10114.73
+Eudora,Máscara,P5,0,202401,42210.32
+Eudora,Máscara,P5,1,202402,43662.68
+Eudora,Máscara,P5,2,202403,55047.29
+Eudora,Máscara,P5,3,202404,74193.31999999999
+Eudora,Máscara,P5,4,202405,72387.47
+Eudora,Máscara,P5,5,202406,91359.72
+Eudora,Máscara,P5,6,202407,29931.47
+Eudora,Máscara,P5,7,202408,85207.56999999999
+Eudora,Máscara,P5,8,202409,39589.83
+Eudora,Máscara,P5,9,202410,52270.21
+Eudora,Máscara,P5,10,202411,55440.79
+Eudora,Máscara,P5,11,202412,44627.03
+Eudora,Máscara,P5,12,202413,48661.0
+Eudora,Máscara,P5,13,202414,36843.47
+Eudora,Máscara,P5,14,202415,80606.42
+Eudora,Máscara,P5,15,202416,53119.61
+Eudora,Máscara,P5,16,202417,100312.56
+Eudora,Máscara,P5,17,202501,30202.399999999998
+Eudora,Máscara,P5,18,202502,36223.659999999996
+Eudora,Máscara,P5,19,202503,33360.619999999995
+Eudora,Máscara,P5,20,202504,38833.75
+Eudora,Máscara,P5,21,202505,53839.95
+Eudora,Máscara,P5,22,202506,65555.34999999999
+Eudora,Máscara,P5,23,202507,27086.199999999997
+Eudora,Máscara,P5,24,202508,54146.08
+Eudora,Máscara,P5,25,202509,32810.01
+Eudora,Máscara,P5,26,202510,35661.64
+Eudora,Máscara,P5,27,202511,53252.96
+Eudora,Máscara,P5,28,202512,27862.0
+Eudora,Máscara,P5,29,202513,36266.57
+Eudora,Máscara,P5,30,202514,42181.2
+Eudora,Máscara,P5,31,202515,63708.369999999995
+Eudora,Máscara,P5,32,202516,50497.939999999995
+Eudora,Máscara,P5,33,202517,66244.62
+Eudora,Máscara,P5,34,202601,19446.629999999997
+Eudora,Máscara,P5,35,202602,28972.79
+Eudora,Máscara,P5,36,202603,44178.28
+Eudora,Máscara,P5,37,202604,29131.12
+Eudora,Máscara,P5,38,202605,38169.95
+Eudora,Máscara,P5,39,202606,67343.4
+Eudora,Máscara,P5,40,202607,30126.96
+Eudora,Máscara,P5,41,202608,54504.21
+Eudora,Máscara,P5,42,202609,32599.3
+Eudora,Perfume Feminino,P1,0,202401,12301.01
+Eudora,Perfume Feminino,P1,1,202402,16120.449999999999
+Eudora,Perfume Feminino,P1,2,202403,15782.21
+Eudora,Perfume Feminino,P1,3,202404,21846.61
+Eudora,Perfume Feminino,P1,4,202405,20806.04
+Eudora,Perfume Feminino,P1,5,202406,24953.6
+Eudora,Perfume Feminino,P1,6,202407,12853.68
+Eudora,Perfume Feminino,P1,7,202408,22464.739999999998
+Eudora,Perfume Feminino,P1,8,202409,12107.8
+Eudora,Perfume Feminino,P1,9,202410,16662.9
+Eudora,Perfume Feminino,P1,10,202411,18344.02
+Eudora,Perfume Feminino,P1,11,202412,10452.789999999999
+Eudora,Perfume Feminino,P1,12,202413,13947.35
+Eudora,Perfume Feminino,P1,13,202414,12307.96
+Eudora,Perfume Feminino,P1,14,202415,21057.9
+Eudora,Perfume Feminino,P1,15,202416,18264.7
+Eudora,Perfume Feminino,P1,16,202417,28083.6
+Eudora,Perfume Feminino,P1,17,202501,8162.68
+Eudora,Perfume Feminino,P1,18,202502,8224.15
+Eudora,Perfume Feminino,P1,19,202503,11790.4
+Eudora,Perfume Feminino,P1,20,202504,11509.64
+Eudora,Perfume Feminino,P1,21,202505,15479.75
+Eudora,Perfume Feminino,P1,22,202506,17098.85
+Eudora,Perfume Feminino,P1,23,202507,3974.37
+Eudora,Perfume Feminino,P1,24,202508,5546.49
+Eudora,Perfume Feminino,P1,25,202509,4546.46
+Eudora,Perfume Feminino,P1,26,202510,7175.78
+Eudora,Perfume Feminino,P1,27,202511,9007.09
+Eudora,Perfume Feminino,P1,28,202512,4064.0
+Eudora,Perfume Feminino,P1,29,202513,4941.88
+Eudora,Perfume Feminino,P1,30,202514,7374.87
+Eudora,Perfume Feminino,P1,31,202515,9766.78
+Eudora,Perfume Feminino,P1,32,202516,6713.25
+Eudora,Perfume Feminino,P1,33,202517,11561.74
+Eudora,Perfume Feminino,P1,34,202601,4594.28
+Eudora,Perfume Feminino,P1,35,202602,4990.85
+Eudora,Perfume Feminino,P1,36,202603,7095.32
+Eudora,Perfume Feminino,P1,37,202604,6450.48
+Eudora,Perfume Feminino,P1,38,202605,6006.19
+Eudora,Perfume Feminino,P1,39,202606,10364.4
+Eudora,Perfume Feminino,P1,40,202607,5840.849999999999
+Eudora,Perfume Feminino,P1,41,202608,8380.46
+Eudora,Perfume Feminino,P1,42,202609,6833.4
+Eudora,Perfume Feminino,P2,0,202401,8964.55
+Eudora,Perfume Feminino,P2,1,202402,8106.91
+Eudora,Perfume Feminino,P2,2,202403,13788.5
+Eudora,Perfume Feminino,P2,3,202404,15590.68
+Eudora,Perfume Feminino,P2,4,202405,13152.67
+Eudora,Perfume Feminino,P2,5,202406,16910.72
+Eudora,Perfume Masculino,P1,0,202401,6847.07
+Eudora,Perfume Masculino,P1,1,202402,9138.06
+Eudora,Perfume Masculino,P1,2,202403,9447.279999999999
+Eudora,Perfume Masculino,P1,3,202404,11041.42
+Eudora,Perfume Masculino,P1,4,202405,12682.35
+Eudora,Perfume Masculino,P1,5,202406,13635.65
+Eudora,Perfume Masculino,P1,6,202407,8240.92
+Eudora,Perfume Masculino,P1,7,202408,12796.98
+Eudora,Perfume Masculino,P1,8,202409,7867.889999999999
+Eudora,Perfume Masculino,P1,9,202410,8878.02
+Eudora,Perfume Masculino,P1,10,202411,14374.66
+Eudora,Perfume Masculino,P1,11,202412,4736.59
+Eudora,Perfume Masculino,P1,12,202413,7445.63
+Eudora,Perfume Masculino,P1,13,202414,8195.63
+Eudora,Perfume Masculino,P1,14,202415,11795.369999999999
+Eudora,Perfume Masculino,P1,15,202416,11453.26
+Eudora,Perfume Masculino,P1,16,202417,16598.43
+Eudora,Perfume Masculino,P1,17,202501,4329.68
+Eudora,Perfume Masculino,P1,18,202502,5479.38
+Eudora,Perfume Masculino,P1,19,202503,6894.79
+Eudora,Perfume Masculino,P1,20,202504,8749.14
+Eudora,Perfume Masculino,P1,21,202505,11055.699999999999
+Eudora,Perfume Masculino,P1,22,202506,9220.949999999999
+Eudora,Perfume Masculino,P1,23,202507,3906.97
+Eudora,Perfume Masculino,P1,24,202508,10159.97
+Eudora,Perfume Masculino,P1,25,202509,5088.51
+Eudora,Perfume Masculino,P1,26,202510,4411.57
+Eudora,Perfume Masculino,P1,27,202511,8146.5
+Eudora,Perfume Masculino,P1,28,202512,4840.9
+Eudora,Perfume Masculino,P1,29,202513,7149.79
+Eudora,Perfume Masculino,P1,30,202514,7532.79
+Eudora,Perfume Masculino,P1,31,202515,10322.6
+Eudora,Perfume Masculino,P1,32,202516,6987.57
+Eudora,Perfume Masculino,P1,33,202517,12148.42
+Eudora,Perfume Masculino,P1,34,202601,4336.5599999999995
+Eudora,Perfume Masculino,P1,35,202602,4298.03
+Eudora,Perfume Masculino,P1,36,202603,5830.71
+Eudora,Perfume Masculino,P1,37,202604,3786.6
+Eudora,Perfume Masculino,P1,38,202605,5513.92
+Eudora,Perfume Masculino,P1,39,202606,10418.84
+Eudora,Perfume Masculino,P1,40,202607,5560.68
+Eudora,Perfume Masculino,P1,41,202608,8355.08
+Eudora,Perfume Masculino,P1,42,202609,5821.73
+Eudora,Perfume Masculino,P2,0,202401,12154.52
+Eudora,Perfume Masculino,P2,1,202402,8209.1
+Eudora,Perfume Masculino,P2,2,202403,16104.53
+Eudora,Perfume Masculino,P2,3,202404,17033.36
+Eudora,Perfume Masculino,P2,4,202405,17849.05
+Eudora,Perfume Masculino,P2,5,202406,26834.24
+Eudora,Perfume Masculino,P2,6,202407,12057.48
+Eudora,Perfume Masculino,P2,7,202408,26216.22
+Eudora,Perfume Masculino,P2,8,202409,11966.66
+Eudora,Perfume Masculino,P2,9,202410,11929.55
+Eudora,Perfume Masculino,P2,10,202411,15693.64
+Eudora,Perfume Masculino,P2,11,202412,9428.75
+Eudora,Perfume Masculino,P2,12,202413,16400.52
+Eudora,Perfume Masculino,P2,13,202414,10787.32
+Eudora,Perfume Masculino,P2,14,202415,18688.88
+Eudora,Perfume Masculino,P2,15,202416,15546.960000000001
+Eudora,Perfume Masculino,P2,16,202417,29518.37
+Eudora,Perfume Masculino,P2,17,202501,7266.83
+Eudora,Perfume Masculino,P2,18,202502,7393.1900000000005
+Eudora,Perfume Masculino,P2,19,202503,6991.85
+Eudora,Perfume Masculino,P2,20,202504,13695.73
+Eudora,Perfume Masculino,P2,21,202505,13345.95
+Eudora,Perfume Masculino,P2,22,202506,17180.17
+Eudora,Perfume Masculino,P2,23,202507,7575.25
+Eudora,Perfume Masculino,P2,24,202508,16590.29
+Eudora,Perfume Masculino,P2,25,202509,8073.27
+Eudora,Perfume Masculino,P2,26,202510,10289.72
+Eudora,Perfume Masculino,P2,27,202511,13967.9
+Eudora,Perfume Masculino,P2,28,202512,7619.93
+Eudora,Perfume Masculino,P2,29,202513,12395.94
+Eudora,Perfume Masculino,P2,30,202514,9163.48
+Eudora,Perfume Masculino,P2,31,202515,17572.0
+Eudora,Perfume Masculino,P2,32,202516,12469.62
+Eudora,Perfume Masculino,P2,33,202517,20539.2
+Eudora,Perfume Masculino,P2,34,202601,7732.71
+Eudora,Perfume Masculino,P2,35,202602,7186.94
+Eudora,Perfume Masculino,P2,36,202603,9937.52
+Eudora,Perfume Masculino,P2,37,202604,6917.75
+Eudora,Perfume Masculino,P2,38,202605,11514.31
+Eudora,Perfume Masculino,P2,39,202606,19576.670000000002
+Eudora,Perfume Masculino,P2,40,202607,9339.5
+Eudora,Perfume Masculino,P2,41,202608,13366.77
+Eudora,Perfume Masculino,P2,42,202609,8780.42
+Eudora,Perfume Masculino,P3,0,202401,40789.6
+Eudora,Perfume Masculino,P3,1,202402,17172.82
+Eudora,Perfume Masculino,P3,2,202403,19197.02
+Eudora,Perfume Masculino,P3,3,202404,23314.76
+Eudora,Perfume Masculino,P3,4,202405,20794.96
+Eudora,Perfume Masculino,P3,5,202406,27415.68
+Eudora,Perfume Masculino,P3,6,202407,13418.43
+Eudora,Perfume Masculino,P3,7,202408,25527.64
+Eudora,Perfume Masculino,P3,8,202409,15721.88
+Eudora,Perfume Masculino,P3,9,202410,17807.329999999998
+Eudora,Perfume Masculino,P3,10,202411,25166.35
+Eudora,Perfume Masculino,P3,11,202412,12601.02
+Eudora,Perfume Masculino,P3,12,202413,15610.98
+Eudora,Perfume Masculino,P3,13,202414,13677.779999999999
+Eudora,Perfume Masculino,P3,14,202415,25717.86
+Eudora,Perfume Masculino,P3,15,202416,15882.92
+Eudora,Perfume Masculino,P3,16,202417,32836.5
+Eudora,Perfume Masculino,P3,17,202501,9618.51
+Eudora,Perfume Masculino,P3,18,202502,12969.34
+Eudora,Perfume Masculino,P3,19,202503,14659.36
+Eudora,Perfume Masculino,P3,20,202504,13599.08
+Eudora,Perfume Masculino,P3,21,202505,15917.859999999999
+Eudora,Perfume Masculino,P3,22,202506,26057.39
+Eudora,Perfume Masculino,P3,23,202507,6884.889999999999
+Eudora,Perfume Masculino,P3,24,202508,19614.649999999998
+Eudora,Perfume Masculino,P3,25,202509,10471.27
+Eudora,Perfume Masculino,P3,26,202510,11691.81
+Eudora,Perfume Masculino,P3,27,202511,20363.39
+Eudora,Perfume Masculino,P3,28,202512,8610.48
+Eudora,Perfume Masculino,P3,29,202513,18038.35
+Eudora,Perfume Masculino,P3,30,202514,10517.88
+Eudora,Perfume Masculino,P3,31,202515,16570.29
+Eudora,Perfume Masculino,P3,32,202516,14994.199999999999
+Eudora,Perfume Masculino,P3,33,202517,24018.21
+Eudora,Perfume Masculino,P3,34,202601,8555.119999999999
+Eudora,Perfume Masculino,P3,35,202602,9088.41
+Eudora,Perfume Masculino,P3,36,202603,7902.599999999999
+Eudora,Perfume Masculino,P3,37,202604,10242.01
+Eudora,Perfume Masculino,P3,38,202605,16109.17
+Eudora,Perfume Masculino,P3,39,202606,20518.149999999998
+Eudora,Perfume Masculino,P3,40,202607,9523.42
+Eudora,Perfume Masculino,P3,41,202608,17143.46
+Eudora,Perfume Masculino,P3,42,202609,16203.93
+Eudora,Perfume Masculino,P4,0,202401,21142.05
+Eudora,Perfume Masculino,P4,1,202402,27193.850000000002
+Eudora,Perfume Masculino,P4,2,202403,28983.06
+Eudora,Perfume Masculino,P4,3,202404,42770.29
+Eudora,Perfume Masculino,P4,4,202405,37710.33
+Eudora,Perfume Masculino,P4,5,202406,39188.71
+Eudora,Perfume Masculino,P4,6,202407,22842.46
+Eudora,Perfume Masculino,P4,7,202408,41899.94
+Eudora,Perfume Masculino,P4,8,202409,20616.39
+Eudora,Perfume Masculino,P4,9,202410,33085.3
+Eudora,Perfume Masculino,P4,10,202411,28791.010000000002
+Eudora,Perfume Masculino,P4,11,202412,13576.11
+Eudora,Perfume Masculino,P4,12,202413,27771.96
+Eudora,Perfume Masculino,P4,13,202414,20586.99
+Eudora,Perfume Masculino,P4,14,202415,30734.87
+Eudora,Perfume Masculino,P4,15,202416,26372.65
+Eudora,Perfume Masculino,P4,16,202417,42709.22
+Eudora,Perfume Masculino,P4,17,202501,18797.9
+Eudora,Perfume Masculino,P4,18,202502,15957.33
+Eudora,Perfume Masculino,P4,19,202503,19041.170000000002
+Eudora,Perfume Masculino,P4,20,202504,22922.190000000002
+Eudora,Perfume Masculino,P4,21,202505,28265.38
+Eudora,Perfume Masculino,P4,22,202506,32964.22
+Eudora,Perfume Masculino,P4,23,202507,16133.35
+Eudora,Perfume Masculino,P4,24,202508,22026.71
+Eudora,Perfume Masculino,P4,25,202509,20203.58
+Eudora,Perfume Masculino,P4,26,202510,18823.8
+Eudora,Perfume Masculino,P4,27,202511,23599.22
+Eudora,Perfume Masculino,P4,28,202512,14529.94
+Eudora,Perfume Masculino,P4,29,202513,16044.68
+Eudora,Perfume Masculino,P4,30,202514,21012.99
+Eudora,Perfume Masculino,P4,31,202515,39464.82
+Eudora,Perfume Masculino,P4,32,202516,22680.5
+Eudora,Perfume Masculino,P4,33,202517,37998.5
+Eudora,Perfume Masculino,P4,34,202601,11336.35
+Eudora,Perfume Masculino,P4,35,202602,9697.14
+Eudora,Perfume Masculino,P4,36,202603,18887.39
+Eudora,Perfume Masculino,P4,37,202604,15978.310000000001
+Eudora,Perfume Masculino,P5,0,202401,28861.67
+Eudora,Perfume Masculino,P5,1,202402,36265.72
+Eudora,Perfume Masculino,P5,2,202403,42079.11
+Eudora,Perfume Masculino,P5,3,202404,48290.15
+Eudora,Perfume Masculino,P5,4,202405,49753.049999999996
+Eudora,Perfume Masculino,P5,5,202406,76755.13
+Eudora,Perfume Masculino,P5,6,202407,38640.93
+Eudora,Perfume Masculino,P5,7,202408,56396.64
+Eudora,Perfume Masculino,P5,8,202409,29150.48
+Eudora,Perfume Masculino,P5,9,202410,46931.95
+Eudora,Perfume Masculino,P5,10,202411,60984.22
+Eudora,Perfume Masculino,P5,11,202412,34921.12
+Eudora,Perfume Masculino,P5,12,202413,34989.02
+Eudora,Perfume Masculino,P5,13,202414,32148.04
+Eudora,Perfume Masculino,P5,14,202415,50247.63
+Eudora,Perfume Masculino,P5,15,202416,49290.009999999995
+Eudora,Perfume Masculino,P5,16,202417,83277.8
+Eudora,Perfume Masculino,P5,17,202501,20692.149999999998
+Eudora,Perfume Masculino,P5,18,202502,31751.3
+Eudora,Perfume Masculino,P5,19,202503,25286.59
+Eudora,Perfume Masculino,P5,20,202504,36529.14
+Eudora,Perfume Masculino,P5,21,202505,44160.08
+Eudora,Perfume Masculino,P5,22,202506,42214.159999999996
+Eudora,Perfume Masculino,P5,23,202507,18963.75
+Eudora,Perfume Masculino,P5,24,202508,48132.3
+Eudora,Perfume Masculino,P5,25,202509,22303.14
+Eudora,Perfume Masculino,P5,26,202510,27469.399999999998
+Eudora,Perfume Masculino,P5,27,202511,40883.659999999996
+Eudora,Perfume Masculino,P5,28,202512,23514.95
+Eudora,Perfume Masculino,P5,29,202513,29869.239999999998
+Eudora,Perfume Masculino,P5,30,202514,40554.31
+Eudora,Perfume Masculino,P5,31,202515,50997.06
+Eudora,Perfume Masculino,P5,32,202516,43290.1
+Eudora,Perfume Masculino,P5,33,202517,53919.22
+Eudora,Perfume Masculino,P5,34,202601,21567.43
+Eudora,Perfume Masculino,P5,35,202602,21287.079999999998
+Eudora,Perfume Masculino,P5,36,202603,30221.239999999998
+Eudora,Perfume Masculino,P5,37,202604,25501.59
+Eudora,Perfume Masculino,P5,38,202605,30862.739999999998
+Eudora,Perfume Masculino,P5,39,202606,54685.52
+Eudora,Perfume Masculino,P5,40,202607,26234.899999999998
+Eudora,Perfume Masculino,P5,41,202608,38765.02
+Eudora,Perfume Masculino,P5,42,202609,27803.199999999997
+Eudora,Sabonete Líquido,P4,0,202401,25307.56
+Eudora,Sabonete Líquido,P4,1,202402,34851.35
+Eudora,Sabonete Líquido,P4,2,202403,39066.39
+Eudora,Sabonete Líquido,P4,3,202404,48734.130000000005
+Eudora,Sabonete Líquido,P4,4,202405,43584.87
+Eudora,Sabonete Líquido,P4,5,202406,57086.85
+Eudora,Sabonete Líquido,P4,6,202407,36775.48
+Eudora,Sabonete Líquido,P4,7,202408,56098.340000000004
+Eudora,Sabonete Líquido,P4,8,202409,24788.07
+Eudora,Sabonete Líquido,P4,9,202410,42006.85
+Eudora,Sabonete Líquido,P4,10,202411,43581.3
+Eudora,Sabonete Líquido,P4,11,202412,24756.780000000002
+Eudora,Sabonete Líquido,P4,12,202413,36851.64
+Eudora,Sabonete Líquido,P4,13,202414,29009.09
+Eudora,Sabonete Líquido,P4,14,202415,54164.71
+Eudora,Sabonete Líquido,P4,15,202416,40593.04
+Eudora,Sabonete Líquido,P4,16,202417,68654.32
+Eudora,Sabonete Líquido,P4,17,202501,25995.86
+Eudora,Sabonete Líquido,P4,18,202502,22907.02
+Eudora,Sabonete Líquido,P4,19,202503,25583.690000000002
+Eudora,Sabonete Líquido,P4,20,202504,32069.23
+Eudora,Sabonete Líquido,P4,21,202505,35965.55
+Eudora,Sabonete Líquido,P4,22,202506,49537.12
+Eudora,Sabonete Líquido,P4,23,202507,14905.84
+Eudora,Sabonete Líquido,P4,24,202508,33514.22
+Eudora,Sabonete Líquido,P4,25,202509,23732.08
+Eudora,Sabonete Líquido,P4,26,202510,21406.84
+Eudora,Sabonete Líquido,P4,27,202511,38186.340000000004
+Eudora,Sabonete Líquido,P4,28,202512,16345.59
+Eudora,Sabonete Líquido,P4,29,202513,30164.57
+Eudora,Sabonete Líquido,P4,30,202514,30752.74
+Eudora,Sabonete Líquido,P4,31,202515,44833.46
+Eudora,Sabonete Líquido,P4,32,202516,31375.600000000002
+Eudora,Sabonete Líquido,P4,33,202517,44552.130000000005
+Eudora,Sabonete Líquido,P4,34,202601,17094.08
+Eudora,Sabonete Líquido,P4,35,202602,17380.24
+Eudora,Sabonete Líquido,P4,36,202603,30214.36
+Eudora,Sabonete Líquido,P4,37,202604,23168.97
+Eudora,Sabonete Líquido,P4,38,202605,33246.78
+Eudora,Sabonete Líquido,P4,39,202606,50212.79
+Eudora,Sabonete Líquido,P4,40,202607,24691.02
+Eudora,Sabonete Líquido,P4,41,202608,39016.6
+Eudora,Sabonete Líquido,P4,42,202609,21991.15
+Eudora,Shampoo,P5,0,202401,87460.69
+Eudora,Shampoo,P5,1,202402,104780.35
+Eudora,Shampoo,P5,2,202403,126400.16
+Eudora,Shampoo,P5,3,202404,146091.03
+Eudora,Shampoo,P5,4,202405,124251.37
+Eudora,Shampoo,P5,5,202406,179457.24
+Eudora,Shampoo,P5,6,202407,84537.56
+Eudora,Shampoo,P5,7,202408,167908.12
+Eudora,Shampoo,P5,8,202409,85100.33
+Eudora,Shampoo,P5,9,202410,93300.11
+Eudora,Shampoo,P5,10,202411,101076.87
+Eudora,Shampoo,P5,11,202412,72693.38
+Eudora,Shampoo,P5,12,202413,87811.74
+Eudora,Shampoo,P5,13,202414,95493.0
+Eudora,Shampoo,P5,14,202415,135957.72
+Eudora,Shampoo,P5,15,202416,133718.47
+Eudora,Shampoo,P5,16,202417,191507.88
+Eudora,Shampoo,P5,17,202501,51545.76
+Eudora,Shampoo,P5,18,202502,65426.19
+Eudora,Shampoo,P5,19,202503,58042.44
+Eudora,Shampoo,P5,20,202504,95941.71
+Eudora,Shampoo,P5,21,202505,104773.54
+Eudora,Shampoo,P5,22,202506,133350.74
+Eudora,Shampoo,P5,23,202507,47486.78
+Eudora,Shampoo,P5,24,202508,97322.74
+Eudora,Shampoo,P5,25,202509,64338.07
+Eudora,Shampoo,P5,26,202510,66547.23
+Eudora,Shampoo,P5,27,202511,107223.84
+Eudora,Shampoo,P5,28,202512,54034.9
+Eudora,Shampoo,P5,29,202513,81322.61
+Eudora,Shampoo,P5,30,202514,87724.12
+Eudora,Shampoo,P5,31,202515,131803.45
+Eudora,Shampoo,P5,32,202516,89720.92
+Eudora,Shampoo,P5,33,202517,157100.8
+Eudora,Shampoo,P5,34,202601,52425.92
+Eudora,Shampoo,P5,35,202602,52400.33
+Eudora,Shampoo,P5,36,202603,64719.8
+Eudora,Shampoo,P5,37,202604,57211.65
+Eudora,Shampoo,P5,38,202605,71444.75
+Eudora,Shampoo,P5,39,202606,120551.91
+Eudora,Shampoo,P5,40,202607,67991.92
+Eudora,Shampoo,P5,41,202608,115191.8
+Eudora,Shampoo,P5,42,202609,55737.36
+Eudora,Shampoo,P6,0,202401,44863.76
+Eudora,Shampoo,P6,1,202402,53734.85
+Eudora,Shampoo,P6,2,202403,70923.77
+Eudora,Shampoo,P6,3,202404,96071.1
+Eudora,Shampoo,P6,4,202405,80216.74
+Eudora,Shampoo,P6,5,202406,111369.03
+Eudora,Shampoo,P6,6,202407,58544.25
+Eudora,Shampoo,P6,7,202408,103807.18000000001
+Eudora,Shampoo,P6,8,202409,64163.9
+Eudora,Shampoo,P6,9,202410,57274.83
+Eudora,Shampoo,P6,10,202411,75620.46
+Eudora,Shampoo,P6,11,202412,44570.98
+Eudora,Shampoo,P6,12,202413,67628.68000000001
+Eudora,Shampoo,P6,13,202414,61376.94
+Eudora,Shampoo,P6,14,202415,100869.19
+Eudora,Shampoo,P6,15,202416,66747.39
+Eudora,Shampoo,P6,16,202417,130774.29000000001
+Eudora,Shampoo,P6,17,202501,47873.71
+Eudora,Shampoo,P6,18,202502,36983.38
+Eudora,Shampoo,P6,19,202503,51069.590000000004
+Eudora,Shampoo,P6,20,202504,63376.64
+Eudora,Shampoo,P6,21,202505,61033.23
+Eudora,Shampoo,P6,22,202506,71847.05
+Eudora,Shampoo,P6,23,202507,36303.73
+Eudora,Shampoo,P6,24,202508,61357.11
+Eudora,Shampoo,P6,25,202509,36845.42
+Eudora,Shampoo,P6,26,202510,54856.04
+Eudora,Shampoo,P6,27,202511,55558.29
+Eudora,Shampoo,P6,28,202512,36666.5
+Eudora,Shampoo,P6,29,202513,60721.21
+Eudora,Shampoo,P6,30,202514,60128.6
+Eudora,Shampoo,P6,31,202515,89707.53
+Eudora,Shampoo,P6,32,202516,64608.69
+Eudora,Shampoo,P6,33,202517,101636.68000000001
+Eudora,Shampoo,P6,34,202601,31638.37
+Eudora,Shampoo,P6,35,202602,37279.22
+Eudora,Shampoo,P6,36,202603,42425.07
+Eudora,Shampoo,P6,37,202604,38456.35
+Eudora,Shampoo,P6,38,202605,63661.8
+Eudora,Shampoo,P6,39,202606,73799.89
+Eudora,Shampoo,P6,40,202607,48370.93
+Eudora,Shampoo,P6,41,202608,81850.67
+Eudora,Shampoo,P6,42,202609,47249.32
+Eudora,Sérum,P1,0,202401,8121.41
+Eudora,Sérum,P1,1,202402,9935.75
+Eudora,Sérum,P1,2,202403,14904.21
+Eudora,Sérum,P1,3,202404,15102.98
+Eudora,Sérum,P1,4,202405,15417.199999999999
+Eudora,Sérum,P1,5,202406,18021.99
+Eudora,Sérum,P1,6,202407,10110.289999999999
+Eudora,Sérum,P1,7,202408,15672.14
+Eudora,Sérum,P1,8,202409,8547.289999999999
+Eudora,Sérum,P1,9,202410,10726.28
+Eudora,Sérum,P1,10,202411,6478.38
+Eudora,Sérum,P1,11,202412,3879.5099999999998
+Eudora,Sérum,P1,12,202413,5288.33
+Eudora,Sérum,P1,13,202414,5400.66
+Eudora,Sérum,P1,14,202415,8953.22
+Eudora,Sérum,P1,15,202416,6320.59
+Eudora,Sérum,P1,16,202417,9745.59
+Eudora,Sérum,P1,17,202501,3172.64
+Eudora,Sérum,P1,18,202502,2919.47
+Eudora,Sérum,P1,19,202503,3163.0
+Eudora,Sérum,P1,20,202504,5236.07
+Eudora,Sérum,P1,21,202505,4842.54
+Eudora,Sérum,P1,22,202506,5593.44
+Eudora,Sérum,P1,23,202507,3123.56
+Eudora,Sérum,P1,24,202508,5478.53
+Eudora,Sérum,P1,25,202509,3544.44
+Eudora,Sérum,P1,26,202510,3669.37
+Eudora,Sérum,P1,27,202511,4830.11
+Eudora,Sérum,P1,28,202512,3338.92
+Eudora,Sérum,P1,29,202513,3691.77
+Eudora,Sérum,P1,30,202514,4770.04
+Eudora,Sérum,P1,31,202515,7761.17
+Eudora,Sérum,P1,32,202516,4921.05
+Eudora,Sérum,P1,33,202517,7426.18
+Eudora,Sérum,P1,34,202601,2610.43
+Eudora,Sérum,P1,35,202602,2241.09
+Eudora,Sérum,P1,36,202603,3275.35
+Eudora,Sérum,P1,37,202604,3428.36
+Eudora,Sérum,P1,38,202605,4135.14
+Eudora,Sérum,P1,39,202606,7028.99
+Eudora,Sérum,P1,40,202607,2943.45
+Eudora,Sérum,P1,41,202608,5488.6
+Eudora,Sérum,P1,42,202609,3141.04
+Eudora,Óleo Corporal,P1,0,202401,6436.09
+Eudora,Óleo Corporal,P1,1,202402,7554.02
+Eudora,Óleo Corporal,P1,2,202403,8909.21
+Eudora,Óleo Corporal,P1,3,202404,9324.36
+Eudora,Óleo Corporal,P1,4,202405,11678.42
+Eudora,Óleo Corporal,P1,5,202406,13128.86
+Eudora,Óleo Corporal,P1,6,202407,5278.84
+Eudora,Óleo Corporal,P1,7,202408,12013.7
+Eudora,Óleo Corporal,P1,8,202409,7616.15
+Eudora,Óleo Corporal,P1,9,202410,8007.89
+Eudora,Óleo Corporal,P1,10,202411,9770.75
+Eudora,Óleo Corporal,P1,11,202412,5032.73
+Eudora,Óleo Corporal,P1,12,202413,6897.75
+Eudora,Óleo Corporal,P1,13,202414,6107.17
+Eudora,Óleo Corporal,P1,14,202415,11603.09
+Eudora,Óleo Corporal,P1,15,202416,8186.63
+Eudora,Óleo Corporal,P1,16,202417,16193.119999999999
+Eudora,Óleo Corporal,P1,17,202501,4214.89
+Eudora,Óleo Corporal,P1,18,202502,6226.68
+Eudora,Óleo Corporal,P1,19,202503,6651.92
+Eudora,Óleo Corporal,P1,20,202504,7092.78
+Eudora,Óleo Corporal,P1,21,202505,9422.38
+Eudora,Óleo Corporal,P1,22,202506,10481.86
+Eudora,Óleo Corporal,P1,23,202507,2990.37
+Eudora,Óleo Corporal,P1,24,202508,8520.37
+Eudora,Óleo Corporal,P1,25,202509,4030.69
+Eudora,Óleo Corporal,P1,26,202510,5097.18
+Eudora,Óleo Corporal,P1,27,202511,9017.26
+Eudora,Óleo Corporal,P1,28,202512,4356.9
+Eudora,Óleo Corporal,P1,29,202513,5325.5199999999995
+Eudora,Óleo Corporal,P1,30,202514,6329.2
+Eudora,Óleo Corporal,P1,31,202515,9553.33
+Eudora,Óleo Corporal,P1,32,202516,6846.27
+Eudora,Óleo Corporal,P1,33,202517,11768.22
+Eudora,Óleo Corporal,P1,34,202601,4636.78
+Eudora,Óleo Corporal,P1,35,202602,3782.65
+Eudora,Óleo Corporal,P1,36,202603,5609.4
+Eudora,Óleo Corporal,P1,37,202604,3187.81
+Eudora,Óleo Corporal,P1,38,202605,8250.49
+Eudora,Óleo Corporal,P1,39,202606,9945.78
+Eudora,Óleo Corporal,P1,40,202607,4813.17
+Eudora,Óleo Corporal,P1,41,202608,9309.38
+Eudora,Óleo Corporal,P1,42,202609,6185.07
+Eudora,Óleo Corporal,P2,0,202401,9467.45
+Eudora,Óleo Corporal,P2,1,202402,10079.87
+Eudora,Óleo Corporal,P2,2,202403,12903.78
+Eudora,Óleo Corporal,P2,3,202404,14356.68
+Eudora,Óleo Corporal,P2,4,202405,15569.79
+Eudora,Óleo Corporal,P2,5,202406,15111.720000000001
+Eudora,Óleo Corporal,P2,6,202407,10533.04
+Eudora,Óleo Corporal,P2,7,202408,17961.3
+Eudora,Óleo Corporal,P2,8,202409,10107.42
+Eudora,Óleo Corporal,P2,9,202410,10434.35
+Eudora,Óleo Corporal,P2,10,202411,12833.17
+Eudora,Óleo Corporal,P2,11,202412,6781.17
+Eudora,Óleo Corporal,P2,12,202413,9999.470000000001
+Eudora,Óleo Corporal,P2,13,202414,8631.14
+Eudora,Óleo Corporal,P2,14,202415,14653.82
+Eudora,Óleo Corporal,P2,15,202416,9742.73
+Eudora,Óleo Corporal,P2,16,202417,19295.32
+Eudora,Óleo Corporal,P2,17,202501,7596.54
+Eudora,Óleo Corporal,P2,18,202502,7851.56
+Eudora,Óleo Corporal,P2,19,202503,7884.59
+Eudora,Óleo Corporal,P2,20,202504,11051.890000000001
+Eudora,Óleo Corporal,P2,21,202505,11175.43
+Eudora,Óleo Corporal,P2,22,202506,14951.06
+Eudora,Óleo Corporal,P2,23,202507,5323.14
+Eudora,Óleo Corporal,P2,24,202508,9922.74
+Eudora,Óleo Corporal,P2,25,202509,6815.990000000001
+Eudora,Óleo Corporal,P2,26,202510,8789.07
+Eudora,Óleo Corporal,P2,27,202511,11409.310000000001
+Eudora,Óleo Corporal,P2,28,202512,5412.34
+Eudora,Óleo Corporal,P2,29,202513,8251.9
+Eudora,Óleo Corporal,P2,30,202514,8666.72
+Eudora,Óleo Corporal,P2,31,202515,12923.67
+Eudora,Óleo Corporal,P2,32,202516,12492.130000000001
+Eudora,Óleo Corporal,P2,33,202517,18995.71
+Eudora,Óleo Corporal,P2,34,202601,5357.860000000001
+Eudora,Óleo Corporal,P2,35,202602,6486.6900000000005
+Eudora,Óleo Corporal,P2,36,202603,8305.01
+Eudora,Óleo Corporal,P2,37,202604,5720.25
+Eudora,Óleo Corporal,P2,38,202605,7843.1
+Eudora,Óleo Corporal,P2,39,202606,11611.24
+Eudora,Óleo Corporal,P2,40,202607,4822.79
+Eudora,Óleo Corporal,P2,41,202608,11657.23
+Eudora,Óleo Corporal,P2,42,202609,7064.47
+Eudora,Óleo Corporal,P4,0,202401,51893.08
+Eudora,Óleo Corporal,P4,1,202402,69346.73
+Eudora,Óleo Corporal,P4,2,202403,83597.4
+Eudora,Óleo Corporal,P4,3,202404,82298.56999999999
+Eudora,Óleo Corporal,P4,4,202405,78067.36
+Eudora,Óleo Corporal,P4,5,202406,127080.62
+Eudora,Óleo Corporal,P4,6,202407,62980.92
+Eudora,Óleo Corporal,P4,7,202408,110562.5
+Eudora,Óleo Corporal,P4,8,202409,52263.439999999995
+Eudora,Óleo Corporal,P4,9,202410,75745.73
+Eudora,Óleo Corporal,P4,10,202411,85137.76
+Eudora,Óleo Corporal,P4,11,202412,58282.33
+Eudora,Óleo Corporal,P4,12,202413,63736.58
+Eudora,Óleo Corporal,P4,13,202414,60670.38
+Eudora,Óleo Corporal,P4,14,202415,103518.56
+Eudora,Óleo Corporal,P4,15,202416,82280.78
+Eudora,Óleo Corporal,P4,16,202417,141651.21
+Eudora,Óleo Corporal,P4,17,202501,41123.92
+Eudora,Óleo Corporal,P4,18,202502,40744.6
+Eudora,Óleo Corporal,P4,19,202503,47201.94
+Eudora,Óleo Corporal,P4,20,202504,67024.25
+Eudora,Óleo Corporal,P4,21,202505,84065.91
+Eudora,Óleo Corporal,P4,22,202506,86169.56999999999
+Eudora,Óleo Corporal,P4,23,202507,37368.92
+Eudora,Óleo Corporal,P4,24,202508,79127.73999999999
+Eudora,Óleo Corporal,P4,25,202509,52073.93
+Eudora,Óleo Corporal,P4,26,202510,53472.54
+Eudora,Óleo Corporal,P4,27,202511,68383.18
+Eudora,Óleo Corporal,P4,28,202512,33538.46
+Eudora,Óleo Corporal,P4,29,202513,54768.57
+Eudora,Óleo Corporal,P4,30,202514,66243.44
+Eudora,Óleo Corporal,P4,31,202515,90875.6
+Eudora,Óleo Corporal,P4,32,202516,76931.78
+Eudora,Óleo Corporal,P4,33,202517,94350.62
+Eudora,Óleo Corporal,P4,34,202601,39324.7
+Eudora,Óleo Corporal,P4,35,202602,33686.07
+Eudora,Óleo Corporal,P4,36,202603,44807.04
+Eudora,Óleo Corporal,P4,37,202604,42212.03
+Eudora,Óleo Corporal,P4,38,202605,62224.44
+Eudora,Óleo Corporal,P4,39,202606,88989.19
+Eudora,Óleo Corporal,P4,40,202607,39461.36
+Eudora,Óleo Corporal,P4,41,202608,81329.15
+Eudora,Óleo Corporal,P4,42,202609,47312.29
+Eudora,Óleo Corporal,P5,0,202401,33632.49
+Eudora,Óleo Corporal,P5,1,202402,36361.72
+Eudora,Óleo Corporal,P5,2,202403,42345.27
+Eudora,Óleo Corporal,P5,3,202404,50086.67
+Eudora,Óleo Corporal,P5,4,202405,54483.2
+Eudora,Óleo Corporal,P5,5,202406,56722.76
+Eudora,Óleo Corporal,P5,6,202407,31120.829999999998
+Eudora,Óleo Corporal,P5,7,202408,58000.42
+Eudora,Óleo Corporal,P5,8,202409,35597.63
+Eudora,Óleo Corporal,P5,9,202410,41973.619999999995
+Eudora,Óleo Corporal,P5,10,202411,44213.06
+Eudora,Óleo Corporal,P5,11,202412,30204.82
+Eudora,Óleo Corporal,P5,12,202413,43144.409999999996
+Eudora,Óleo Corporal,P5,13,202414,27388.12
+Eudora,Óleo Corporal,P5,14,202415,52266.04
+Eudora,Óleo Corporal,P5,15,202416,47613.11
+Eudora,Óleo Corporal,P5,16,202417,75438.19
+Eudora,Óleo Corporal,P5,17,202501,27053.34
+Eudora,Óleo Corporal,P5,18,202502,25137.55
+O Boticário,Colônia Infantil,P3,0,202401,56250.36
+O Boticário,Colônia Infantil,P3,1,202402,68160.87
+O Boticário,Colônia Infantil,P3,2,202403,76295.39
+O Boticário,Colônia Infantil,P3,3,202404,86725.22
+O Boticário,Colônia Infantil,P3,4,202405,84624.24
+O Boticário,Colônia Infantil,P3,5,202406,123405.43000000001
+O Boticário,Colônia Infantil,P3,6,202407,61980.87
+O Boticário,Colônia Infantil,P3,7,202408,100692.64
+O Boticário,Colônia Infantil,P3,8,202409,55160.0
+O Boticário,Colônia Infantil,P3,9,202410,77576.14
+O Boticário,Colônia Infantil,P3,10,202411,84310.22
+O Boticário,Colônia Infantil,P3,11,202412,52512.340000000004
+O Boticário,Colônia Infantil,P3,12,202413,65905.48
+O Boticário,Colônia Infantil,P3,13,202414,56451.05
+O Boticário,Colônia Infantil,P3,14,202415,96764.14
+O Boticário,Colônia Infantil,P3,15,202416,76854.01
+O Boticário,Colônia Infantil,P3,16,202417,133331.47
+O Boticário,Colônia Infantil,P3,17,202501,35421.81
+O Boticário,Colônia Infantil,P3,18,202502,47171.840000000004
+O Boticário,Colônia Infantil,P3,19,202503,43561.11
+O Boticário,Colônia Infantil,P3,20,202504,67353.35
+O Boticário,Colônia Infantil,P3,21,202505,77734.97
+O Boticário,Colônia Infantil,P3,22,202506,74198.59
+O Boticário,Colônia Infantil,P3,23,202507,34951.53
+O Boticário,Colônia Infantil,P3,24,202508,71121.09
+O Boticário,Colônia Infantil,P3,25,202509,43426.94
+O Boticário,Colônia Infantil,P3,26,202510,51210.01
+O Boticário,Colônia Infantil,P3,27,202511,73669.39
+O Boticário,Colônia Infantil,P3,28,202512,36914.85
+O Boticário,Colônia Infantil,P3,29,202513,53152.13
+O Boticário,Colônia Infantil,P3,30,202514,63273.92
+O Boticário,Colônia Infantil,P3,31,202515,89784.92
+O Boticário,Colônia Infantil,P3,32,202516,69357.83
+O Boticário,Colônia Infantil,P3,33,202517,101774.11
+O Boticário,Colônia Infantil,P3,34,202601,34723.99
+O Boticário,Colônia Infantil,P3,35,202602,35494.86
+O Boticário,Colônia Infantil,P3,36,202603,44278.78
+O Boticário,Colônia Infantil,P3,37,202604,40895.39
+O Boticário,Colônia Infantil,P3,38,202605,56017.2
+O Boticário,Colônia Infantil,P3,39,202606,79449.22
+O Boticário,Colônia Infantil,P3,40,202607,44960.4
+O Boticário,Colônia Infantil,P3,41,202608,77408.76
+O Boticário,Colônia Infantil,P3,42,202609,38562.26
+O Boticário,Colônia Infantil,P5,0,202401,41012.58
+O Boticário,Colônia Infantil,P5,1,202402,40947.93
+O Boticário,Colônia Infantil,P5,2,202403,41920.61
+O Boticário,Colônia Infantil,P5,3,202404,53230.94
+O Boticário,Colônia Infantil,P5,4,202405,63253.1
+O Boticário,Colônia Infantil,P5,5,202406,65903.24
+O Boticário,Colônia Infantil,P5,6,202407,33180.36
+O Boticário,Colônia Infantil,P5,7,202408,62500.47
+O Boticário,Colônia Infantil,P5,8,202409,26490.19
+O Boticário,Colônia Infantil,P5,9,202410,34319.49
+O Boticário,Colônia Infantil,P5,10,202411,43034.79
+O Boticário,Colônia Infantil,P5,11,202412,24727.11
+O Boticário,Colônia Infantil,P5,12,202413,41490.06
+O Boticário,Colônia Infantil,P5,13,202414,34947.41
+O Boticário,Colônia Infantil,P5,14,202415,52232.82
+O Boticário,Colônia Infantil,P5,15,202416,55057.39
+O Boticário,Colônia Infantil,P5,16,202417,66677.89
+O Boticário,Colônia Infantil,P5,17,202501,21365.35
+O Boticário,Colônia Infantil,P5,18,202502,29964.5
+O Boticário,Colônia Infantil,P5,19,202503,31887.13
+O Boticário,Colônia Infantil,P5,20,202504,47704.57
+O Boticário,Colônia Infantil,P5,21,202505,40305.270000000004
+O Boticário,Colônia Infantil,P5,22,202506,49747.21
+O Boticário,Colônia Infantil,P5,23,202507,19271.68
+O Boticário,Colônia Infantil,P5,24,202508,40117.45
+O Boticário,Colônia Infantil,P5,25,202509,23616.07
+O Boticário,Colônia Infantil,P5,26,202510,30413.24
+O Boticário,Colônia Infantil,P5,27,202511,38368.61
+O Boticário,Colônia Infantil,P5,28,202512,27512.29
+O Boticário,Colônia Infantil,P5,29,202513,29208.41
+O Boticário,Colônia Infantil,P5,30,202514,34694.4
+O Boticário,Colônia Infantil,P5,31,202515,54014.14
+O Boticário,Colônia Infantil,P5,32,202516,36352.46
+O Boticário,Colônia Infantil,P5,33,202517,53556.14
+O Boticário,Colônia Infantil,P5,34,202601,23427.07
+O Boticário,Colônia Infantil,P5,35,202602,21104.65
+O Boticário,Colônia Infantil,P5,36,202603,28724.08
+O Boticário,Colônia Infantil,P5,37,202604,20316.59
+O Boticário,Colônia Infantil,P5,38,202605,31715.76
+O Boticário,Colônia Infantil,P5,39,202606,47956.93
+O Boticário,Colônia Infantil,P5,40,202607,26019.77
+O Boticário,Colônia Infantil,P5,41,202608,50619.47
+O Boticário,Colônia Infantil,P5,42,202609,22349.18
+O Boticário,Condicionador,P3,0,202401,31379.83
+O Boticário,Condicionador,P3,1,202402,35691.25
+O Boticário,Condicionador,P3,2,202403,50937.89
+O Boticário,Condicionador,P3,3,202404,56089.92
+O Boticário,Condicionador,P3,4,202405,58374.15
+O Boticário,Condicionador,P3,5,202406,78218.62
+O Boticário,Condicionador,P3,6,202407,38925.42
+O Boticário,Condicionador,P3,7,202408,66170.92
+O Boticário,Condicionador,P3,8,202409,31618.68
+O Boticário,Condicionador,P3,9,202410,45954.67
+O Boticário,Condicionador,P3,10,202411,54761.56
+O Boticário,Condicionador,P3,11,202412,31266.57
+O Boticário,Condicionador,P3,12,202413,39180.88
+O Boticário,Condicionador,P3,13,202414,46080.35
+O Boticário,Condicionador,P3,14,202415,62412.46
+O Boticário,Condicionador,P3,15,202416,47823.0
+O Boticário,Condicionador,P3,16,202417,79230.75
+O Boticário,Condicionador,P3,17,202501,27608.15
+O Boticário,Condicionador,P3,18,202502,25780.93
+O Boticário,Condicionador,P3,19,202503,23607.11
+O Boticário,Condicionador,P3,20,202504,39843.49
+O Boticário,Condicionador,P3,21,202505,46876.3
+O Boticário,Condicionador,P3,22,202506,49529.24
+O Boticário,Condicionador,P3,23,202507,25621.7
+O Boticário,Condicionador,P3,24,202508,47125.49
+O Boticário,Condicionador,P3,25,202509,30309.68
+O Boticário,Condicionador,P3,26,202510,29269.96
+O Boticário,Condicionador,P3,27,202511,44024.4
+O Boticário,Condicionador,P3,28,202512,19403.03
+O Boticário,Condicionador,P3,29,202513,31216.02
+O Boticário,Condicionador,P3,30,202514,37528.39
+O Boticário,Condicionador,P3,31,202515,54276.43
+O Boticário,Condicionador,P3,32,202516,37331.73
+O Boticário,Condicionador,P3,33,202517,62967.33
+O Boticário,Condicionador,P3,34,202601,18720.96
+O Boticário,Condicionador,P3,35,202602,21799.920000000002
+O Boticário,Condicionador,P3,36,202603,31785.65
+O Boticário,Condicionador,P3,37,202604,28327.55
+O Boticário,Condicionador,P3,38,202605,16030.9
+O Boticário,Condicionador,P3,39,202606,26460.72
+O Boticário,Condicionador,P3,40,202607,21449.03
+O Boticário,Condicionador,P3,41,202608,20082.74
+O Boticário,Condicionador,P3,42,202609,12973.45
+O Boticário,Condicionador,P4,0,202401,23572.55
+O Boticário,Condicionador,P4,1,202402,24362.93
+O Boticário,Condicionador,P4,2,202403,35052.62
+O Boticário,Condicionador,P4,3,202404,37949.43
+O Boticário,Condicionador,P4,4,202405,43705.21
+O Boticário,Condicionador,P4,5,202406,52037.48
+O Boticário,Condicionador,P4,6,202407,26560.99
+O Boticário,Condicionador,P4,7,202408,53422.53
+O Boticário,Condicionador,P4,8,202409,26688.4
+O Boticário,Condicionador,P4,9,202410,30820.510000000002
+O Boticário,Condicionador,P4,10,202411,37548.21
+O Boticário,Condicionador,P4,11,202412,21465.24
+O Boticário,Condicionador,P4,12,202413,29410.09
+O Boticário,Condicionador,P4,13,202414,26429.7
+O Boticário,Condicionador,P4,14,202415,48404.21
+O Boticário,Condicionador,P4,15,202416,37676.25
+O Boticário,Condicionador,P4,16,202417,60431.16
+O Boticário,Condicionador,P4,17,202501,20088.66
+O Boticário,Condicionador,P4,18,202502,17777.99
+O Boticário,Condicionador,P4,19,202503,15423.34
+O Boticário,Condicionador,P4,20,202504,29156.4
+O Boticário,Condicionador,P4,21,202505,34221.04
+O Boticário,Condicionador,P4,22,202506,42852.64
+O Boticário,Condicionador,P4,23,202507,19168.22
+O Boticário,Condicionador,P4,24,202508,29988.920000000002
+O Boticário,Condicionador,P4,25,202509,21633.84
+O Boticário,Condicionador,P4,26,202510,22847.74
+O Boticário,Condicionador,P4,27,202511,31430.920000000002
+O Boticário,Condicionador,P4,28,202512,17663.09
+O Boticário,Condicionador,P4,29,202513,23303.72
+O Boticário,Condicionador,P4,30,202514,22606.15
+O Boticário,Condicionador,P4,31,202515,50067.15
+O Boticário,Condicionador,P4,32,202516,39136.14
+O Boticário,Condicionador,P4,33,202517,45828.4
+O Boticário,Condicionador,P4,34,202601,14859.92
+O Boticário,Condicionador,P4,35,202602,18580.350000000002
+O Boticário,Condicionador,P4,36,202603,19964.61
+O Boticário,Condicionador,P4,37,202604,17201.91
+O Boticário,Condicionador,P4,38,202605,25926.84
+O Boticário,Condicionador,P4,39,202606,42243.020000000004
+O Boticário,Condicionador,P4,40,202607,17725.7
+O Boticário,Condicionador,P4,41,202608,40069.93
+O Boticário,Condicionador,P4,42,202609,19068.75
+O Boticário,Hidratante Corporal,P1,0,202401,7217.35
+O Boticário,Hidratante Corporal,P1,1,202402,7238.02
+O Boticário,Hidratante Corporal,P1,2,202403,9322.35
+O Boticário,Hidratante Corporal,P1,3,202404,9373.06
+O Boticário,Hidratante Corporal,P1,4,202405,11294.12
+O Boticário,Hidratante Corporal,P1,5,202406,12347.86
+O Boticário,Hidratante Corporal,P1,6,202407,6942.91
+O Boticário,Hidratante Corporal,P1,7,202408,11428.12
+O Boticário,Hidratante Corporal,P1,8,202409,7036.35
+O Boticário,Hidratante Corporal,P1,9,202410,7993.56
+O Boticário,Hidratante Corporal,P1,10,202411,8719.28
+O Boticário,Hidratante Corporal,P1,11,202412,5180.4400000000005
+O Boticário,Hidratante Corporal,P1,12,202413,9657.6
+O Boticário,Hidratante Corporal,P1,13,202414,7894.8
+O Boticário,Hidratante Corporal,P1,14,202415,12171.74
+O Boticário,Hidratante Corporal,P1,15,202416,9458.23
+O Boticário,Hidratante Corporal,P1,16,202417,16011.060000000001
+O Boticário,Hidratante Corporal,P1,17,202501,5709.59
+O Boticário,Hidratante Corporal,P1,18,202502,5262.7300000000005
+O Boticário,Hidratante Corporal,P1,19,202503,5285.81
+O Boticário,Hidratante Corporal,P1,20,202504,8551.77
+O Boticário,Hidratante Corporal,P1,21,202505,8921.960000000001
+O Boticário,Hidratante Corporal,P1,22,202506,10006.11
+O Boticário,Hidratante Corporal,P1,23,202507,5498.12
+O Boticário,Hidratante Corporal,P1,24,202508,7514.37
+O Boticário,Hidratante Corporal,P1,25,202509,5838.84
+O Boticário,Hidratante Corporal,P1,26,202510,6554.29
+O Boticário,Hidratante Corporal,P1,27,202511,7482.89
+O Boticário,Hidratante Corporal,P1,28,202512,5234.2
+O Boticário,Hidratante Corporal,P1,29,202513,6681.7
+O Boticário,Hidratante Corporal,P1,30,202514,7623.95
+O Boticário,Hidratante Corporal,P1,31,202515,9299.45
+O Boticário,Hidratante Corporal,P1,32,202516,7914.6
+O Boticário,Hidratante Corporal,P1,33,202517,11662.470000000001
+O Boticário,Hidratante Corporal,P1,34,202601,4870.18
+O Boticário,Hidratante Corporal,P1,35,202602,4655.0
+O Boticário,Hidratante Corporal,P1,36,202603,4814.06
+O Boticário,Hidratante Corporal,P1,37,202604,5646.68
+O Boticário,Hidratante Corporal,P1,38,202605,8038.88
+O Boticário,Hidratante Corporal,P1,39,202606,7576.59
+O Boticário,Hidratante Corporal,P1,40,202607,6342.45
+O Boticário,Hidratante Corporal,P1,41,202608,8203.210000000001
+O Boticário,Hidratante Corporal,P1,42,202609,4395.02
+O Boticário,Hidratante Corporal,P5,0,202401,78089.24
+O Boticário,Hidratante Corporal,P5,1,202402,86397.88
+O Boticário,Hidratante Corporal,P5,2,202403,102901.57
+O Boticário,Hidratante Corporal,P5,3,202404,130717.64
+O Boticário,Hidratante Corporal,P5,4,202405,113466.07
+O Boticário,Hidratante Corporal,P5,5,202406,188528.46
+O Boticário,Hidratante Corporal,P5,6,202407,81049.13
+O Boticário,Hidratante Corporal,P5,7,202408,141388.51
+O Boticário,Hidratante Corporal,P5,8,202409,67904.75
+O Boticário,Hidratante Corporal,P5,9,202410,96246.24
+O Boticário,Hidratante Corporal,P5,10,202411,105696.89
+O Boticário,Hidratante Corporal,P5,11,202412,65835.07
+O Boticário,Hidratante Corporal,P5,12,202413,77825.94
+O Boticário,Hidratante Corporal,P5,13,202414,71421.98
+O Boticário,Hidratante Corporal,P5,14,202415,135283.28
+O Boticário,Hidratante Corporal,P5,15,202416,114487.11
+O Boticário,Hidratante Corporal,P5,16,202417,173124.01
+O Boticário,Hidratante Corporal,P5,17,202501,53421.15
+O Boticário,Hidratante Corporal,P5,18,202502,63169.64
+O Boticário,Hidratante Corporal,P5,19,202503,65668.02
+O Boticário,Hidratante Corporal,P5,20,202504,91972.57
+O Boticário,Hidratante Corporal,P5,21,202505,96846.81
+O Boticário,Hidratante Corporal,P5,22,202506,108495.90000000001
+O Boticário,Hidratante Corporal,P5,23,202507,56959.75
+O Boticário,Hidratante Corporal,P5,24,202508,88702.1
+O Boticário,Hidratante Corporal,P5,25,202509,61724.72
+O Boticário,Hidratante Corporal,P5,26,202510,72225.77
+O Boticário,Hidratante Corporal,P5,27,202511,82416.06
+O Boticário,Hidratante Corporal,P5,28,202512,51417.49
+O Boticário,Hidratante Corporal,P5,29,202513,66555.74
+O Boticário,Hidratante Corporal,P5,30,202514,76674.81
+O Boticário,Hidratante Corporal,P5,31,202515,129755.33
+O Boticário,Hidratante Corporal,P5,32,202516,78009.13
+O Boticário,Hidratante Corporal,P5,33,202517,121337.09
+O Boticário,Hidratante Corporal,P5,34,202601,47574.090000000004
+O Boticário,Hidratante Corporal,P5,35,202602,51784.72
+O Boticário,Hidratante Corporal,P5,36,202603,58411.1
+O Boticário,Hidratante Corporal,P5,37,202604,49354.11
+O Boticário,Hidratante Corporal,P5,38,202605,70604.52
+O Boticário,Hidratante Corporal,P5,39,202606,111478.58
+O Boticário,Hidratante Corporal,P5,40,202607,62780.65
+O Boticário,Hidratante Corporal,P5,41,202608,110193.73
+O Boticário,Hidratante Corporal,P5,42,202609,73087.47
+O Boticário,Hidratante Corporal,P6,0,202401,79220.23
+O Boticário,Hidratante Corporal,P6,1,202402,83129.33
+O Boticário,Hidratante Corporal,P6,2,202403,115355.92
+O Boticário,Hidratante Corporal,P6,3,202404,125663.51000000001
+O Boticário,Hidratante Corporal,P6,4,202405,104660.66
+O Boticário,Hidratante Corporal,P6,5,202406,162764.09
+O Boticário,Hidratante Corporal,P6,6,202407,70689.41
+O Boticário,Hidratante Corporal,P6,7,202408,157599.75
+O Boticário,Hidratante Corporal,P6,8,202409,82413.99
+O Boticário,Hidratante Corporal,P6,9,202410,102706.81
+O Boticário,Hidratante Corporal,P6,10,202411,89364.46
+O Boticário,Hidratante Corporal,P6,11,202412,60351.66
+O Boticário,Hidratante Corporal,P6,12,202413,100232.5
+O Boticário,Hidratante Corporal,P6,13,202414,70407.35
+O Boticário,Hidratante Corporal,P6,14,202415,122782.02
+O Boticário,Hidratante Corporal,P6,15,202416,89323.81
+O Boticário,Hidratante Corporal,P6,16,202417,143517.54
+O Boticário,Hidratante Corporal,P6,17,202501,55826.520000000004
+O Boticário,Hidratante Corporal,P6,18,202502,61204.72
+O Boticário,Hidratante Corporal,P6,19,202503,38525.83
+O Boticário,Hidratante Corporal,P6,20,202504,80489.06
+O Boticário,Hidratante Corporal,P6,21,202505,114251.97
+O Boticário,Hidratante Corporal,P6,22,202506,95430.05
+O Boticário,Hidratante Corporal,P6,23,202507,39219.58
+O Boticário,Hidratante Corporal,P6,24,202508,94020.15000000001
+O Boticário,Hidratante Corporal,P6,25,202509,74575.22
+O Boticário,Hidratante Corporal,P6,26,202510,52589.25
+O Boticário,Hidratante Corporal,P6,27,202511,88803.84
+O Boticário,Hidratante Corporal,P6,28,202512,40384.51
+O Boticário,Hidratante Corporal,P6,29,202513,65941.73
+O Boticário,Hidratante Corporal,P6,30,202514,96048.8
+O Boticário,Hidratante Corporal,P6,31,202515,98282.72
+O Boticário,Hidratante Corporal,P6,32,202516,75840.71
+O Boticário,Hidratante Corporal,P6,33,202517,127159.39
+O Boticário,Hidratante Corporal,P6,34,202601,54679.91
+O Boticário,Hidratante Corporal,P6,35,202602,49925.73
+O Boticário,Hidratante Corporal,P6,36,202603,56993.090000000004
+O Boticário,Hidratante Corporal,P6,37,202604,55190.88
+O Boticário,Hidratante Corporal,P6,38,202605,70734.62
+O Boticário,Hidratante Corporal,P6,39,202606,106178.64
+O Boticário,Hidratante Corporal,P6,40,202607,52519.94
+O Boticário,Hidratante Corporal,P6,41,202608,105735.55
+O Boticário,Hidratante Corporal,P6,42,202609,59774.54
+O Boticário,Máscara,P1,0,202401,4966.71
+O Boticário,Máscara,P1,1,202402,5165.53
+O Boticário,Máscara,P1,2,202403,7585.32
+O Boticário,Máscara,P1,3,202404,10200.69
+O Boticário,Máscara,P1,4,202405,8638.65
+O Boticário,Máscara,P1,5,202406,9641.02
+O Boticário,Máscara,P1,6,202407,5417.4
+O Boticário,Máscara,P1,7,202408,10043.41
+O Boticário,Máscara,P1,8,202409,5638.5599999999995
+O Boticário,Máscara,P1,9,202410,7304.45
+O Boticário,Máscara,P1,10,202411,6937.18
+O Boticário,Máscara,P1,11,202412,4486.17
+O Boticário,Máscara,P1,12,202413,6360.84
+O Boticário,Máscara,P1,13,202414,6375.599999999999
+O Boticário,Máscara,P1,14,202415,9786.96
+O Boticário,Máscara,P1,15,202416,7103.4
+O Boticário,Máscara,P1,16,202417,12210.539999999999
+O Boticário,Máscara,P1,17,202501,3999.52
+O Boticário,Máscara,P1,18,202502,4247.61
+O Boticário,Máscara,P1,19,202503,5222.86
+O Boticário,Máscara,P1,20,202504,5797.0599999999995
+O Boticário,Máscara,P1,21,202505,6021.58
+O Boticário,Máscara,P1,22,202506,6581.21
+O Boticário,Máscara,P1,23,202507,2614.42
+O Boticário,Máscara,P4,0,202401,27509.67
+O Boticário,Máscara,P4,1,202402,35887.88
+O Boticário,Máscara,P4,2,202403,40845.369999999995
+O Boticário,Máscara,P4,3,202404,46150.7
+O Boticário,Máscara,P4,4,202405,51797.28
+O Boticário,Máscara,P4,5,202406,62189.95
+O Boticário,Máscara,P4,6,202407,32689.53
+O Boticário,Máscara,P4,7,202408,56199.409999999996
+O Boticário,Máscara,P4,8,202409,29550.98
+O Boticário,Máscara,P4,9,202410,40948.18
+O Boticário,Máscara,P4,10,202411,40866.46
+O Boticário,Máscara,P4,11,202412,22458.67
+O Boticário,Máscara,P4,12,202413,35434.26
+O Boticário,Máscara,P4,13,202414,44228.71
+O Boticário,Máscara,P4,14,202415,58941.11
+O Boticário,Máscara,P4,15,202416,45215.56
+O Boticário,Máscara,P4,16,202417,72221.56999999999
+O Boticário,Máscara,P4,17,202501,24101.72
+O Boticário,Máscara,P4,18,202502,19754.82
+O Boticário,Máscara,P4,19,202503,29319.41
+O Boticário,Máscara,P4,20,202504,39073.04
+O Boticário,Máscara,P4,21,202505,39431.54
+O Boticário,Máscara,P4,22,202506,41157.28
+O Boticário,Máscara,P4,23,202507,15901.89
+O Boticário,Máscara,P4,24,202508,39343.88
+O Boticário,Máscara,P4,25,202509,24180.17
+O Boticário,Máscara,P4,26,202510,26004.73
+O Boticário,Máscara,P4,27,202511,36267.46
+O Boticário,Máscara,P4,28,202512,14778.06
+O Boticário,Máscara,P4,29,202513,30600.559999999998
+O Boticário,Máscara,P4,30,202514,38202.76
+O Boticário,Máscara,P4,31,202515,54917.939999999995
+O Boticário,Máscara,P4,32,202516,35419.79
+O Boticário,Máscara,P4,33,202517,60077.04
+O Boticário,Máscara,P4,34,202601,16791.23
+O Boticário,Máscara,P4,35,202602,19509.97
+O Boticário,Máscara,P4,36,202603,17655.14
+O Boticário,Máscara,P4,37,202604,25301.079999999998
+O Boticário,Máscara,P4,38,202605,27408.14
+O Boticário,Máscara,P4,39,202606,44357.439999999995
+O Boticário,Máscara,P4,40,202607,28213.239999999998
+O Boticário,Máscara,P4,41,202608,47008.0
+O Boticário,Máscara,P4,42,202609,22447.07
+O Boticário,Perfume Feminino,P2,0,202401,24411.0
+O Boticário,Perfume Feminino,P2,1,202402,29658.16
+O Boticário,Perfume Feminino,P2,2,202403,30832.54
+O Boticário,Perfume Feminino,P2,3,202404,35350.54
+O Boticário,Perfume Feminino,P2,4,202405,37155.63
+O Boticário,Perfume Feminino,P2,5,202406,45020.86
+O Boticário,Perfume Feminino,P2,6,202407,23579.11
+O Boticário,Perfume Feminino,P2,7,202408,43311.88
+O Boticário,Perfume Feminino,P2,8,202409,23828.38
+O Boticário,Perfume Feminino,P2,9,202410,29470.91
+O Boticário,Perfume Feminino,P2,10,202411,37221.33
+O Boticário,Perfume Feminino,P2,11,202412,19348.84
+O Boticário,Perfume Feminino,P2,12,202413,30377.42
+O Boticário,Perfume Feminino,P2,13,202414,29175.43
+O Boticário,Perfume Feminino,P2,14,202415,44356.19
+O Boticário,Perfume Feminino,P2,15,202416,28404.84
+O Boticário,Perfume Feminino,P2,16,202417,57905.28
+O Boticário,Perfume Feminino,P2,17,202501,18125.79
+O Boticário,Perfume Feminino,P2,18,202502,20850.36
+O Boticário,Perfume Feminino,P2,19,202503,15782.82
+O Boticário,Perfume Feminino,P2,20,202504,23813.09
+O Boticário,Perfume Feminino,P2,21,202505,30942.95
+O Boticário,Perfume Feminino,P2,22,202506,31770.34
+O Boticário,Perfume Feminino,P2,23,202507,17244.93
+O Boticário,Perfume Feminino,P2,24,202508,27701.170000000002
+O Boticário,Perfume Feminino,P2,25,202509,19731.3
+O Boticário,Perfume Feminino,P2,26,202510,23077.66
+O Boticário,Perfume Feminino,P2,27,202511,26473.42
+O Boticário,Perfume Feminino,P2,28,202512,16113.9
+O Boticário,Perfume Feminino,P2,29,202513,17904.08
+O Boticário,Perfume Feminino,P2,30,202514,27029.22
+O Boticário,Perfume Feminino,P2,31,202515,37933.31
+O Boticário,Perfume Feminino,P2,32,202516,27965.19
+O Boticário,Perfume Feminino,P2,33,202517,47043.56
+O Boticário,Perfume Feminino,P2,34,202601,17233.75
+O Boticário,Perfume Feminino,P2,35,202602,14351.0
+O Boticário,Perfume Feminino,P2,36,202603,20092.83
+O Boticário,Perfume Feminino,P2,37,202604,17557.79
+O Boticário,Perfume Feminino,P2,38,202605,22382.97
+O Boticário,Perfume Feminino,P2,39,202606,37209.08
+O Boticário,Perfume Feminino,P2,40,202607,18470.57
+O Boticário,Perfume Feminino,P2,41,202608,33266.02
+O Boticário,Perfume Feminino,P2,42,202609,16604.59
+O Boticário,Perfume Feminino,P4,0,202401,56147.83
+O Boticário,Perfume Feminino,P4,1,202402,53778.18
+O Boticário,Perfume Feminino,P4,2,202403,67677.54
+O Boticário,Perfume Feminino,P4,3,202404,85433.61
+O Boticário,Perfume Feminino,P4,4,202405,71733.71
+O Boticário,Perfume Feminino,P4,5,202406,101043.52
+O Boticário,Perfume Feminino,P4,6,202407,55857.68
+O Boticário,Perfume Feminino,P4,7,202408,83325.64
+O Boticário,Perfume Feminino,P4,8,202409,37805.47
+O Boticário,Perfume Feminino,P4,9,202410,68214.63
+O Boticário,Perfume Feminino,P4,10,202411,71934.03
+O Boticário,Perfume Feminino,P4,11,202412,39594.59
+O Boticário,Perfume Feminino,P4,12,202413,62983.43
+O Boticário,Perfume Feminino,P4,13,202414,57576.67
+O Boticário,Perfume Feminino,P4,14,202415,91177.73
+O Boticário,Perfume Feminino,P4,15,202416,68372.95
+O Boticário,Perfume Feminino,P4,16,202417,106880.56
+O Boticário,Perfume Feminino,P4,17,202501,38738.4
+O Boticário,Perfume Feminino,P4,18,202502,44790.3
+O Boticário,Perfume Feminino,P4,19,202503,41829.29
+O Boticário,Perfume Feminino,P4,20,202504,64092.49
+O Boticário,Perfume Feminino,P4,21,202505,61327.37
+O Boticário,Perfume Feminino,P4,22,202506,80999.42
+O Boticário,Perfume Feminino,P4,23,202507,16915.63
+O Boticário,Perfume Feminino,P4,24,202508,22502.15
+O Boticário,Perfume Feminino,P4,25,202509,12346.2
+O Boticário,Perfume Feminino,P4,26,202510,19732.98
+O Boticário,Perfume Feminino,P4,27,202511,25377.92
+O Boticário,Perfume Feminino,P4,28,202512,15964.27
+O Boticário,Perfume Feminino,P4,29,202513,17486.54
+O Boticário,Perfume Feminino,P4,30,202514,21635.93
+O Boticário,Perfume Feminino,P4,31,202515,43364.26
+O Boticário,Perfume Feminino,P4,32,202516,24869.39
+O Boticário,Perfume Feminino,P4,33,202517,40715.04
+O Boticário,Perfume Feminino,P4,34,202601,12074.22
+O Boticário,Perfume Feminino,P4,35,202602,12777.13
+O Boticário,Perfume Feminino,P4,36,202603,20894.34
+O Boticário,Perfume Feminino,P4,37,202604,21529.39
+O Boticário,Perfume Feminino,P4,38,202605,24209.66
+O Boticário,Perfume Feminino,P4,39,202606,37288.58
+O Boticário,Perfume Feminino,P4,40,202607,15514.59
+O Boticário,Perfume Feminino,P4,41,202608,33767.93
+O Boticário,Perfume Feminino,P4,42,202609,18168.14
+O Boticário,Perfume Feminino,P6,0,202401,69264.94
+O Boticário,Perfume Feminino,P6,1,202402,68266.32
+O Boticário,Perfume Feminino,P6,2,202403,80601.67
+O Boticário,Perfume Feminino,P6,3,202404,93307.27
+O Boticário,Perfume Feminino,P6,4,202405,102719.86
+O Boticário,Perfume Feminino,P6,5,202406,139879.1
+O Boticário,Perfume Feminino,P6,6,202407,66748.79000000001
+O Boticário,Perfume Feminino,P6,7,202408,124246.74
+O Boticário,Perfume Feminino,P6,8,202409,67484.01
+O Boticário,Perfume Feminino,P6,9,202410,79581.88
+O Boticário,Perfume Feminino,P6,10,202411,98046.28
+O Boticário,Perfume Feminino,P6,11,202412,53204.36
+O Boticário,Perfume Feminino,P6,12,202413,80403.66
+O Boticário,Perfume Feminino,P6,13,202414,61397.090000000004
+O Boticário,Perfume Feminino,P6,14,202415,131978.36000000002
+O Boticário,Perfume Feminino,P6,15,202416,85977.09
+O Boticário,Perfume Feminino,P6,16,202417,135803.72
+O Boticário,Perfume Feminino,P6,17,202501,57934.94
+O Boticário,Perfume Feminino,P6,18,202502,58985.15
+O Boticário,Perfume Feminino,P6,19,202503,51419.3
+O Boticário,Perfume Feminino,P6,20,202504,74900.81
+O Boticário,Perfume Feminino,P6,21,202505,78753.8
+O Boticário,Perfume Feminino,P6,22,202506,104015.56
+O Boticário,Perfume Feminino,P6,23,202507,44700.67
+O Boticário,Perfume Feminino,P6,24,202508,89564.87
+O Boticário,Perfume Feminino,P6,25,202509,47979.19
+O Boticário,Perfume Feminino,P6,26,202510,54171.02
+O Boticário,Perfume Feminino,P6,27,202511,99190.04000000001
+O Boticário,Perfume Feminino,P6,28,202512,48495.26
+O Boticário,Perfume Feminino,P6,29,202513,49947.06
+O Boticário,Perfume Feminino,P6,30,202514,75727.64
+O Boticário,Perfume Feminino,P6,31,202515,108079.39
+O Boticário,Perfume Feminino,P6,32,202516,73484.38
+O Boticário,Perfume Feminino,P6,33,202517,122213.23
+O Boticário,Perfume Feminino,P6,34,202601,40259.65
+O Boticário,Perfume Feminino,P6,35,202602,44687.36
+O Boticário,Perfume Masculino,P1,0,202401,11850.47
+O Boticário,Perfume Masculino,P1,1,202402,13442.8
+O Boticário,Perfume Masculino,P1,2,202403,17621.69
+O Boticário,Perfume Masculino,P1,3,202404,19373.68
+O Boticário,Perfume Masculino,P1,4,202405,16772.670000000002
+O Boticário,Perfume Masculino,P1,5,202406,26174.95
+O Boticário,Perfume Masculino,P1,6,202407,11348.85
+O Boticário,Perfume Masculino,P1,7,202408,23708.23
+O Boticário,Perfume Masculino,P1,8,202409,10097.87
+O Boticário,Perfume Masculino,P1,9,202410,14701.08
+O Boticário,Perfume Masculino,P1,10,202411,17039.57
+O Boticário,Perfume Masculino,P1,11,202412,11719.32
+O Boticário,Perfume Masculino,P1,12,202413,15789.62
+O Boticário,Perfume Masculino,P1,13,202414,11316.95
+O Boticário,Perfume Masculino,P1,14,202415,22890.23
+O Boticário,Perfume Masculino,P1,15,202416,16621.06
+O Boticário,Perfume Masculino,P1,16,202417,28370.81
+O Boticário,Perfume Masculino,P1,17,202501,8344.22
+O Boticário,Perfume Masculino,P1,18,202502,9569.880000000001
+O Boticário,Perfume Masculino,P1,19,202503,8140.33
+O Boticário,Perfume Masculino,P1,20,202504,15101.52
+O Boticário,Perfume Masculino,P1,21,202505,17080.34
+O Boticário,Perfume Masculino,P1,22,202506,15939.54
+O Boticário,Perfume Masculino,P1,23,202507,7232.17
+O Boticário,Perfume Masculino,P1,24,202508,17589.2
+O Boticário,Perfume Masculino,P1,25,202509,9981.19
+O Boticário,Perfume Masculino,P1,26,202510,7822.24
+O Boticário,Perfume Masculino,P1,27,202511,13448.24
+O Boticário,Perfume Masculino,P1,28,202512,8432.9
+O Boticário,Perfume Masculino,P1,29,202513,13221.9
+O Boticário,Perfume Masculino,P1,30,202514,14103.44
+O Boticário,Perfume Masculino,P1,31,202515,19962.18
+O Boticário,Perfume Masculino,P1,32,202516,11993.9
+O Boticário,Perfume Masculino,P1,33,202517,20308.02
+O Boticário,Perfume Masculino,P1,34,202601,7131.54
+O Boticário,Perfume Masculino,P1,35,202602,7957.4800000000005
+O Boticário,Perfume Masculino,P1,36,202603,9457.03
+O Boticário,Perfume Masculino,P1,37,202604,9049.08
+O Boticário,Perfume Masculino,P1,38,202605,10843.54
+O Boticário,Perfume Masculino,P1,39,202606,18307.07
+O Boticário,Perfume Masculino,P1,40,202607,10584.8
+O Boticário,Perfume Masculino,P1,41,202608,18144.73
+O Boticário,Perfume Masculino,P1,42,202609,10884.61
+O Boticário,Perfume Masculino,P2,0,202401,9304.89
+O Boticário,Perfume Masculino,P2,1,202402,9458.59
+O Boticário,Perfume Masculino,P2,2,202403,15443.25
+O Boticário,Perfume Masculino,P2,3,202404,17004.4
+O Boticário,Perfume Masculino,P2,4,202405,15077.640000000001
+O Boticário,Perfume Masculino,P2,5,202406,21065.420000000002
+O Boticário,Perfume Masculino,P2,6,202407,10905.41
+O Boticário,Perfume Masculino,P2,7,202408,22406.64
+O Boticário,Perfume Masculino,P2,8,202409,11213.48
+O Boticário,Perfume Masculino,P2,9,202410,11731.32
+O Boticário,Perfume Masculino,P2,10,202411,14041.75
+O Boticário,Perfume Masculino,P2,11,202412,8237.33
+O Boticário,Perfume Masculino,P2,12,202413,12662.48
+O Boticário,Perfume Masculino,P2,13,202414,12517.99
+O Boticário,Perfume Masculino,P2,14,202415,19677.91
+O Boticário,Perfume Masculino,P2,15,202416,14475.130000000001
+O Boticário,Perfume Masculino,P2,16,202417,24140.82
+O Boticário,Perfume Masculino,P2,17,202501,7970.32
+O Boticário,Perfume Masculino,P2,18,202502,5637.2
+O Boticário,Perfume Masculino,P2,19,202503,10267.35
+O Boticário,Perfume Masculino,P2,20,202504,11806.78
+O Boticário,Perfume Masculino,P2,21,202505,14948.19
+O Boticário,Perfume Masculino,P2,22,202506,16384.87
+O Boticário,Perfume Masculino,P2,23,202507,5020.570000000001
+O Boticário,Perfume Masculino,P2,24,202508,14121.960000000001
+O Boticário,Perfume Masculino,P2,25,202509,7506.55
+O Boticário,Perfume Masculino,P2,26,202510,9806.23
+O Boticário,Perfume Masculino,P2,27,202511,11874.11
+O Boticário,Perfume Masculino,P2,28,202512,4994.7300000000005
+O Boticário,Perfume Masculino,P2,29,202513,9477.94
+O Boticário,Perfume Masculino,P2,30,202514,11250.06
+O Boticário,Perfume Masculino,P2,31,202515,15610.23
+O Boticário,Perfume Masculino,P2,32,202516,10624.03
+O Boticário,Perfume Masculino,P2,33,202517,20638.63
+O Boticário,Perfume Masculino,P2,34,202601,5164.75
+O Boticário,Perfume Masculino,P2,35,202602,6155.72
+O Boticário,Perfume Masculino,P2,36,202603,8670.11
+O Boticário,Perfume Masculino,P2,37,202604,7530.42
+O Boticário,Perfume Masculino,P2,38,202605,8164.83
+O Boticário,Perfume Masculino,P2,39,202606,14184.800000000001
+O Boticário,Perfume Masculino,P2,40,202607,7594.91
+O Boticário,Perfume Masculino,P2,41,202608,15147.5
+O Boticário,Perfume Masculino,P2,42,202609,8902.68
+O Boticário,Perfume Masculino,P6,0,202401,167608.25
+O Boticário,Perfume Masculino,P6,1,202402,205685.71
+O Boticário,Perfume Masculino,P6,2,202403,274002.82
+O Boticário,Perfume Masculino,P6,3,202404,274901.7
+O Boticário,Perfume Masculino,P6,4,202405,286794.14
+O Boticário,Perfume Masculino,P6,5,202406,391662.58
+O Boticário,Perfume Masculino,P6,6,202407,185274.03
+O Boticário,Perfume Masculino,P6,7,202408,205430.2
+O Boticário,Perfume Masculino,P6,8,202409,115698.34
+O Boticário,Perfume Masculino,P6,9,202410,166506.52
+O Boticário,Perfume Masculino,P6,10,202411,153504.08000000002
+O Boticário,Perfume Masculino,P6,11,202412,102594.49
+O Boticário,Perfume Masculino,P6,12,202413,134574.57
+O Boticário,Perfume Masculino,P6,13,202414,107972.14
+O Boticário,Perfume Masculino,P6,14,202415,214417.12
+O Boticário,Perfume Masculino,P6,15,202416,152203.53
+O Boticário,Perfume Masculino,P6,16,202417,282888.14
+O Boticário,Perfume Masculino,P6,17,202501,108456.41
+O Boticário,Perfume Masculino,P6,18,202502,118243.48
+O Boticário,Perfume Masculino,P6,19,202503,111491.02
+O Boticário,Perfume Masculino,P6,20,202504,145185.99
+O Boticário,Perfume Masculino,P6,21,202505,145427.02
+O Boticário,Perfume Masculino,P6,22,202506,173708.03
+O Boticário,Perfume Masculino,P6,23,202507,77209.45
+O Boticário,Perfume Masculino,P6,24,202508,149712.84
+O Boticário,Perfume Masculino,P6,25,202509,87327.46
+O Boticário,Perfume Masculino,P6,26,202510,94880.97
+O Boticário,Perfume Masculino,P6,27,202511,122848.35
+O Boticário,Perfume Masculino,P6,28,202512,89104.33
+O Boticário,Perfume Masculino,P6,29,202513,53958.68
+O Boticário,Perfume Masculino,P6,30,202514,64029.1
+O Boticário,Perfume Masculino,P6,31,202515,81860.6
+O Boticário,Perfume Masculino,P6,32,202516,70879.14
+O Boticário,Perfume Masculino,P6,33,202517,101604.31
+O Boticário,Perfume Masculino,P6,34,202601,40415.23
+O Boticário,Perfume Masculino,P6,35,202602,39244.2
+O Boticário,Perfume Masculino,P6,36,202603,48673.28
+O Boticário,Perfume Masculino,P6,37,202604,49001.36
+O Boticário,Perfume Masculino,P6,38,202605,50661.02
+O Boticário,Perfume Masculino,P6,39,202606,90187.4
+O Boticário,Perfume Masculino,P6,40,202607,41689.85
+O Boticário,Perfume Masculino,P6,41,202608,91066.96
+O Boticário,Perfume Masculino,P6,42,202609,46542.58
+O Boticário,Sabonete Líquido,P2,0,202401,30037.98
+O Boticário,Sabonete Líquido,P2,1,202402,35973.94
+O Boticário,Sabonete Líquido,P2,2,202403,43454.71
+O Boticário,Sabonete Líquido,P2,3,202404,50158.52
+O Boticário,Sabonete Líquido,P2,4,202405,48696.2
+O Boticário,Sabonete Líquido,P2,5,202406,63791.78
+O Boticário,Sabonete Líquido,P2,6,202407,35763.78
+O Boticário,Sabonete Líquido,P2,7,202408,56081.28
+O Boticário,Sabonete Líquido,P2,8,202409,29900.21
+O Boticário,Sabonete Líquido,P2,9,202410,37008.75
+O Boticário,Sabonete Líquido,P2,10,202411,44318.8
+O Boticário,Sabonete Líquido,P2,11,202412,23776.86
+O Boticário,Sabonete Líquido,P2,12,202413,38096.01
+O Boticário,Sabonete Líquido,P2,13,202414,27957.66
+O Boticário,Sabonete Líquido,P2,14,202415,53807.81
+O Boticário,Sabonete Líquido,P2,15,202416,40750.25
+O Boticário,Sabonete Líquido,P2,16,202417,65354.96
+O Boticário,Sabonete Líquido,P2,17,202501,22668.85
+O Boticário,Sabonete Líquido,P2,18,202502,22632.9
+O Boticário,Sabonete Líquido,P2,19,202503,23302.04
+O Boticário,Sabonete Líquido,P2,20,202504,29615.03
+O Boticário,Sabonete Líquido,P2,21,202505,41817.6
+O Boticário,Sabonete Líquido,P2,22,202506,45471.77
+O Boticário,Sabonete Líquido,P2,23,202507,15528.42
+O Boticário,Sabonete Líquido,P2,24,202508,29431.1
+O Boticário,Sabonete Líquido,P2,25,202509,14444.9
+O Boticário,Sabonete Líquido,P2,26,202510,17247.84
+O Boticário,Sabonete Líquido,P2,27,202511,23780.0
+O Boticário,Sabonete Líquido,P2,28,202512,14662.18
+O Boticário,Sabonete Líquido,P2,29,202513,19009.43
+O Boticário,Sabonete Líquido,P2,30,202514,25910.47
+O Boticário,Sabonete Líquido,P2,31,202515,34339.72
+O Boticário,Sabonete Líquido,P2,32,202516,20956.9
+O Boticário,Sabonete Líquido,P2,33,202517,36123.46
+O Boticário,Sabonete Líquido,P2,34,202601,12797.31
+O Boticário,Sabonete Líquido,P2,35,202602,12131.12
+O Boticário,Sabonete Líquido,P2,36,202603,17791.69
+O Boticário,Sabonete Líquido,P2,37,202604,16557.85
+O Boticário,Sabonete Líquido,P2,38,202605,25396.34
+O Boticário,Sabonete Líquido,P2,39,202606,37233.27
+O Boticário,Sabonete Líquido,P2,40,202607,15292.45
+O Boticário,Sabonete Líquido,P2,41,202608,28138.75
+O Boticário,Sabonete Líquido,P2,42,202609,16199.59
+O Boticário,Sabonete Líquido,P6,0,202401,60627.060000000005
+O Boticário,Sabonete Líquido,P6,1,202402,69396.13
+O Boticário,Sabonete Líquido,P6,2,202403,124457.2
+O Boticário,Sabonete Líquido,P6,3,202404,129459.43000000001
+O Boticário,Sabonete Líquido,P6,4,202405,116070.53
+O Boticário,Sabonete Líquido,P6,5,202406,141063.07
+O Boticário,Sabonete Líquido,P6,6,202407,84238.59
+O Boticário,Sabonete Líquido,P6,7,202408,129111.86
+O Boticário,Sabonete Líquido,P6,8,202409,59311.76
+O Boticário,Sabonete Líquido,P6,9,202410,68108.40000000001
+O Boticário,Sabonete Líquido,P6,10,202411,91434.28
+O Boticário,Sabonete Líquido,P6,11,202412,67437.18000000001
+O Boticário,Sabonete Líquido,P6,12,202413,83622.79000000001
+O Boticário,Sabonete Líquido,P6,13,202414,70422.02
+O Boticário,Sabonete Líquido,P6,14,202415,102663.65000000001
+O Boticário,Sabonete Líquido,P6,15,202416,94356.31
+O Boticário,Sabonete Líquido,P6,16,202417,149282.86000000002
+O Boticário,Sabonete Líquido,P6,17,202501,50039.950000000004
+O Boticário,Sabonete Líquido,P6,18,202502,59792.93
+O Boticário,Sabonete Líquido,P6,19,202503,54734.39
+O Boticário,Sabonete Líquido,P6,20,202504,77941.4
+O Boticário,Sabonete Líquido,P6,21,202505,81347.14
+O Boticário,Sabonete Líquido,P6,22,202506,92736.47
+O Boticário,Sabonete Líquido,P6,23,202507,38779.26
+O Boticário,Sabonete Líquido,P6,24,202508,79234.79000000001
+O Boticário,Sabonete Líquido,P6,25,202509,52917.380000000005
+O Boticário,Sabonete Líquido,P6,26,202510,68662.75
+O Boticário,Sabonete Líquido,P6,27,202511,74376.27
+O Boticário,Sabonete Líquido,P6,28,202512,37834.200000000004
+O Boticário,Sabonete Líquido,P6,29,202513,51109.16
+O Boticário,Sabonete Líquido,P6,30,202514,85500.93000000001
+O Boticário,Sabonete Líquido,P6,31,202515,121024.56
+O Boticário,Sabonete Líquido,P6,32,202516,81111.18000000001
+O Boticário,Sabonete Líquido,P6,33,202517,107065.64
+O Boticário,Sabonete Líquido,P6,34,202601,40481.97
+O Boticário,Sabonete Líquido,P6,35,202602,41537.33
+O Boticário,Sabonete Líquido,P6,36,202603,44336.5
+O Boticário,Sabonete Líquido,P6,37,202604,44338.380000000005
+O Boticário,Sabonete Líquido,P6,38,202605,50586.16
+O Boticário,Sabonete Líquido,P6,39,202606,120295.1
+O Boticário,Sabonete Líquido,P6,40,202607,64331.990000000005
+O Boticário,Sabonete Líquido,P6,41,202608,115845.29000000001
+O Boticário,Sabonete Líquido,P6,42,202609,45168.880000000005
+O Boticário,Shampoo,P3,0,202401,14290.380000000001
+O Boticário,Shampoo,P3,1,202402,21152.69
+O Boticário,Shampoo,P3,2,202403,22231.04
+O Boticário,Shampoo,P3,3,202404,26398.4
+O Boticário,Shampoo,P3,4,202405,27308.97
+O Boticário,Shampoo,P3,5,202406,36962.270000000004
+O Boticário,Shampoo,P3,6,202407,21113.9
+O Boticário,Shampoo,P3,7,202408,29331.62
+O Boticário,Shampoo,P3,8,202409,15359.9
+O Boticário,Shampoo,P3,9,202410,25316.71
+O Boticário,Shampoo,P3,10,202411,24335.07
+O Boticário,Shampoo,P3,11,202412,12908.82
+O Boticário,Shampoo,P3,12,202413,20494.34
+O Boticário,Shampoo,P3,13,202414,20866.99
+O Boticário,Shampoo,P3,14,202415,29771.18
+O Boticário,Shampoo,P3,15,202416,23649.58
+O Boticário,Shampoo,P3,16,202417,43328.92
+O Boticário,Shampoo,P3,17,202501,13890.47
+O Boticário,Shampoo,P3,18,202502,11254.4
+O Boticário,Shampoo,P3,19,202503,16728.21
+O Boticário,Shampoo,P3,20,202504,24916.04
+O Boticário,Shampoo,P3,21,202505,22849.39
+O Boticário,Shampoo,P3,22,202506,31975.38
+O Boticário,Shampoo,P3,23,202507,10164.57
+O Boticário,Shampoo,P3,24,202508,19480.46
+O Boticário,Shampoo,P3,25,202509,15102.89
+O Boticário,Shampoo,P3,26,202510,16098.75
+O Boticário,Shampoo,P3,27,202511,24618.48
+O Boticário,Shampoo,P3,28,202512,12655.04
+O Boticário,Shampoo,P3,29,202513,15938.720000000001
+O Boticário,Shampoo,P3,30,202514,20747.34
+O Boticário,Shampoo,P3,31,202515,31752.16
+O Boticário,Shampoo,P3,32,202516,21746.15
+O Boticário,Shampoo,P3,33,202517,30855.75
+O Boticário,Shampoo,P3,34,202601,10409.210000000001
+O Boticário,Shampoo,P3,35,202602,9150.81
+O Boticário,Shampoo,P3,36,202603,12316.7
+O Boticário,Shampoo,P3,37,202604,11491.61
+O Boticário,Shampoo,P3,38,202605,19210.49
+O Boticário,Shampoo,P3,39,202606,22690.32
+O Boticário,Shampoo,P3,40,202607,12010.25
+O Boticário,Shampoo,P3,41,202608,22675.22
+O Boticário,Shampoo,P3,42,202609,14415.44
+O Boticário,Shampoo,P4,0,202401,22604.79
+O Boticário,Shampoo,P4,1,202402,31171.52
+O Boticário,Shampoo,P4,2,202403,38947.02
+O Boticário,Shampoo,P4,3,202404,39261.14
+O Boticário,Shampoo,P4,4,202405,40609.94
+O Boticário,Shampoo,P4,5,202406,49575.57
+O Boticário,Shampoo,P4,6,202407,29907.04
+O Boticário,Shampoo,P4,7,202408,41895.43
+O Boticário,Shampoo,P4,8,202409,25366.36
+O Boticário,Shampoo,P4,9,202410,34980.61
+O Boticário,Shampoo,P4,10,202411,39057.83
+O Boticário,Shampoo,P4,11,202412,24220.899999999998
+O Boticário,Shampoo,P4,12,202413,29285.41
+O Boticário,Shampoo,P4,13,202414,31630.06
+O Boticário,Shampoo,P4,14,202415,46033.51
+O Boticário,Shampoo,P4,15,202416,43116.99
+O Boticário,Shampoo,P4,16,202417,60161.61
+O Boticário,Shampoo,P4,17,202501,13106.1
+O Boticário,Shampoo,P4,18,202502,24910.82
+O Boticário,Shampoo,P4,19,202503,19406.829999999998
+O Boticário,Shampoo,P4,20,202504,26899.82
+O Boticário,Shampoo,P4,21,202505,33478.45
+O Boticário,Shampoo,P4,22,202506,38011.59
+O Boticário,Shampoo,P5,0,202401,78524.40000000001
+O Boticário,Shampoo,P5,1,202402,105565.13
+O Boticário,Shampoo,P5,2,202403,116802.26
+O Boticário,Shampoo,P5,3,202404,137604.6
+O Boticário,Shampoo,P5,4,202405,113878.49
+O Boticário,Shampoo,P5,5,202406,175050.52
+O Boticário,Shampoo,P5,6,202407,97288.95
+O Boticário,Shampoo,P5,7,202408,148519.11000000002
+O Boticário,Shampoo,P5,8,202409,69066.06
+O Boticário,Shampoo,P5,9,202410,99938.52
+O Boticário,Shampoo,P5,10,202411,120733.99
+O Boticário,Shampoo,P5,11,202412,78602.85
+O Boticário,Shampoo,P5,12,202413,112523.22
+O Boticário,Shampoo,P5,13,202414,91584.69
+O Boticário,Shampoo,P5,14,202415,135819.28
+O Boticário,Shampoo,P5,15,202416,121899.92
+O Boticário,Shampoo,P5,16,202417,182007.15
+O Boticário,Shampoo,P5,17,202501,57416.03
+O Boticário,Shampoo,P5,18,202502,76112.22
+O Boticário,Shampoo,P5,19,202503,63756.92
+O Boticário,Shampoo,P5,20,202504,100157.94
+O Boticário,Shampoo,P5,21,202505,110717.75
+O Boticário,Shampoo,P5,22,202506,123884.94
+O Boticário,Shampoo,P5,23,202507,47764.240000000005
+O Boticário,Shampoo,P5,24,202508,107928.58
+O Boticário,Shampoo,P5,25,202509,53106.6
+O Boticário,Shampoo,P5,26,202510,63811.57
+O Boticário,Shampoo,P5,27,202511,109419.67
+O Boticário,Shampoo,P5,28,202512,45858.1
+O Boticário,Shampoo,P5,29,202513,79247.95
+O Boticário,Shampoo,P5,30,202514,85687.54000000001
+O Boticário,Shampoo,P5,31,202515,141737.86000000002
+O Boticário,Shampoo,P5,32,202516,80512.94
+O Boticário,Shampoo,P5,33,202517,139685.76
+O Boticário,Shampoo,P5,34,202601,47727.880000000005
+O Boticário,Shampoo,P5,35,202602,58672.26
+O Boticário,Shampoo,P5,36,202603,69908.26
+O Boticário,Shampoo,P5,37,202604,52541.64
+O Boticário,Shampoo,P5,38,202605,77646.64
+O Boticário,Shampoo,P5,39,202606,146504.03
+O Boticário,Shampoo,P5,40,202607,63812.520000000004
+O Boticário,Shampoo,P5,41,202608,97369.98
+O Boticário,Shampoo,P5,42,202609,77768.83
+O Boticário,Shampoo,P6,0,202401,52188.05
+O Boticário,Shampoo,P6,1,202402,77887.62
+O Boticário,Shampoo,P6,2,202403,103293.69
+O Boticário,Shampoo,P6,3,202404,102055.1
+O Boticário,Shampoo,P6,4,202405,102196.15
+O Boticário,Shampoo,P6,5,202406,151318.95
+O Boticário,Shampoo,P6,6,202407,81781.33
+O Boticário,Shampoo,P6,7,202408,138276.14
+O Boticário,Shampoo,P6,8,202409,55622.659999999996
+O Boticário,Shampoo,P6,9,202410,74046.02
+O Boticário,Shampoo,P6,10,202411,93803.22
+O Boticário,Shampoo,P6,11,202412,53942.1
+O Boticário,Shampoo,P6,12,202413,71943.33
+O Boticário,Shampoo,P6,13,202414,62591.72
+O Boticário,Shampoo,P6,14,202415,100436.73
+O Boticário,Shampoo,P6,15,202416,77870.43
+O Boticário,Shampoo,P6,16,202417,148633.76
+O Boticário,Shampoo,P6,17,202501,51081.56
+O Boticário,Shampoo,P6,18,202502,43598.62
+O Boticário,Shampoo,P6,19,202503,53672.89
+O Boticário,Shampoo,P6,20,202504,80146.87
+O Boticário,Shampoo,P6,21,202505,76757.56999999999
+O Boticário,Shampoo,P6,22,202506,92955.28
+O Boticário,Shampoo,P6,23,202507,25850.94
+O Boticário,Shampoo,P6,24,202508,67209.51
+O Boticário,Shampoo,P6,25,202509,39446.99
+O Boticário,Shampoo,P6,26,202510,63881.78
+O Boticário,Shampoo,P6,27,202511,82172.45
+O Boticário,Shampoo,P6,28,202512,36553.29
+O Boticário,Shampoo,P6,29,202513,54817.45
+O Boticário,Shampoo,P6,30,202514,68735.67
+O Boticário,Shampoo,P6,31,202515,107521.59
+O Boticário,Shampoo,P6,32,202516,92680.37
+O Boticário,Shampoo,P6,33,202517,102923.88
+O Boticário,Shampoo,P6,34,202601,39728.45
+O Boticário,Shampoo,P6,35,202602,42721.36
+O Boticário,Shampoo,P6,36,202603,44201.74
+O Boticário,Shampoo,P6,37,202604,54807.52
+O Boticário,Shampoo,P6,38,202605,52698.14
+O Boticário,Shampoo,P6,39,202606,89986.81
+O Boticário,Shampoo,P6,40,202607,39927.81
+O Boticário,Shampoo,P6,41,202608,84740.24
+O Boticário,Shampoo,P6,42,202609,61959.09
+O Boticário,Sérum,P4,0,202401,38937.27
+O Boticário,Sérum,P4,1,202402,42020.99
+O Boticário,Sérum,P4,2,202403,42117.1
+O Boticário,Sérum,P4,3,202404,47188.38
+O Boticário,Sérum,P4,4,202405,55283.88
+O Boticário,Sérum,P4,5,202406,66407.74
+O Boticário,Sérum,P4,6,202407,29121.7
+O Boticário,Sérum,P4,7,202408,61350.409999999996
+O Boticário,Sérum,P4,8,202409,24307.85
+O Boticário,Sérum,P4,9,202410,31744.75
+O Boticário,Sérum,P4,10,202411,53494.19
+O Boticário,Sérum,P4,11,202412,27633.13
+O Boticário,Sérum,P4,12,202413,26288.89
+O Boticário,Sérum,P4,13,202414,26410.82
+O Boticário,Sérum,P4,14,202415,57089.56
+O Boticário,Sérum,P4,15,202416,38961.27
+O Boticário,Sérum,P4,16,202417,62972.76
+O Boticário,Sérum,P4,17,202501,20999.07
+O Boticário,Sérum,P4,18,202502,24721.26
+O Boticário,Sérum,P4,19,202503,26860.85
+O Boticário,Sérum,P4,20,202504,32700.25
+O Boticário,Sérum,P4,21,202505,36982.08
+O Boticário,Sérum,P4,22,202506,43440.9
+O Boticário,Sérum,P4,23,202507,20426.41
+O Boticário,Sérum,P4,24,202508,32796.08
+O Boticário,Sérum,P4,25,202509,24682.61
+O Boticário,Sérum,P4,26,202510,21062.75
+O Boticário,Sérum,P4,27,202511,37424.81
+O Boticário,Sérum,P4,28,202512,21851.83
+O Boticário,Sérum,P4,29,202513,24533.72
+O Boticário,Sérum,P4,30,202514,33105.22
+O Boticário,Sérum,P4,31,202515,42644.0
+O Boticário,Sérum,P4,32,202516,31008.03
+O Boticário,Sérum,P4,33,202517,40960.52
+O Boticário,Sérum,P4,34,202601,17975.69
+O Boticário,Sérum,P4,35,202602,23169.73
+O Boticário,Sérum,P4,36,202603,24447.85
+O Boticário,Sérum,P4,37,202604,19167.51
+O Boticário,Sérum,P4,38,202605,31959.41
+O Boticário,Sérum,P4,39,202606,38951.59
+O Boticário,Sérum,P4,40,202607,19237.77
+O Boticário,Sérum,P4,41,202608,41879.659999999996
+O Boticário,Sérum,P4,42,202609,21632.45
+O Boticário,Óleo Corporal,P2,0,202401,14677.61
+O Boticário,Óleo Corporal,P2,1,202402,13111.25
+O Boticário,Óleo Corporal,P2,2,202403,20657.11
+O Boticário,Óleo Corporal,P2,3,202404,20898.8
+O Boticário,Óleo Corporal,P2,4,202405,20033.09
+O Boticário,Óleo Corporal,P2,5,202406,26936.37
+O Boticário,Óleo Corporal,P2,6,202407,13374.17
+O Boticário,Óleo Corporal,P2,7,202408,24323.86
+O Boticário,Óleo Corporal,P2,8,202409,12540.32
+O Boticário,Óleo Corporal,P2,9,202410,15500.57
+O Boticário,Óleo Corporal,P2,10,202411,18116.739999999998
+O Boticário,Óleo Corporal,P2,11,202412,11179.3
+O Boticário,Óleo Corporal,P2,12,202413,16469.489999999998
+O Boticário,Óleo Corporal,P2,13,202414,13771.55
+O Boticário,Óleo Corporal,P2,14,202415,22382.19
+O Boticário,Óleo Corporal,P2,15,202416,20418.98
+O Boticário,Óleo Corporal,P2,16,202417,28228.18
+O Boticário,Óleo Corporal,P2,17,202501,9620.76
+O Boticário,Óleo Corporal,P2,18,202502,11215.91
+O Boticário,Óleo Corporal,P2,19,202503,10742.58
+O Boticário,Óleo Corporal,P2,20,202504,14094.85
+O Boticário,Óleo Corporal,P2,21,202505,17427.66
+O Boticário,Óleo Corporal,P2,22,202506,20600.09
+O Boticário,Óleo Corporal,P2,23,202507,10936.03
+O Boticário,Óleo Corporal,P2,24,202508,18547.75
+O Boticário,Óleo Corporal,P2,25,202509,9775.83
+O Boticário,Óleo Corporal,P2,26,202510,9746.619999999999
+O Boticário,Óleo Corporal,P2,27,202511,16327.07
+O Boticário,Óleo Corporal,P2,28,202512,8543.02
+O Boticário,Óleo Corporal,P2,29,202513,12401.24
+O Boticário,Óleo Corporal,P2,30,202514,14680.15
+O Boticário,Óleo Corporal,P2,31,202515,19475.59
+O Boticário,Óleo Corporal,P2,32,202516,16931.31
+O Boticário,Óleo Corporal,P2,33,202517,21867.02
+O Boticário,Óleo Corporal,P2,34,202601,8092.91
+O Boticário,Óleo Corporal,P2,35,202602,7542.17
+O Boticário,Óleo Corporal,P2,36,202603,12727.44
+O Boticário,Óleo Corporal,P2,37,202604,11116.01
+O Boticário,Óleo Corporal,P2,38,202605,10250.57
+O Boticário,Óleo Corporal,P2,39,202606,21639.55
+O Boticário,Óleo Corporal,P2,40,202607,9040.34
+O Boticário,Óleo Corporal,P2,41,202608,17680.37
+O Boticário,Óleo Corporal,P2,42,202609,10936.96
+O Boticário,Óleo Corporal,P4,0,202401,26717.3
+O Boticário,Óleo Corporal,P4,1,202402,25719.780000000002
+O Boticário,Óleo Corporal,P4,2,202403,33708.38
+O Boticário,Óleo Corporal,P4,3,202404,33762.4
+O Boticário,Óleo Corporal,P4,4,202405,38458.3
+O Boticário,Óleo Corporal,P4,5,202406,50515.89
+O Boticário,Óleo Corporal,P4,6,202407,22167.48
+O Boticário,Óleo Corporal,P4,7,202408,39541.2
+O Boticário,Óleo Corporal,P4,8,202409,26867.36
+O Boticário,Óleo Corporal,P4,9,202410,32218.98
+O Boticário,Óleo Corporal,P4,10,202411,32786.37
+O Boticário,Óleo Corporal,P4,11,202412,20050.1
+O Boticário,Óleo Corporal,P4,12,202413,26236.59
+O Boticário,Óleo Corporal,P4,13,202414,30861.3
+O Boticário,Óleo Corporal,P4,14,202415,42461.3
+O Boticário,Óleo Corporal,P4,15,202416,35186.48
+O Boticário,Óleo Corporal,P4,16,202417,51487.53
+O Boticário,Óleo Corporal,P4,17,202501,17312.45
+O Boticário,Óleo Corporal,P4,18,202502,19710.43
+O Boticário,Óleo Corporal,P4,19,202503,19790.920000000002
+O Boticário,Óleo Corporal,P4,20,202504,23199.420000000002
+O Boticário,Óleo Corporal,P4,21,202505,29407.58
+O Boticário,Óleo Corporal,P4,22,202506,38764.42
+O Boticário,Óleo Corporal,P4,23,202507,12559.130000000001
+O Boticário,Óleo Corporal,P4,24,202508,38555.79
+O Boticário,Óleo Corporal,P4,25,202509,16167.18
+O Boticário,Óleo Corporal,P4,26,202510,16778.06
+O Boticário,Óleo Corporal,P4,27,202511,30337.420000000002
+O Boticário,Óleo Corporal,P4,28,202512,13529.85
+O Boticário,Óleo Corporal,P4,29,202513,17988.14
+O Boticário,Óleo Corporal,P4,30,202514,25473.19
+O Boticário,Óleo Corporal,P4,31,202515,38142.32
+O Boticário,Óleo Corporal,P4,32,202516,25379.84
+O Boticário,Óleo Corporal,P4,33,202517,42549.88
+O Boticário,Óleo Corporal,P4,34,202601,16876.55
+O Boticário,Óleo Corporal,P4,35,202602,14966.34
+O Boticário,Óleo Corporal,P4,36,202603,17778.47
+O Boticário,Óleo Corporal,P4,37,202604,18843.3
+O Boticário,Óleo Corporal,P4,38,202605,29266.38
+O Boticário,Óleo Corporal,P4,39,202606,32952.95
+O Boticário,Óleo Corporal,P4,40,202607,18452.25
+O Boticário,Óleo Corporal,P4,41,202608,28708.58
+O Boticário,Óleo Corporal,P4,42,202609,20221.94
+O Boticário,Óleo Corporal,P5,0,202401,51691.79
+O Boticário,Óleo Corporal,P5,1,202402,50637.99
+O Boticário,Óleo Corporal,P5,2,202403,63914.54
+O Boticário,Óleo Corporal,P5,3,202404,72420.42
+O Boticário,Óleo Corporal,P5,4,202405,79605.68000000001
+O Boticário,Óleo Corporal,P5,5,202406,97726.33
+O Boticário,Óleo Corporal,P5,6,202407,44384.33
+O Boticário,Óleo Corporal,P5,7,202408,76213.81

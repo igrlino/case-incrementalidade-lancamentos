@@ -1,4 +1,4 @@
-id_projeto,cod_sku_lancamento,tickets_com_lancamento,tickets_sozinho,tickets_com_incumbente_nicho,share_sozinho,share_com_incumbente_nicho
+id_projeto,cod_sku_lancamento,tickets_com_lancamento,tickets_sozinho,tickets_com_incumbente_tipo,share_sozinho,share_com_incumbente_tipo
 PROJ_2024_01,SKU_120,4104,257,671,0.06262183235867447,0.16349902534113062
 PROJ_2024_02,SKU_094,1501,89,52,0.059293804130579615,0.034643570952698204
 PROJ_2024_03,SKU_124,1862,111,181,0.059613319011815255,0.09720730397422127

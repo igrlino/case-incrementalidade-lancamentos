@@ -1,25 +1,10 @@
-"""ROI incremental da inovação.
+"""Retorno do lançamento.
 
-Equação oficial proposta usa só variáveis observadas no case + parâmetros
-explícitos para custos NÃO presentes na base. Não imputamos P&D, estoque
-ou mídia de sustentação.
+    MB_inc = margem do novo + Δ margem da base antiga na célula
+    ROI_parcial = (MB_inc − mídia) / mídia
 
-Identidade:
-    MB_inc = MB_direto_lancamento + ΔMB_incumbentes_nicho
-
-    Custo_observado = investimento_mkt_rs
-
-    Custo_full = investimento_mkt_rs + C_pd + C_estoque + C_sustentacao
-                 (C_* entram como parâmetros, default 0 = "não informado")
-
-    ROI_parcial = (MB_inc - investimento_mkt_rs) / investimento_mkt_rs
-    ROI_full    = (MB_inc - Custo_full) / Custo_full
-
-Gate (só com janela mínima e ATT estimável):
-    VALUE_CREATOR  : MB_inc > 0 e ROI_parcial > hurdle
-    MIX_DESTROYER  : GMV_inc > 0 e MB_inc <= 0
-    CANNIBAL       : GMV_inc <= 0
-    INCONCLUSIVO   : sem pré-período, janela curta ou ATT não estimável
+P&D, estoque e mídia de sustentação não vêm na planilha. Entram como
+parâmetro (default 0 = não informado). Sem chute de custo 'típico'.
 """
 
 from __future__ import annotations
@@ -27,24 +12,63 @@ from __future__ import annotations
 import numpy as np
 import pandas as pd
 
-from .config import MIN_CYCLES_FOR_GATE, ROI_HURDLE_MIDIA
+from .config import CELL_KEYS, MIN_CYCLES_FOR_SELO, ROI_CORTE_MIDIA, ROI_MAX_CYCLES
+
+PAINEL_COLS = [
+    "id_projeto",
+    "cod_sku_lancamento",
+    "marca_std",
+    "subcategoria",
+    "faixa_preco",
+    "n_projetos_celula",
+    "att_status",
+    "n_post_roi",
+    "ciclos_expostos",
+    "janela_roi_incompleta",
+    "fit_rel_pre_gmv",
+    "fit_rel_pre_mb",
+    "placebo_pvalue_gmv",
+    "placebo_pvalue_mb",
+    "gmv",
+    "mb",
+    "gmv_spillover_alocado",
+    "mb_spillover_alocado",
+    "gmv_incremental",
+    "mb_incremental",
+    "investimento_mkt_rs",
+    "payback_parcial_midia",
+    "roi_parcial_midia",
+    "alerta_pouco_tempo",
+    "selo",
+]
+
+_SELO_STATUS = {
+    "sem_incumbente": "Não dá para medir: sem produto antigo na faixa",
+    "sem_pre_periodo_suficiente": "Não dá para medir: sem histórico antes do lançamento",
+    "ajuste_pre_fraco": "Não dá para medir: o espelho não colou",
+    "sem_doador": "Não dá para medir: sem tríade para comparar",
+    "sem_escala_pre": "Não dá para medir: base antiga sem venda no pré",
+    "incumbente_fora_antes_do_t0": "Não dá para medir: incumbente já tinha saído de linha",
+    "fora_da_janela_da_celula": "Não dá para medir: SKU nasceu depois da janela da célula",
+}
 
 
-def classify_gate(row: pd.Series) -> str:
-    if row["ciclos_expostos"] < MIN_CYCLES_FOR_GATE:
-        return "INCONCLUSIVO_JANELA"
+def _selo(row: pd.Series) -> str:
+    if row["ciclos_expostos"] < MIN_CYCLES_FOR_SELO:
+        return "Cedo demais: menos de 6 ciclos na prateleira"
     if pd.isna(row.get("mb_incremental")):
-        return "INCONCLUSIVO_IDENTIFICACAO"
-    gmv_inc = row.get("gmv_incremental")
-    mb_inc = row["mb_incremental"]
+        return _SELO_STATUS.get(row.get("att_status"), "Não dá para medir: motivo não classificado")
+    n_janela = row.get("n_post_roi")
+    if pd.notna(n_janela) and int(n_janela) < ROI_MAX_CYCLES:
+        return "Ano 1 incompleto"
+    if pd.notna(row.get("gmv_incremental")) and row["gmv_incremental"] <= 0:
+        return "Comeu a base"
+    if row["mb_incremental"] <= 0:
+        return "Piorou o mix"
     roi = row.get("roi_parcial_midia")
-    if pd.notna(gmv_inc) and gmv_inc <= 0:
-        return "CANNIBAL"
-    if mb_inc <= 0:
-        return "MIX_DESTROYER"
-    if pd.notna(roi) and roi > ROI_HURDLE_MIDIA:
-        return "VALUE_CREATOR"
-    return "ABAIXO_HURDLE"
+    if pd.notna(roi) and roi > ROI_CORTE_MIDIA:
+        return "Paga a mídia"
+    return "Não paga a mídia"
 
 
 def build_roi(
@@ -56,17 +80,10 @@ def build_roi(
 ) -> pd.DataFrame:
     g = projects_gmv.copy()
     m = projects_mb[["id_projeto", "spillover_alocado", "incremental_estimado"]].rename(
-        columns={
-            "spillover_alocado": "mb_spillover_alocado",
-            "incremental_estimado": "mb_incremental",
-        }
+        columns={"spillover_alocado": "mb_spillover_alocado", "incremental_estimado": "mb_incremental"}
     )
-    out = g.merge(m, on="id_projeto", how="left")
-    out = out.rename(
-        columns={
-            "spillover_alocado": "gmv_spillover_alocado",
-            "incremental_estimado": "gmv_incremental",
-        }
+    out = g.merge(m, on="id_projeto", how="left").rename(
+        columns={"spillover_alocado": "gmv_spillover_alocado", "incremental_estimado": "gmv_incremental"}
     )
     out["c_pd"] = custo_pd
     out["c_estoque"] = custo_estoque
@@ -83,10 +100,44 @@ def build_roi(
     )
     out["roi_full"] = np.where(
         out["custo_full_parametrizado"] > 0,
-        (out["mb_incremental"] - out["custo_full_parametrizado"])
-        / out["custo_full_parametrizado"],
+        (out["mb_incremental"] - out["custo_full_parametrizado"]) / out["custo_full_parametrizado"],
         np.nan,
     )
-    out["gate"] = out.apply(classify_gate, axis=1)
-    out["alerta_janela_curta"] = out["ciclos_expostos"] < 12
+    out["selo"] = out.apply(_selo, axis=1)
+    n_janela = pd.to_numeric(out.get("n_post_roi"), errors="coerce")
+    out["alerta_pouco_tempo"] = (out["ciclos_expostos"] < 12) | (
+        n_janela.notna() & (n_janela < ROI_MAX_CYCLES)
+    )
     return out
+
+
+def _diag_celula(att: pd.DataFrame, metric: str, cell_keys: tuple[str, ...]) -> pd.DataFrame:
+    cols = [
+        *cell_keys,
+        "fit_rel_pre",
+        "placebo_pvalue_rmspe_ratio",
+    ]
+    present = [c for c in cols if c in att.columns]
+    out = att.loc[att["metric"] == metric, present].drop_duplicates(list(cell_keys))
+    return out.rename(
+        columns={
+            "fit_rel_pre": f"fit_rel_pre_{metric}",
+            "placebo_pvalue_rmspe_ratio": f"placebo_pvalue_{metric}",
+        }
+    )
+
+
+def build_painel_comite(
+    roi: pd.DataFrame,
+    att: pd.DataFrame,
+    cell_keys: tuple[str, ...] = CELL_KEYS,
+) -> pd.DataFrame:
+    """Painel único por projeto: ROI + diagnóstico do espelho (GMV e MB) na célula."""
+    out = roi.copy()
+    if "n_projetos" in out.columns:
+        out = out.rename(columns={"n_projetos": "n_projetos_celula"})
+    for metric in ("gmv", "mb"):
+        diag = _diag_celula(att, metric, cell_keys)
+        out = out.merge(diag, on=list(cell_keys), how="left")
+    ordered = [c for c in PAINEL_COLS if c in out.columns]
+    return out[ordered]

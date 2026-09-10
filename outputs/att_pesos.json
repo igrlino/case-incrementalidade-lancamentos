@@ -1,83 +1,148 @@
 [
   {
     "marca_std": "Eudora",
-    "subcategoria": "Condicionador",
+    "subcategoria": "Máscara",
+    "faixa_preco": "P1",
     "pesos": {
-      "Eudora|Óleo Corporal": 0.9582496189509181,
-      "O Boticário|Óleo Corporal": 0.04175038104908186
-    }
-  },
-  {
-    "marca_std": "Eudora",
-    "subcategoria": "Hidratante Corporal",
-    "pesos": {
-      "O Boticário|Colônia Infantil": 0.671108719058616,
-      "O Boticário|Hidratante Corporal": 0.19032264518396244,
-      "O Boticário|Sérum": 0.13856863575742132
+      "Eudora|Hidratante Corporal|P6": 0.045988404081862305,
+      "Eudora|Perfume Masculino|P2": 0.07971408068167342,
+      "Eudora|Óleo Corporal|P1": 0.02265023926517137,
+      "Eudora|Óleo Corporal|P5": 0.08992630660762693,
+      "O Boticário|Shampoo|P3": 0.7258404216540034,
+      "O Boticário|Óleo Corporal|P5": 0.01712114497130132
     }
   },
   {
     "marca_std": "Eudora",
     "subcategoria": "Máscara",
+    "faixa_preco": "P3",
     "pesos": {
-      "Eudora|Óleo Corporal": 0.30619082068362774,
-      "O Boticário|Condicionador": 0.23487292398586704,
-      "O Boticário|Hidratante Corporal": 0.2793602403230364,
-      "O Boticário|Sérum": 0.1651405962611628,
-      "O Boticário|Óleo Corporal": 0.011337304307615525
+      "Eudora|Sérum|P1": 0.040931761304427564,
+      "Eudora|Óleo Corporal|P5": 0.0753857198859655,
+      "O Boticário|Colônia Infantil|P5": 0.09890630379848953,
+      "O Boticário|Condicionador|P3": 0.31224690664875804,
+      "O Boticário|Shampoo|P3": 0.0958704193172189,
+      "O Boticário|Shampoo|P6": 0.19994648447674981,
+      "O Boticário|Sérum|P4": 0.16833337649802183
     }
   },
   {
     "marca_std": "Eudora",
     "subcategoria": "Perfume Feminino",
+    "faixa_preco": "P1",
     "pesos": {
-      "O Boticário|Perfume Masculino": 0.6179666095443015,
-      "O Boticário|Óleo Corporal": 0.38203339045569845
+      "Eudora|Hidratante Corporal|P5": 0.3419833913721928,
+      "Eudora|Máscara|P5": 0.0632020319812966,
+      "Eudora|Óleo Corporal|P5": 0.05303805475448572,
+      "O Boticário|Shampoo|P3": 0.08387677406870131,
+      "O Boticário|Shampoo|P4": 0.43327116908906965,
+      "O Boticário|Óleo Corporal|P5": 0.015611218384323566
     }
   },
   {
     "marca_std": "Eudora",
     "subcategoria": "Perfume Masculino",
+    "faixa_preco": "P1",
     "pesos": {
-      "O Boticário|Colônia Infantil": 0.6138930653199456,
-      "O Boticário|Hidratante Corporal": 0.08529464776597523,
-      "O Boticário|Óleo Corporal": 0.30081228691407913
+      "Eudora|Hidratante Corporal|P6": 0.11261524970177178,
+      "Eudora|Óleo Corporal|P2": 0.28381929738540346,
+      "O Boticário|Colônia Infantil|P5": 0.12601467981519107,
+      "O Boticário|Máscara|P4": 0.29933180437788603,
+      "O Boticário|Shampoo|P3": 0.17821896871974738
     }
   },
   {
     "marca_std": "Eudora",
-    "subcategoria": "Sabonete Líquido",
+    "subcategoria": "Perfume Masculino",
+    "faixa_preco": "P3",
     "pesos": {
-      "O Boticário|Condicionador": 0.3960496112383016,
-      "O Boticário|Shampoo": 0.6039503887616983
+      "Eudora|Condicionador|P4": 0.40201600691243733,
+      "Eudora|Hidratante Corporal|P5": 0.5335637877495581,
+      "Eudora|Perfume Feminino|P2": 0.025285378491472797,
+      "O Boticário|Sérum|P4": 0.03913482684652875
     }
   },
   {
     "marca_std": "Eudora",
-    "subcategoria": "Sérum",
+    "subcategoria": "Perfume Masculino",
+    "faixa_preco": "P4",
     "pesos": {
-      "Eudora|Óleo Corporal": 0.20980696048807268,
-      "O Boticário|Perfume Masculino": 0.04373238213575322,
-      "O Boticário|Óleo Corporal": 0.746460657376174
+      "Eudora|Hidratante Corporal|P5": 0.17031405024491705,
+      "Eudora|Sabonete Líquido|P4": 0.18828071860525106,
+      "Eudora|Sérum|P1": 0.06031174988914488,
+      "Eudora|Óleo Corporal|P2": 0.381365762657307,
+      "O Boticário|Colônia Infantil|P5": 0.01157028293551834,
+      "O Boticário|Hidratante Corporal|P6": 0.12229717675886674,
+      "O Boticário|Shampoo|P3": 0.056394162982133594
+    }
+  },
+  {
+    "marca_std": "Eudora",
+    "subcategoria": "Shampoo",
+    "faixa_preco": "P5",
+    "pesos": {
+      "Eudora|Condicionador|P1": 0.03949698398174136,
+      "Eudora|Condicionador|P4": 0.03522891277050421,
+      "Eudora|Perfume Feminino|P2": 0.01005014755721337,
+      "Eudora|Óleo Corporal|P4": 0.12957615890579818,
+      "O Boticário|Colônia Infantil|P5": 0.10527048299933982,
+      "O Boticário|Condicionador|P4": 0.1436996327218319,
+      "O Boticário|Hidratante Corporal|P5": 0.079844494730271,
+      "O Boticário|Hidratante Corporal|P6": 0.019896681566257617,
+      "O Boticário|Perfume Masculino|P2": 0.1510980733437761,
+      "O Boticário|Shampoo|P4": 0.06484617258881821,
+      "O Boticário|Shampoo|P5": 0.1333207651312847,
+      "O Boticário|Óleo Corporal|P2": 0.050833274238429274,
+      "O Boticário|Óleo Corporal|P4": 0.024241209189720805,
+      "O Boticário|Óleo Corporal|P5": 0.012597010275012777
     }
   },
   {
     "marca_std": "O Boticário",
     "subcategoria": "Máscara",
+    "faixa_preco": "P1",
     "pesos": {
-      "O Boticário|Colônia Infantil": 0.15415156949025402,
-      "O Boticário|Condicionador": 0.845848430509746
+      "Eudora|Máscara|P5": 0.11439936786729689,
+      "Eudora|Sérum|P1": 0.019323962036893176,
+      "Eudora|Óleo Corporal|P2": 0.1536584331482671,
+      "Eudora|Óleo Corporal|P5": 0.0979435610133773,
+      "O Boticário|Máscara|P4": 0.11089340012538003,
+      "O Boticário|Perfume Feminino|P4": 0.2106228546058036,
+      "O Boticário|Perfume Masculino|P2": 0.26345602111502375,
+      "O Boticário|Shampoo|P4": 0.02970240008795721
     }
   },
   {
     "marca_std": "O Boticário",
     "subcategoria": "Sabonete Líquido",
+    "faixa_preco": "P2",
     "pesos": {
-      "Eudora|Óleo Corporal": 0.023899607531782788,
-      "O Boticário|Condicionador": 0.21706511407228643,
-      "O Boticário|Perfume Masculino": 0.1350147600421313,
-      "O Boticário|Shampoo": 0.572276745843982,
-      "O Boticário|Óleo Corporal": 0.05174377250981745
+      "Eudora|Hidratante Corporal|P6": 0.12792484870580959,
+      "Eudora|Perfume Feminino|P2": 0.013150516804098155,
+      "Eudora|Sabonete Líquido|P4": 0.3244230533342604,
+      "O Boticário|Condicionador|P4": 0.053228791412178456,
+      "O Boticário|Hidratante Corporal|P6": 0.14548229981160588,
+      "O Boticário|Perfume Feminino|P2": 0.02588974093875288,
+      "O Boticário|Perfume Masculino|P2": 0.11173700112972179,
+      "O Boticário|Perfume Masculino|P6": 0.04612362077466294,
+      "O Boticário|Shampoo|P4": 0.09048374394718865,
+      "O Boticário|Sérum|P4": 0.05275647747165618
+    }
+  },
+  {
+    "marca_std": "O Boticário",
+    "subcategoria": "Sabonete Líquido",
+    "faixa_preco": "P6",
+    "pesos": {
+      "Eudora|Condicionador|P4": 0.0643296909840306,
+      "Eudora|Perfume Feminino|P2": 0.01846108368854461,
+      "O Boticário|Colônia Infantil|P5": 0.05361570738216881,
+      "O Boticário|Hidratante Corporal|P1": 0.03259820991749639,
+      "O Boticário|Perfume Feminino|P2": 0.021402875689682948,
+      "O Boticário|Perfume Masculino|P2": 0.03322914976248082,
+      "O Boticário|Shampoo|P5": 0.14322922886315692,
+      "O Boticário|Shampoo|P6": 0.4071060631434749,
+      "O Boticário|Óleo Corporal|P2": 0.22099861667594226
     }
   }
 ]

@@ -1,9 +1,37 @@
-marca_std,subcategoria,n_project,n_incumbent
-Eudora,Óleo Corporal,0,6
-O Boticário,Colônia Infantil,0,4
-O Boticário,Condicionador,0,3
-O Boticário,Hidratante Corporal,0,4
-O Boticário,Perfume Masculino,0,6
-O Boticário,Shampoo,0,5
-O Boticário,Sérum,0,1
-O Boticário,Óleo Corporal,0,3
+marca_std,subcategoria,faixa_preco,n_project,n_incumbent
+Eudora,Condicionador,P1,0,1
+Eudora,Condicionador,P4,0,1
+Eudora,Hidratante Corporal,P5,0,2
+Eudora,Hidratante Corporal,P6,0,1
+Eudora,Máscara,P5,0,1
+Eudora,Perfume Feminino,P2,0,1
+Eudora,Perfume Masculino,P2,0,1
+Eudora,Perfume Masculino,P5,0,1
+Eudora,Sabonete Líquido,P4,0,1
+Eudora,Sérum,P1,0,2
+Eudora,Óleo Corporal,P1,0,1
+Eudora,Óleo Corporal,P2,0,1
+Eudora,Óleo Corporal,P4,0,2
+Eudora,Óleo Corporal,P5,0,1
+Eudora,Óleo Corporal,P6,0,1
+O Boticário,Colônia Infantil,P3,0,3
+O Boticário,Colônia Infantil,P5,0,1
+O Boticário,Condicionador,P3,0,2
+O Boticário,Condicionador,P4,0,1
+O Boticário,Hidratante Corporal,P1,0,1
+O Boticário,Hidratante Corporal,P5,0,2
+O Boticário,Hidratante Corporal,P6,0,1
+O Boticário,Máscara,P4,0,1
+O Boticário,Perfume Feminino,P2,0,2
+O Boticário,Perfume Feminino,P4,0,2
+O Boticário,Perfume Masculino,P1,0,2
+O Boticário,Perfume Masculino,P2,0,1
+O Boticário,Perfume Masculino,P6,0,3
+O Boticário,Shampoo,P3,0,1
+O Boticário,Shampoo,P4,0,1
+O Boticário,Shampoo,P5,0,2
+O Boticário,Shampoo,P6,0,1
+O Boticário,Sérum,P4,0,1
+O Boticário,Óleo Corporal,P2,0,1
+O Boticário,Óleo Corporal,P4,0,1
+O Boticário,Óleo Corporal,P5,0,1

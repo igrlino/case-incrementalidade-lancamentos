@@ -1,4 +1,4 @@
-"""Raiz do case — usada pelos notebooks (cwd irrelevante)."""
+"""Raiz do case para os notebooks (cwd irrelevante)."""
 
 from __future__ import annotations
 
@@ -12,3 +12,6 @@ def case_root() -> Path:
     if src not in sys.path:
         sys.path.insert(0, src)
     return root
+
+
+case_root()
